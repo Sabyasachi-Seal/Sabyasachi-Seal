@@ -1,3 +1,9 @@
+<div align="center" >
+<img src="./dino_rounded.gif" href="https://github.com/Sabyasachi-Seal" />
+</div>
+
+<hr>
+
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/pik1989/pik1989/main/Images/Hi.gif" width="40px" />, I'm <a target="blank" href="https://sabyasachiseal.com">Sabyasachi Seal </a></h1>
 
 <p align="center">
