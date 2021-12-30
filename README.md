@@ -4,7 +4,7 @@
 
 <hr>
 
-<h1 align="center">Hi <img src="https://github.com/Sabyasachi-Seal/Sabyasachi-Seal/blob/main/img/Hi.gif" width="40px" />, I'm <a target="blank" href="https://sabyasachiseal.com">Sabyasachi Seal </a></h1>
+<h1 align="center"><img src="https://github.com/Sabyasachi-Seal/Sabyasachi-Seal/blob/main/img/Hi.gif" width="40px" />I'm </h1>
 
 <p align="center">
     <a href="https://github.com/Sabyasachi-Seal">
