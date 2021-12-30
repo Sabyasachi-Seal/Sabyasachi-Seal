@@ -2,7 +2,7 @@
 </a></h1>
 
 <p align="center">
-  <a href="https://github.com/Sabyasachi-Seal"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=28&center=true&vCenter=true&lines=Cloud+Computing+Enthusiast;Cybersecurity+Passionate;Data+Science+Practitioner;AI+%26+ML+Enthusiast;Tech+Blogger"></a>
+  <a href="https://github.com/Sabyasachi-Seal"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=28&center=true&vCenter=true&lines=CloudComputing+Enthusiast;Cybersecurity+Passionate;Data+Science+Passionate;AI+%26+ML+Enthusiast;Tech+Blogger"></a>
 </p>
 
 <img align="right" alt="Coding" width="400" height="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
