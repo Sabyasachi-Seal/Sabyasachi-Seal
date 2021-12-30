@@ -9,9 +9,9 @@
 
 - 👯 I’m looking to collaborate on **Data Science/AI Projects**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Sabyasachi-Seal/](https://github.com/Sabyasachi-Seal/)
+- 👨‍💻 All of my projects are available at [My Github](My Github)
 
-- 📝 I regularly write articles on [https://medium.com/@yoboy907](https://medium.com/@yoboy907)
+- 📝 I regularly write articles on [Medium](Medium)
 
 - 💬 Ask me about **Anything Related to Tech**
 
