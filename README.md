@@ -1,5 +1,5 @@
 <div align="center" >
-<img src="https://github.com/Sabyasachi-Seal/Sabyasachi-Seal/blob/main/img/dino_rounded.gif" href="https://github.com/Sabyasachi-Seal" />
+<img src="https://github.com/Sabyasachi-Seal/Sabyasachi-Seal/blob/main/img/action.gif" href="https://github.com/Sabyasachi-Seal" />
 </div>
 
 <hr>
