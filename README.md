@@ -11,15 +11,15 @@
 <br>
 <!--<h1 align="center">About Me</h1>-->
 
-<p align="left">🌱 I’m mostly interested in
+<p align="center">🌱 I’m mostly interested in
   <a href="https://github.com/Sabyasachi-Seal"><img src="https://readme-typing-svg.herokuapp.com?color=%23F7723B&size=18&center=false&vCenter=true&lines=Cloud+Computing;CyberSecurity;Data+Science;Artificial+Intelligence"></a>
 </p>
 
-<p align="left">👯 I’m looking to collaborate on
+<p align="center">👯 I’m looking to collaborate on
   <a href="https://github.com/Sabyasachi-Seal"><img src="https://readme-typing-svg.herokuapp.com?color=%23F7D156&size=18&center=false&vCenter=true&lines=Data+Science+Projects;AI+Projects;Web+Apps;Cloud+Deployment"></a>
 </p>
 
-<p align="left">💬 Ask me about all of
+<p align="center">💬 Ask me about all of
   <a href="https://github.com/Sabyasachi-Seal"><img src="https://readme-typing-svg.herokuapp.com?color=%2349F725&size=18&center=false&vCenter=true&lines=Projects;Upcoming+Tech;Events;Anything"></a>
 </p>
 
@@ -77,18 +77,18 @@
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://linkedin.com/in/sabyasachi-seal-4461711bb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sabyasachi-seal-4461711bb" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/sabyasachi-seal-4461711bb" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sabyasachi-seal-4461711bb" height="30" width="40" /></a>
 &nbsp;
-<a href="https://www.instagram.com/sabyasachi_seal/" target="blank"><img align="center"src="https://cdn.iconscout.com/icon/free/png-64/instagram-216-721958.png" alt="instagram" height="40" width="40" /></a>
+<a href="https://www.instagram.com/sabyasachi_seal/" target="_blank"><img align="center"src="https://cdn.iconscout.com/icon/free/png-64/instagram-216-721958.png" alt="instagram" height="40" width="40" /></a>
 &nbsp;
-<a href="https://www.facebook.com/people/Sabyasachi-Seal/100006271094830/" target="blank"><img align="center" src="https://cdn.iconscout.com/icon/free/png-64/facebook-2038471-1718509.png" alt="facebook" height="40" width="40" /></a>
+<a href="https://www.facebook.com/people/Sabyasachi-Seal/100006271094830/" target="_blank"><img align="center" src="https://cdn.iconscout.com/icon/free/png-64/facebook-2038471-1718509.png" alt="facebook" height="40" width="40" /></a>
 </p>
 
 
 
 <h3 align="center">Or Drop A Mail At:</h3>
 <p align="center">
-  <a href="mailto:iam.sabyasachi.seal@gmail.com" target="blank"><img src="https://readme-typing-svg.herokuapp.com?color=%235BF3F7&size=18&center=true&vCenter=true&lines=iam.sabyasachi.seal%40gmail.com"></a>
+  <a href="mailto:iam.sabyasachi.seal@gmail.com" target="_blank"><img src="https://readme-typing-svg.herokuapp.com?color=%235BF3F7&size=18&center=true&vCenter=true&lines=iam.sabyasachi.seal%40gmail.com"></a>
 </p>
 
 <hr>
