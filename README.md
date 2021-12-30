@@ -12,28 +12,31 @@
     </a>
 </p>
 
-<img align="right" alt="Coding" width="400" height="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+<hr/>
 
-<hr />
-<br />
-<!--<h1 align="center">About Me</h1>-->
+<img align="right" alt="Coding" height=300 src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+
 
 <p align="center">
     🌱 I’m mostly interested in
-    <a href="https://github.com/Sabyasachi-Seal"><img src="https://readme-typing-svg.herokuapp.com?color=%23F7723B&size=18&center=true&vCenter=true&lines=Cloud+Computing;CyberSecurity;Data+Science;Artificial+Intelligence" /></a>
+    <a href="https://github.com/Sabyasachi-Seal"><img align="center" src="https://readme-typing-svg.herokuapp.com?color=%23F7723B&size=18&center=true&vCenter=true&lines=Cloud+Computing;CyberSecurity;Data+Science;Artificial+Intelligence" /></a>
 </p>
+
+<br>
 
 <p align="center">
     👯 I’m looking to collaborate on
-    <a href="https://github.com/Sabyasachi-Seal"><img src="https://readme-typing-svg.herokuapp.com?color=%23F7D156&size=18&center=true&vCenter=true&lines=Data+Science+Projects;AI+Projects;Web+Apps;Cloud+Deployment" /></a>
+    <a href="https://github.com/Sabyasachi-Seal"><img align="center" src="https://readme-typing-svg.herokuapp.com?color=%23F7D156&size=18&center=true&vCenter=true&lines=Data+Science+Projects;AI+Projects;Web+Apps;Cloud+Deployment" /></a>
 </p>
+
+<br>
 
 <p align="center">
     💬 Talk to me all about
-    <a href="https://github.com/Sabyasachi-Seal"><img src="https://readme-typing-svg.herokuapp.com?color=%2349F725&size=18&center=true&vCenter=true&lines=Projects;Upcoming+Tech;Events;Anything+Technical" /></a>
+    <a href="https://github.com/Sabyasachi-Seal"><img align="center" src="https://readme-typing-svg.herokuapp.com?color=%2349F725&size=18&center=true&vCenter=true&lines=Projects;Upcoming+Tech;Events;Anything+Technical" /></a>
 </p>
 
-<hr />
+<hr>
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
@@ -71,7 +74,7 @@
     <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40" /> </a>
 </p>
 
-<hr />
+<hr/>
 
 <h3 align="center">My Stats:</h3>
 
