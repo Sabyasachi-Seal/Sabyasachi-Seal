@@ -95,20 +95,25 @@
 
 <hr />
 
+<img align="right" alt="Coding" height=200 src="https://github.com/Sabyasachi-Seal/Sabyasachi-Seal/blob/main/img/connected.gif" />
+
+<img align="left" alt="Coding" height=200 src="https://github.com/Sabyasachi-Seal/Sabyasachi-Seal/blob/main/img/code.gif" />
+
 <h3 align="center">Connect with me:</h3>
+
 <p align="center">
     <a href="https://linkedin.com/in/sabyasachi-seal-4461711bb" target="_blank">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sabyasachi-seal-4461711bb" height="30" width="40" />
     </a>
-    &nbsp;
+    &nbsp;&nbsp;&nbsp;
     <a href="https://www.instagram.com/sabyasachi_seal/" target="_blank"><img align="center" src="https://cdn.iconscout.com/icon/free/png-64/instagram-216-721958.png" alt="instagram" height="40" width="40" /></a>
-    &nbsp;
+    &nbsp;&nbsp;&nbsp;
     <a href="https://www.facebook.com/people/Sabyasachi-Seal/100006271094830/" target="_blank"><img align="center" src="https://cdn.iconscout.com/icon/free/png-64/facebook-2038471-1718509.png" alt="facebook" height="40" width="40" /></a>
 </p>
 
-<h3 align="center">Or Drop A Mail At:</h3>
+<h3 align="center">Or Drop Me a Mail:</h3>
 <p align="center">
-    <a href="mailto:iam.sabyasachi.seal@gmail.com" target="_blank"><img src="https://readme-typing-svg.herokuapp.com?color=%235BF3F7&size=18&center=true&vCenter=true&lines=iam.sabyasachi.seal%40gmail.com" /></a>
+    <a href="mailto:iam.sabyasachi.seal@gmail.com" target="_blank"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=250&lines=iam.sabyasachi.seal" /></a>
 </p>
 
 <hr />
