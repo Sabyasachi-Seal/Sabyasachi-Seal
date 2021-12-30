@@ -12,15 +12,15 @@
 <!--<h1 align="center">About Me</h1>-->
 
 <p align="center">🌱 I’m mostly interested in
-  <a href="https://github.com/Sabyasachi-Seal"><img src="https://readme-typing-svg.herokuapp.com?color=%23F7723B&size=18&center=false&vCenter=true&lines=Cloud+Computing;CyberSecurity;Data+Science;Artificial+Intelligence"></a>
+  <a href="https://github.com/Sabyasachi-Seal"><img src="https://readme-typing-svg.herokuapp.com?color=%23F7723B&size=18&center=true&vCenter=true&lines=Cloud+Computing;CyberSecurity;Data+Science;Artificial+Intelligence"></a>
 </p>
 
 <p align="center">👯 I’m looking to collaborate on
-  <a href="https://github.com/Sabyasachi-Seal"><img src="https://readme-typing-svg.herokuapp.com?color=%23F7D156&size=18&center=false&vCenter=true&lines=Data+Science+Projects;AI+Projects;Web+Apps;Cloud+Deployment"></a>
+  <a href="https://github.com/Sabyasachi-Seal"><img src="https://readme-typing-svg.herokuapp.com?color=%23F7D156&size=18&center=true&vCenter=true&lines=Data+Science+Projects;AI+Projects;Web+Apps;Cloud+Deployment"></a>
 </p>
 
 <p align="center">💬 Ask me about all of
-  <a href="https://github.com/Sabyasachi-Seal"><img src="https://readme-typing-svg.herokuapp.com?color=%2349F725&size=18&center=false&vCenter=true&lines=Projects;Upcoming+Tech;Events;Anything"></a>
+  <a href="https://github.com/Sabyasachi-Seal"><img src="https://readme-typing-svg.herokuapp.com?color=%2349F725&size=18&center=true&vCenter=true&lines=Projects;Upcoming+Tech;Events;Anything"></a>
 </p>
 
 <hr>
