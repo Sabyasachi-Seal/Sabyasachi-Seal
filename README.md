@@ -9,7 +9,7 @@
 
 <p align="center">
     <a href="https://github.com/Sabyasachi-Seal">
-        <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=28&center=true&vCenter=true&lines=Cloud+Enthusiast;Cybersecurity+Passionate;Data+Science+Passionate;AI+%26+ML+Enthusiast;Tech+Blogger" />
+        <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=28&center=true&vCenter=true&width=900&lines=Cloud+Enthusiast;Cybersecurity+Passionate;Data+Science+Passionate;AI+%26+ML+Enthusiast;Tech+Blogger" />
     </a>
 </p>
 
@@ -74,7 +74,7 @@
 
 <div align="center">
     <a href="https://github.com/Sabyasachi-Seal">
-        <img align="center" src="https://github-readme-stats.vercel.app/api?username=sabyasachi-seal&show_icons=true&locale=en&langs_count=20&theme=highcontrast&layout=compact" />
+        <img align="center" src="https://github-readme-stats.vercel.app/api?username=sabyasachi-seal&show_icons=true&locale=en&langs_count=20&count_private=true&theme=highcontrast&layout=compact" />
     </a>
 </div>
 
