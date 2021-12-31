@@ -9,7 +9,7 @@
 
 <p align="center">
     <a href="https://github.com/Sabyasachi-Seal">
-        <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=28&center=true&vCenter=true&width=900&lines=Cloud+Computing+Enthusiast;Cybersecurity+Passionate;Data+Science+Practitioner;AI+%26+ML+Enthusiast;Tech+Blogger" />
+        <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=35&center=true&vCenter=true&width=900&lines=Cloud+Computing+Enthusiast;Cybersecurity+Passionate;Data+Science+Practitioner;AI+%26+ML+Enthusiast;Tech+Blogger" />
     </a>
 </p>
 
@@ -20,7 +20,7 @@
 <a href="https://github.com/Sabyasachi-Seal"><img align="right" alt="Coding" height=300 src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" /></a>
 🌱 I’m mostly interested in<br>
 <a href="https://github.com/Sabyasachi-Seal">
-<img align="center" src="https://readme-typing-svg.herokuapp.com?color=%23F78240&center=true&vCenter=true&width=250&height=75&lines=Cloud+Computing;CyberSecurity;Data+Science;Artificial+Intelligence" /></a>
+<img align="center" src="https://readme-typing-svg.herokuapp.com?color=%23F78240&center=true&vCenter=true&width=250&height=75&lines=Cloud+Computing;CyberSecurity;Data+Science;AI+ML" /></a>
 <br>👯 I’m looking to collaborate on<br>
 <a href="https://github.com/Sabyasachi-Seal">
 <img align="center" src="https://readme-typing-svg.herokuapp.com?color=%23F7BB45&center=true&vCenter=true&width=250&height=75&lines=Data+Science;AI+Projects;Web+Apps;Cloud+Deployment;Social+Media+Bots" /></a>
