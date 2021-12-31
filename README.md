@@ -1,5 +1,6 @@
 <div align="center" >
-<img src="https://github.com/Sabyasachi-Seal/Sabyasachi-Seal/blob/main/img/action.gif" href="https://github.com/Sabyasachi-Seal" />
+<a href="https://github.com/Sabyasachi-Seal">
+<img src="https://github.com/Sabyasachi-Seal/Sabyasachi-Seal/blob/main/img/action.gif" href="https://github.com/Sabyasachi-Seal" /></a>
 </div>
 
 <hr>
@@ -12,28 +13,21 @@
     </a>
 </p>
 
-<hr/>
+<hr>
 
+
+<p align="center">
 <img align="right" alt="Coding" height=300 src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+🌱 I’m mostly interested in<br>
+<a href="https://github.com/Sabyasachi-Seal">
+<img align="center" src="https://readme-typing-svg.herokuapp.com?color=%23F78240&center=true&vCenter=true&width=250&height=75&lines=Cloud+Computing;CyberSecurity;Data+Science;Artificial+Intelligence" /></a>
+<br>👯 I’m looking to collaborate on<br>
+<a href="https://github.com/Sabyasachi-Seal">
+<img align="center" src="https://readme-typing-svg.herokuapp.com?color=%23F7BB45&center=true&vCenter=true&width=250&height=75&lines=Data+Science;AI+Projects;Web+Apps;Cloud+Deployment;Social+Media+Bots" /></a>
+<br>💬 Talk to me all about<br>
+<a href="https://github.com/Sabyasachi-Seal">
+<img align="center" src="https://readme-typing-svg.herokuapp.com?color=%234AF736&center=true&vCenter=true&width=250&height=75&lines=My+Projects;Upcoming+Events;New+Technology;New+Ideas;Anything+Technical" /></a>
 
-
-<p align="center">
-    🌱 I’m mostly interested in
-    <a href="https://github.com/Sabyasachi-Seal"><img align="center" src="https://readme-typing-svg.herokuapp.com?color=%23F7723B&size=18&center=true&vCenter=true&lines=Cloud+Computing;CyberSecurity;Data+Science;Artificial+Intelligence" /></a>
-</p>
-
-<br>
-
-<p align="center">
-    👯 I’m looking to collaborate on
-    <a href="https://github.com/Sabyasachi-Seal"><img align="center" src="https://readme-typing-svg.herokuapp.com?color=%23F7D156&size=18&center=true&vCenter=true&lines=Data+Science+Projects;AI+Projects;Web+Apps;Cloud+Deployment" /></a>
-</p>
-
-<br>
-
-<p align="center">
-    💬 Talk to me all about
-    <a href="https://github.com/Sabyasachi-Seal"><img align="center" src="https://readme-typing-svg.herokuapp.com?color=%2349F725&size=18&center=true&vCenter=true&lines=Projects;Upcoming+Tech;Events;Anything+Technical" /></a>
 </p>
 
 <hr>
@@ -74,7 +68,7 @@
     <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40" /> </a>
 </p>
 
-<hr/>
+<hr>
 
 <h3 align="center">My Stats:</h3>
 
@@ -96,7 +90,7 @@
 
 <img alt="DenverCoder1's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=sabyasachi-seal&theme=react-dark" />
 
-<hr />
+<hr>
 
 <img align="right" alt="Coding" height=200 src="https://github.com/Sabyasachi-Seal/Sabyasachi-Seal/blob/main/img/connected.gif" />
 
@@ -119,4 +113,4 @@
     <a href="mailto:iam.sabyasachi.seal@gmail.com" target="_blank"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=250&lines=iam.sabyasachi.seal" /></a>
 </p>
 
-<hr />
+<hr>
