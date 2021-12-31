@@ -9,7 +9,7 @@
 
 <p align="center">
     <a href="https://github.com/Sabyasachi-Seal">
-        <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=28&center=true&vCenter=true&width=900&lines=Cloud+Enthusiast;Cybersecurity+Passionate;Data+Science+Passionate;AI+%26+ML+Enthusiast;Tech+Blogger" />
+        <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=28&center=true&vCenter=true&width=900&lines=Cloud+Computing+Enthusiast;Cybersecurity+Passionate;Data+Science+Practitioner;AI+%26+ML+Enthusiast;Tech+Blogger" />
     </a>
 </p>
 
@@ -71,7 +71,7 @@
 <hr>
 <div align="center">
         <a href="https://github.com/Sabyasachi-Seal">
-        <img align="center" src="https://img.shields.io/github/last-commit/Sabyasachi-Seal/Sabyasachi-Seal?logo=github&logoColor=white&style=for-the-badge"/>
+        <img align="center" src="https://img.shields.io/github/last-commit/Sabyasachi-Seal/Sabyasachi-Seal?color=blueviolet&logo=github&style=for-the-badge"/>
     </a>
         <a href="https://sabyasachiseal.me">
             <img align="center" src="https://img.shields.io/website?down_color=red&down_message=DOWN&label=My%20Website&logo=Github&style=for-the-badge&up_message=RUNNING&url=https%3A%2F%2Fsabyasachiseal.me" />
