@@ -17,7 +17,7 @@
 
 
 <p align="center">
-<img align="right" alt="Coding" height=300 src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+<a href="https://github.com/Sabyasachi-Seal"><img align="right" alt="Coding" height=300 src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" /></a>
 🌱 I’m mostly interested in<br>
 <a href="https://github.com/Sabyasachi-Seal">
 <img align="center" src="https://readme-typing-svg.herokuapp.com?color=%23F78240&center=true&vCenter=true&width=250&height=75&lines=Cloud+Computing;CyberSecurity;Data+Science;Artificial+Intelligence" /></a>
@@ -73,7 +73,7 @@
 <h3 align="center">My Stats:</h3>
 
 <div align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats">
+    <a href="https://github.com/Sabyasachi-Seal">
         <img align="center" src="https://github-readme-stats.vercel.app/api?username=sabyasachi-seal&show_icons=true&locale=en&langs_count=20&theme=highcontrast&layout=compact" />
     </a>
 </div>
@@ -81,20 +81,20 @@
 <br />
 
 <div align="center">
-    <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
+    <a href="https://github.com/Sabyasachi-Seal">
         <img align="center" src="https://github-profile-trophy.vercel.app/?username=sabyasachi-seal&theme=onedark&no-frame=true" alt="zumrudu-anka" />
     </a>
 </div>
 
 <br />
-
-<img alt="DenverCoder1's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=sabyasachi-seal&theme=react-dark" />
+<a href="https://github.com/Sabyasachi-Seal">
+<img alt="DenverCoder1's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=sabyasachi-seal&theme=react-dark" /></a>
 
 <hr>
-
+<a href="https://github.com/Sabyasachi-Seal">
 <img align="right" alt="Coding" height=200 src="https://github.com/Sabyasachi-Seal/Sabyasachi-Seal/blob/main/img/connected.gif" />
 
-<img align="left" alt="Coding" height=200 src="https://github.com/Sabyasachi-Seal/Sabyasachi-Seal/blob/main/img/code.gif" />
+<img align="left" alt="Coding" height=200 src="https://github.com/Sabyasachi-Seal/Sabyasachi-Seal/blob/main/img/code.gif" /></a>
 
 <h3 align="center">Connect with me:</h3>
 
