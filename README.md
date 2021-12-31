@@ -78,10 +78,10 @@
     </a>
         <a href="https://www.linkedin.com/in/sabyasachi-seal-4461711bb/">
             <img align="center" src="https://img.shields.io/badge/-Connect-orange?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sabyasachi-seal-4461711bb/)](https://www.linkedin.com/in/sabyasachi-seal-4461711bb/"/>
-    </a>
+    <!--</a>
         <a href="https://github.com/Sabyasachi-Seal">
         <img align="center" src="https://img.shields.io/github/stars/Sabyasachi-Seal?color=blueviolet&logo=Github&style=for-the-badge"/>
-    </a>
+    </a>-->
         <a href="https://www.qwiklabs.com/public_profiles/e3e3af1f-e2c8-48b5-ae19-175dee7b6ef5">
             <img align="center" src="https://img.shields.io/badge/-GCP Badges-ff69b4?style=for-the-badge&logo=googlecloud&logoColor=white&link=https://www.qwiklabs.com/public_profiles/e3e3af1f-e2c8-48b5-ae19-175dee7b6ef5"/>
     </a>
