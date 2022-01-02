@@ -71,7 +71,7 @@
 <hr>
 <div align="center">
         <a href="https://github.com/Sabyasachi-Seal">
-        <img align="center" src="https://img.shields.io/github/last-commit/Sabyasachi-Seal/Sabyasachi-Seal?color=blueviolet&label=Last%20Commit%3A&logo=github&style=for-the-badge"/>
+        <img align="center" src="https://img.shields.io/github/last-commit/Sabyasachi-Seal/Sabyasachi-Seal?color=blueviolet&label=Last%20Commit&logo=github&style=for-the-badge"/>
     </a>
         <a href="https://sabyasachiseal.me">
             <img align="center" src="https://img.shields.io/website?down_color=red&down_message=DOWN&label=My%20Website&logo=Github&style=for-the-badge&up_message=RUNNING&url=https%3A%2F%2Fsabyasachiseal.me" />
