@@ -94,21 +94,29 @@
 <h3 align="center">My Stats:</h3>
 <div align="center">
     <a href="https://github.com/Sabyasachi-Seal">
-        <img align="center" src="https://github-readme-stats.vercel.app/api?username=sabyasachi-seal&show_icons=true&locale=en&langs_count=20&count_private=true&theme=highcontrast&layout=compact" />
+        <img align="center" src="https://github-readme-stats.vercel.app/api?username=sabyasachi-seal&show_icons=true&locale=en&langs_count=20&count_private=true&theme=radical&layout=compact" />
     </a>
 </div>
 
 <br />
-
+<div align="center">
+    <a href="https://github.com/Sabyasachi-Seal">
+        <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Sabyasachi-Seal&theme=neon-dark&date_format=M%20j%5B%2C%20Y%5D" alt="sabyasachi-seal" />
+    </a>
+</div>
+    
+<br/>
+    
 <div align="center">
     <a href="https://github.com/Sabyasachi-Seal">
         <img align="center" src="https://github-profile-trophy.vercel.app/?username=sabyasachi-seal&theme=onedark&no-frame=true" alt="zumrudu-anka" />
     </a>
 </div>
+    
 
 <br />
 <a href="https://github.com/Sabyasachi-Seal">
-<img alt="DenverCoder1's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=sabyasachi-seal&theme=react-dark" /></a>
+<img alt="sabyasachi-seal" src="https://activity-graph.herokuapp.com/graph?username=sabyasachi-seal&theme=rogue&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 
 <hr>
 <a href="https://github.com/Sabyasachi-Seal">
