@@ -116,7 +116,7 @@
 
 <br />
 <a href="https://github.com/Sabyasachi-Seal">
-<img alt="sabyasachi-seal" src="https://activity-graph.herokuapp.com/graph?username=sabyasachi-seal&theme=rogue&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+<img alt="sabyasachi-seal" src="https://activity-graph.herokuapp.com/graph?username=sabyasachi-seal&theme=redical&hide_border=true" /></a>
 
 <hr>
 <a href="https://github.com/Sabyasachi-Seal">
