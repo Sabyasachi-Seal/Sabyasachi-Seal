@@ -71,7 +71,7 @@
 <hr>
 <div align="center">
         <a href="https://github.com/Sabyasachi-Seal">
-        <img align="center" src="https://komarev.com/ghpvc/?username=sabyasachi-seal&style=flat-square"/>
+        <img align="center" src="http://profileviewcounter.azurewebsites.net/"/>
     </a>
         <a href="https://sabyasachiseal.me">
             <img align="center" src="https://img.shields.io/website?down_color=red&down_message=DOWN&label=My%20Website&logo=Github&style=for-the-badge&up_message=RUNNING&url=https%3A%2F%2Fsabyasachiseal.me" />
