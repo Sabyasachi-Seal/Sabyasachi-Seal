@@ -9,8 +9,8 @@
 
 <p align="center">
     <a href="https://github.com/Sabyasachi-Seal">
-        <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=35&center=true&vCenter=true&width=900&lines=Cloud+Computing+Enthusiast;Cybersecurity+Passionate;Data+Science+Practitioner;AI+%26+ML+Enthusiast;Tech+Blogger" />
-    </a>
+        <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=35&center=true&vCenter=true&width=900&lines=Cloud+Computing+Enthusiast;Cybersecurity+Passionate;Data+Science+Practitioner;AI+%26+ML+Enthusiast;Tech+Blogger" /></a>
+    
 </p>
 
 <hr>
