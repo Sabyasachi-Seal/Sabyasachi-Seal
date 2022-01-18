@@ -108,7 +108,7 @@
     
 <div align="center">
     <a href="https://github.com/Sabyasachi-Seal">
-        <img align="center" src="https://github-profile-trophy.vercel.app/?username=sabyasachi-seal&theme=onedark&no-frame=true" alt="zumrudu-anka" />
+        <img src="https://github-profile-trophy.vercel.app/?username=sabyasachi-seal&theme=onedark&no-frame=true&title=Commits,MultiLanguage,PullRequest,Repositories,Stars" alt="zumrudu-anka" />
     </a>
 </div>
     
