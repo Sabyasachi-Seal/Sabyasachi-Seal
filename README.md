@@ -1,11 +1,11 @@
 <div align="center" >
 <a href="https://github.com/Sabyasachi-Seal">
-<img src="https://github.com/Sabyasachi-Seal/Sabyasachi-Seal/blob/main/img/action.gif" href="https://github.com/Sabyasachi-Seal" /></a>
+<img src="https://github.com/Sabyasachi-Seal/Sabyasachi-Seal/blob/05c97e1208a66336b6d4e0ad239e5ee744a9ec48/img/action.gif" href="https://github.com/Sabyasachi-Seal" /></a>
 </div>
 
 <hr>
 
-<h1 align="center"><img src="https://github.com/Sabyasachi-Seal/Sabyasachi-Seal/blob/main/img/Hi.gif" width="40px" /> I'm a</h1>
+<h1 align="center"><img src="https://github.com/Sabyasachi-Seal/Sabyasachi-Seal/blob/05c97e1208a66336b6d4e0ad239e5ee744a9ec48/img/Hi.gif" width="40px" /> I'm a</h1>
 
 <p align="center">
     <a href="https://github.com/Sabyasachi-Seal">
@@ -119,9 +119,9 @@
 
 <hr>
 <a href="https://github.com/Sabyasachi-Seal">
-<img align="right" alt="Coding" height=200 src="https://github.com/Sabyasachi-Seal/Sabyasachi-Seal/blob/main/img/connected.gif" />
+<img align="right" alt="Coding" height=200 src="https://github.com/Sabyasachi-Seal/Sabyasachi-Seal/blob/05c97e1208a66336b6d4e0ad239e5ee744a9ec48/img/connected.gif" />
 
-<img align="left" alt="Coding" height=200 src="https://github.com/Sabyasachi-Seal/Sabyasachi-Seal/blob/main/img/code.gif" /></a>
+<img align="left" alt="Coding" height=200 src="https://github.com/Sabyasachi-Seal/Sabyasachi-Seal/blob/05c97e1208a66336b6d4e0ad239e5ee744a9ec48/img/code.gif" /></a>
 
 <h3 align="center">Connect with me:</h3>
 
