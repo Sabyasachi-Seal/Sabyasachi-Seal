@@ -91,26 +91,24 @@
 <hr>
 
 <h3 align="center">My Stats:</h3>
+            
+<br/>
+            
 <div align="center">
     <a href="https://github.com/Sabyasachi-Seal">
-        <img align="center" src="https://github-readme-stats.vercel.app/api?username=sabyasachi-seal&show_icons=true&locale=en&langs_count=20&count_private=true&theme=radical&layout=compact" />
-    </a>
+        <img align="left" src="https://github-readme-stats.vercel.app/api?username=sabyasachi-seal&show_icons=true&locale=en&langs_count=20&count_private=true&theme=radical&layout=compact&hide_border=false&bg_color=000000&border_color=808080" width=47% height=200%/>
+        <img align="right" src="https://github-readme-streak-stats.herokuapp.com?user=Sabyasachi-Seal&theme=neon-dark&date_format=M%20j%5B%2C%20Y%5D" alt="sabyasachi-seal" width=47% height=200%/><br/>
+        <img align="center" src="https://github-profile-trophy.vercel.app/?username=sabyasachi-seal&no-bg=true&theme=onedark&no-frame=true&title=Commits,MultiLanguage,PullRequest,Repositories,Stars&column=5" alt="zumrudu-anka" width=200% height=100%/>
+        </a>
 </div>
 
-<br />
-<div align="center">
-    <a href="https://github.com/Sabyasachi-Seal">
-        <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Sabyasachi-Seal&theme=neon-dark&date_format=M%20j%5B%2C%20Y%5D" alt="sabyasachi-seal" />
-    </a>
-</div>
-    
-<br/>
-    
+<!--   
 <div align="center">
     <a href="https://github.com/Sabyasachi-Seal">
         <img src="https://github-profile-trophy.vercel.app/?username=sabyasachi-seal&no-bg=true&theme=onedark&no-frame=true&title=Commits,MultiLanguage,PullRequest,Repositories,Stars&column=5" alt="zumrudu-anka" />
     </a>
 </div>
+-->
     
 
 <br />
