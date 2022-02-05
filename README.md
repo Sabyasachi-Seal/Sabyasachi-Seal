@@ -100,20 +100,19 @@
 <img align="right" alt="Coding" width=25% src="https://raw.githubusercontent.com/Sabyasachi-Seal/Sabyasachi-Seal/main/img/connected.gif" />
 
 <img align="left" alt="Coding" width=25% src="https://raw.githubusercontent.com/Sabyasachi-Seal/Sabyasachi-Seal/main/img/code.gif" /></a>
-<h3 align="center">Connect with me:</h3>
-<br>
+
 <p align="center">
     <a href="https://linkedin.com/in/sabyasachi-seal-4461711bb" target="_blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sabyasachi-seal-4461711bb" width="40" />
-    </a>&nbsp&nbsp&nbsp&nbsp
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sabyasachi-seal-4461711bb" width=12% height=12%/>
+    </a>&nbsp&nbsp
     <a href="https://www.instagram.com/sabyasachi_seal/" target="_blank">
-    <img align="center" src="https://cdn.iconscout.com/icon/free/png-64/instagram-216-721958.png" alt="instagram" width="40" />
-    </a>&nbsp&nbsp&nbsp&nbsp
+    <img align="center" src="https://cdn.iconscout.com/icon/free/png-64/instagram-216-721958.png" alt="instagram" width=12% height=12%/>
+    </a>&nbsp&nbsp
     <a href="https://www.facebook.com/people/Sabyasachi-Seal/100006271094830/" target="_blank">
-    <img align="center" src="https://cdn.iconscout.com/icon/free/png-64/facebook-2038471-1718509.png" alt="facebook" width="40" />
+    <img align="center" src="https://cdn.iconscout.com/icon/free/png-64/facebook-2038471-1718509.png" alt="facebook" width=12% height=10%/>
     </a>
 </p>
-
+<br>
 <hr>
 
 <h3 align="center">Drop me a mail at:</h3>
