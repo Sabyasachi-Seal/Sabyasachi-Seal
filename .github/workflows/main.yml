@@ -60,7 +60,6 @@ jobs:
       - name: Update On Repo
         uses: crazy-max/ghaction-github-pages@v2.1.3
         with:
-          # the output branch we mentioned above
           target_branch: main
           build_dir: img
         env:
