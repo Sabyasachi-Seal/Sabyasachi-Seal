@@ -138,4 +138,13 @@
     <a href="mailto:iam.sabyasachi.seal@gmail.com" target="_blank"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=250&lines=iam.sabyasachi.seal" /></a>
 </p>
 
+            
+            
+<a href="https://github.com/Sabyasachi-Seal">
+<img align="right" alt="Coding" src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=250&lines=Watch+a+Snake+eat+my+contributions+!" />
+
+<img align="left" alt="Coding" width=100% src="https://raw.githubusercontent.com/Sabyasachi-Seal/Sabyasachi-Seal/ouput/github-snake.svg" /></a>
+
+<!--https://raw.githubusercontent.com/Sabyasachi-Seal/Sabyasachi-Seal/ouput/github-snake.svg-->
+            
 <hr>
