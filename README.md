@@ -115,7 +115,7 @@
 </p><br>
 <br>
 <hr>
-<br>
+
 <h3 align="center">Drop Me a Mail:</h3>
 <p align="center">
     <a href="mailto:iam.sabyasachi.seal@gmail.com" target="_blank"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=500&lines=iam.sabyasachi.seal@gmail.com" /></a>
