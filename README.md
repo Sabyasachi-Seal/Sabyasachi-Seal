@@ -92,28 +92,21 @@
 
 <hr>
 
-<!-- <a href="https://github.com/Sabyasachi-Seal">
-<img align="right" alt="Coding" width=40% height=100% src="https://raw.githubusercontent.com/Sabyasachi-Seal/Sabyasachi-Seal/main/img/connected.gif"/> 
-<img align="left" alt="Coding" width=40% height=100% src="https://raw.githubusercontent.com/Sabyasachi-Seal/Sabyasachi-Seal/main/img/code.gif"/> -->
-
-</a>
-<!-- 
-<p align="center">
-    <a href="https://linkedin.com/in/sabyasachi-seal-4461711bb" target="_blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sabyasachi-seal-4461711bb" width=12% height=25%%/>
-    </a>&nbsp&nbsp
-    <a href="https://www.instagram.com/sabyasachi_seal/" target="_blank">
-    <img align="center" src="https://cdn.iconscout.com/icon/free/png-64/instagram-216-721958.png" alt="instagram" width=12% height=25%%/>
-    </a>&nbsp&nbsp
-    <a href="https://www.facebook.com/people/Sabyasachi-Seal/100006271094830/" target="_blank">
-    <img align="center" src="https://cdn.iconscout.com/icon/free/png-64/facebook-2038471-1718509.png" alt="facebook" width=12% height=25%%/>
+<div align=centter>
+    <a href="https://github.com/Sabyasachi-Seal">
+        <img align="center" alt="Coding" width=49% height=100% src="https://raw.githubusercontent.com/Sabyasachi-Seal/Sabyasachi-Seal/main/img/connected.gif" />
     </a>
-</p> -->
-<h3 align=center>Drop me a mail at:</h3>
+    <a href="https://github.com/Sabyasachi-Seal">
+        <img align="center" alt="Coding" width=49% height=100% src="https://raw.githubusercontent.com/Sabyasachi-Seal/Sabyasachi-Seal/main/img/code.gif" />
+    </a>
+</div>
+
+<hr>
+<h3 align="center">Drop me a mail:</h3>
 <a href="mailto:iam.sabyasachi.seal@gmail.com" target="_blank">
-<img width=100% src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600%&lines=iam.sabyasachi.seal@gmail.com" />
+    <img align=center width=100% src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600%&lines=iam.sabyasachi.seal@gmail.com" />
 </a>
-    
+
 <hr>
             
 <a href="https://github.com/Sabyasachi-Seal">
