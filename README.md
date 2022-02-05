@@ -26,7 +26,7 @@
 
 <hr>
 
-<h3 align="center">Languages and Tools:</h3>
+<h2 align="center">Languages and Tools:</h2>
 <p align="center">
     <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40" /> </a>
     <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40" /> </a>
@@ -62,20 +62,29 @@
         <a href="https://docs.microsoft.com/en-us/users/sabyasachiseal-9602/achievements">
             <img align="center" src="https://img.shields.io/badge/-Azure Trophies-blue?style=for-the-badge&logo=microsoftazure&logoColor=white&link=https://docs.microsoft.com/en-us/users/sabyasachiseal-9602/achievements"/>
     </a>
-
 <hr>
 
-<h3 align="center">My Stats:</h3>
-            
+<h2 align="center">My Stats:</h2>
+<br>
 <div align="center">
     <a href="https://github.com/Sabyasachi-Seal">
-        <img align="left" src="https://github-readme-stats.vercel.app/api?username=sabyasachi-seal&show_icons=true&locale=en&langs_count=20&count_private=true&theme=radical&layout=compact&hide_border=false&bg_color=000000&border_color=808080" width=47% height=100%/>
-        <img align="right" src="https://github-readme-streak-stats.herokuapp.com?user=Sabyasachi-Seal&theme=neon-dark&date_format=M%20j%5B%2C%20Y%5D" alt="sabyasachi-seal" width=47% height=100%/>
+        <img src="https://github-readme-stats.vercel.app/api?username=sabyasachi-seal&show_icons=true&locale=en&langs_count=20&count_private=true&theme=radical&layout=compact&hide_border=false&bg_color=000000&border_color=808080" width=49% height=100%/>
+    </a>
+    <a href="https://github.com/Sabyasachi-Seal">
+        <img src="https://github-readme-streak-stats.herokuapp.com?user=Sabyasachi-Seal&theme=neon-dark&date_format=M%20j%5B%2C%20Y%5D" alt="sabyasachi-seal" width=49% height=100%/>
         <br/>
-        </a>
-        <img align="center" src="https://github-profile-trophy.vercel.app/?username=sabyasachi-seal&no-bg=true&theme=onedark&no-frame=true&title=Commits,MultiLanguage,PullRequest,Repositories,Followers&column=5" alt="zumrudu-anka" width=200% height=100%/>
-        </a>
+    </a>
 </div>
+
+<br>
+
+<div align=center>
+    <a href="https://github.com/Sabyasachi-Seal">
+        <img src="https://github-profile-trophy.vercel.app/?username=sabyasachi-seal&no-bg=true&theme=onedark&no-frame=true&title=Commits,MultiLanguage,PullRequest,Repositories,Followers&column=5" alt="zumrudu-anka" width=200% height=100%/>
+    </a>
+</div>
+
+<br>
 
 <!--   
 <div align="center">
