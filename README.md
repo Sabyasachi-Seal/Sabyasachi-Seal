@@ -80,7 +80,7 @@
 
 <div align=center>
     <a href="https://github.com/Sabyasachi-Seal">
-        <img src="https://github-profile-trophy.vercel.app/?username=sabyasachi-seal&no-bg=true&theme=onedark&no-frame=true&title=Commits,MultiLanguage,PullRequest,Repositories,Followers&column=5" alt="zumrudu-anka" width=200% height=100%/>
+        <img src="https://github-profile-trophy.vercel.app/?username=sabyasachi-seal&no-bg=true&theme=onedark&no-frame=true&title=Commits,MultiLanguage,PullRequest,Repositories,Followers,Stars&column=6" alt="zumrudu-anka" width=200% height=100%/>
     </a>
 </div>
 
