@@ -57,10 +57,11 @@ jobs:
           branch: master
           force: true
 
-      - uses: crazy-max/ghaction-github-pages@v2.1.3
+      - name: Update On Repo
+        uses: crazy-max/ghaction-github-pages@v2.1.3
         with:
           # the output branch we mentioned above
-          target_branch: master
+          target_branch: main
           build_dir: img
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
