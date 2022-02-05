@@ -1,12 +1,15 @@
 # Docs for the Azure Web Apps Deploy action: https://github.com/Azure/webapps-deploy
 # More GitHub Actions for Azure: https://github.com/Azure/actions
 
-name: Build and deploy PHP app to Azure Web App - profileviews
+name: Profile Views | Snake Repo-Eater
 
 on:
   push:
     branches:
       - main
+  schedule:
+
+    - cron: "0 */2 * * *"
   workflow_dispatch:
 
 jobs:
@@ -14,7 +17,8 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: actions/checkout@v2
+      - name: Checkout
+        uses: actions/checkout@v2
 
       - name: Setup PHP
         uses: shivammathur/setup-php@v2
@@ -36,6 +40,16 @@ jobs:
         with:
           name: php-app
           path: .
+      
+      - name: Feed the Snake
+        uses: Platane/snk@v0.0.18
+        with:
+          github_user_name: Sabyasachi-Seal
+          gif_out_path: dist/github-snake.gif
+          svg_out_path: dist/github-snake.svg
+      
+      - run: git status
+
 
   deploy:
     runs-on: ubuntu-latest
