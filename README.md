@@ -4,16 +4,11 @@
 </div>
 
 <hr>
-<br>
-<h1 align="center"><img width=10% height=10% src="https://raw.githubusercontent.com/Sabyasachi-Seal/Sabyasachi-Seal/ouput/Hi.gif"/> I'm a</h1>
 
-<p align="center">
-    <a href="https://github.com/Sabyasachi-Seal">
-        <img width=100% src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=35&center=true&vCenter=true&width=900%&lines=Cloud+Computing+Enthusiast;Cybersecurity+Passionate;Data+Science+Practitioner;AI+%26+ML+Enthusiast;Tech+Blogger" /></a>
-    
-</p>
-<br>
-<hr>
+<h1 align="center"><img width=7% height=15% src="https://raw.githubusercontent.com/Sabyasachi-Seal/Sabyasachi-Seal/ouput/Hi.gif"/> I'm a
+<a href="https://github.com/Sabyasachi-Seal">
+        <img align=center width=100% src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=35&center=true&vCenter=true&width=600%&lines=Cloud+Computing+Enthusiast;Cybersecurity+Passionate;Data+Science+Practitioner;AI+%26+ML+Enthusiast;Tech+Blogger" /></a></h1>
+
 <br>
 <div align=center>
 <a href="https://github.com/Sabyasachi-Seal"><img align="right" alt="Coding" width=45% height=50% src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" /></a>
@@ -116,7 +111,7 @@
 <br>
 <hr>
 
-<h3 align="center">Drop Me a Mail:</h3>
+<h3 align="center">Drop me a mail at:</h3>
 <p align="center">
     <a href="mailto:iam.sabyasachi.seal@gmail.com" target="_blank"><img width=100% src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600%&lines=iam.sabyasachi.seal@gmail.com" /></a>
 </p> 
