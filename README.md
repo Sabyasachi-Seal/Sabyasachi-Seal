@@ -67,8 +67,6 @@
 
 <h3 align="center">My Stats:</h3>
             
-<br/>
-            
 <div align="center">
     <a href="https://github.com/Sabyasachi-Seal">
         <img align="left" src="https://github-readme-stats.vercel.app/api?username=sabyasachi-seal&show_icons=true&locale=en&langs_count=20&count_private=true&theme=radical&layout=compact&hide_border=false&bg_color=000000&border_color=808080" width=47% height=100%/>
@@ -94,9 +92,9 @@
 
 <hr>
 
-<a href="https://github.com/Sabyasachi-Seal">
-<img align="right" alt="Coding" width=49% height=100% src="https://raw.githubusercontent.com/Sabyasachi-Seal/Sabyasachi-Seal/main/img/connected.gif"/> 
-<img align="left" alt="Coding" width=49% height=100% src="https://raw.githubusercontent.com/Sabyasachi-Seal/Sabyasachi-Seal/main/img/code.gif"/>
+<!-- <a href="https://github.com/Sabyasachi-Seal">
+<img align="right" alt="Coding" width=40% height=100% src="https://raw.githubusercontent.com/Sabyasachi-Seal/Sabyasachi-Seal/main/img/connected.gif"/> 
+<img align="left" alt="Coding" width=40% height=100% src="https://raw.githubusercontent.com/Sabyasachi-Seal/Sabyasachi-Seal/main/img/code.gif"/> -->
 
 </a>
 <!-- 
