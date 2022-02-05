@@ -95,8 +95,8 @@
 <hr>
 
 <a href="https://github.com/Sabyasachi-Seal">
-<img align="right" alt="Coding" width=50% height=100% src="https://raw.githubusercontent.com/Sabyasachi-Seal/Sabyasachi-Seal/main/img/connected.gif"/> 
-<img align="left" alt="Coding" width=50% height=100% src="https://raw.githubusercontent.com/Sabyasachi-Seal/Sabyasachi-Seal/main/img/code.gif"/>
+<img align="right" alt="Coding" width=49% height=100% src="https://raw.githubusercontent.com/Sabyasachi-Seal/Sabyasachi-Seal/main/img/connected.gif"/> 
+<img align="left" alt="Coding" width=49% height=100% src="https://raw.githubusercontent.com/Sabyasachi-Seal/Sabyasachi-Seal/main/img/code.gif"/>
 
 </a>
 <!-- 
@@ -111,8 +111,7 @@
     <img align="center" src="https://cdn.iconscout.com/icon/free/png-64/facebook-2038471-1718509.png" alt="facebook" width=12% height=25%%/>
     </a>
 </p> -->
-&nbsp
-<h3>Drop me a mail at:</h3>
+<h3 align=center>Drop me a mail at:</h3>
 <a href="mailto:iam.sabyasachi.seal@gmail.com" target="_blank">
 <img width=100% src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600%&lines=iam.sabyasachi.seal@gmail.com" />
 </a>
