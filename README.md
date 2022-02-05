@@ -1,11 +1,11 @@
 <div align="center" >
 <a href="https://github.com/Sabyasachi-Seal">
-<img src="https://github.com/Sabyasachi-Seal/Sabyasachi-Seal/blob/05c97e1208a66336b6d4e0ad239e5ee744a9ec48/img/action.gif" href="https://github.com/Sabyasachi-Seal" /></a>
+<img src="https://raw.githubusercontent.com/Sabyasachi-Seal/Sabyasachi-Seal/ouput/action.gif" href="https://github.com/Sabyasachi-Seal" /></a>
 </div>
 
 <hr>
 
-<h1 align="center"><img src="https://github.com/Sabyasachi-Seal/Sabyasachi-Seal/blob/05c97e1208a66336b6d4e0ad239e5ee744a9ec48/img/Hi.gif" width="40px" /> I'm a</h1>
+<h1 align="center"><img src="https://raw.githubusercontent.com/Sabyasachi-Seal/Sabyasachi-Seal/ouput/Hi.gif" width="40px" /> I'm a</h1>
 
 <p align="center">
     <a href="https://github.com/Sabyasachi-Seal">
@@ -76,8 +76,10 @@
             
 <div align="center">
     <a href="https://github.com/Sabyasachi-Seal">
-        <img align="left" src="https://github-readme-stats.vercel.app/api?username=sabyasachi-seal&show_icons=true&locale=en&langs_count=20&count_private=true&theme=radical&layout=compact&hide_border=false&bg_color=000000&border_color=808080" width=47% height=200%/>
-        <img align="right" src="https://github-readme-streak-stats.herokuapp.com?user=Sabyasachi-Seal&theme=neon-dark&date_format=M%20j%5B%2C%20Y%5D" alt="sabyasachi-seal" width=47% height=200%/><br/>
+        <img align="left" src="https://github-readme-stats.vercel.app/api?username=sabyasachi-seal&show_icons=true&locale=en&langs_count=20&count_private=true&theme=radical&layout=compact&hide_border=false&bg_color=000000&border_color=808080" width=47% height=100%/>
+        <img align="right" src="https://github-readme-streak-stats.herokuapp.com?user=Sabyasachi-Seal&theme=neon-dark&date_format=M%20j%5B%2C%20Y%5D" alt="sabyasachi-seal" width=47% height=100%/>
+        <br/>
+        </a>
         <img align="center" src="https://github-profile-trophy.vercel.app/?username=sabyasachi-seal&no-bg=true&theme=onedark&no-frame=true&title=Commits,MultiLanguage,PullRequest,Repositories,Followers&column=5" alt="zumrudu-anka" width=200% height=100%/>
         </a>
 </div>
@@ -91,34 +93,37 @@
 -->
     
 
-<br />
+
 <a href="https://github.com/Sabyasachi-Seal">
 <img alt="sabyasachi-seal" src="https://activity-graph.herokuapp.com/graph?username=sabyasachi-seal&theme=redical&hide_border=true" /></a>
 
-<hr>
+<hr><br/>
+
 <a href="https://github.com/Sabyasachi-Seal">
-<img align="right" alt="Coding" height=200 src="https://github.com/Sabyasachi-Seal/Sabyasachi-Seal/blob/05c97e1208a66336b6d4e0ad239e5ee744a9ec48/img/connected.gif" />
+<img align="right" alt="Coding" width=25% src="https://raw.githubusercontent.com/Sabyasachi-Seal/Sabyasachi-Seal/main/img/connected.gif" />
 
-<img align="left" alt="Coding" height=200 src="https://github.com/Sabyasachi-Seal/Sabyasachi-Seal/blob/05c97e1208a66336b6d4e0ad239e5ee744a9ec48/img/code.gif" /></a>
+<img align="left" alt="Coding" width=25% src="https://raw.githubusercontent.com/Sabyasachi-Seal/Sabyasachi-Seal/main/img/code.gif" /></a>
 
+<div align="center">
 <h3 align="center">Connect with me:</h3>
-
 <p align="center">
     <a href="https://linkedin.com/in/sabyasachi-seal-4461711bb" target="_blank">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sabyasachi-seal-4461711bb" height="30" width="40" />
     </a>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://www.instagram.com/sabyasachi_seal/" target="_blank"><img align="center" src="https://cdn.iconscout.com/icon/free/png-64/instagram-216-721958.png" alt="instagram" height="40" width="40" /></a>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://www.facebook.com/people/Sabyasachi-Seal/100006271094830/" target="_blank"><img align="center" src="https://cdn.iconscout.com/icon/free/png-64/facebook-2038471-1718509.png" alt="facebook" height="40" width="40" /></a>
 </p>
+<br>
+<hr>
 
-<h3 align="center">Or Drop Me a Mail:</h3>
+<h3 align="center">Drop Me a Mail:</h3>
 <p align="center">
-    <a href="mailto:iam.sabyasachi.seal@gmail.com" target="_blank"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=250&lines=iam.sabyasachi.seal" /></a>
-</p>
+    <a href="mailto:iam.sabyasachi.seal@gmail.com" target="_blank"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=500&lines=iam.sabyasachi.seal@gmail.com" /></a>
+</p> 
 
-<hr>     
+</div>
+    
+<hr>
             
 <a href="https://github.com/Sabyasachi-Seal">
 <img width=100% height=100% align="center" alt="Coding" src="https://readme-typing-svg.herokuapp.com?color=%1136CC31&center=true&vCenter=true&width=500&lines=Watch+a+Snake+eat+my+contributions+!" />
