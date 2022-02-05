@@ -48,7 +48,8 @@ jobs:
           gif_out_path: img/github-snake.gif
           svg_out_path: img/github-snake.svg
       
-      - run: git status
+      - name: Getting Status
+        run: git status
 
       # - name: Push changes
       #   uses: ad-m/github-push-action@master
