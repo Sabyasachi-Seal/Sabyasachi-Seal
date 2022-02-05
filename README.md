@@ -16,7 +16,7 @@
 <hr>
 <br>
 <div>
-<a href="https://github.com/Sabyasachi-Seal"><img align="right" alt="Coding" width=50% height=50% src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" /></a>
+<a href="https://github.com/Sabyasachi-Seal"><img align="right" alt="Coding" width=40% height=50% src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" /></a>
 🌱 I’m mostly interested in:<br>
 <a href="https://github.com/Sabyasachi-Seal">
 <img align="center"  width=50% height=50% src="https://readme-typing-svg.herokuapp.com?color=%23F78240&center=true&vCenter=true&width=250%&height=50%&lines=Cloud+Computing;CyberSecurity;Data+Science;AI+ML" /></a>
