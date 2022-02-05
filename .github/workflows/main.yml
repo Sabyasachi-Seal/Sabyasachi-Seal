@@ -45,11 +45,25 @@ jobs:
         uses: Platane/snk@v0.0.18
         with:
           github_user_name: Sabyasachi-Seal
-          gif_out_path: dist/github-snake.gif
-          svg_out_path: dist/github-snake.svg
+          gif_out_path: img/github-snake.gif
+          svg_out_path: img/github-snake.svg
       
       - run: git status
 
+      - name: Push changes
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          branch: master
+          force: true
+
+      - uses: crazy-max/ghaction-github-pages@v2.1.3
+        with:
+          # the output branch we mentioned above
+          target_branch: master
+          build_dir: img
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
   deploy:
     runs-on: ubuntu-latest
