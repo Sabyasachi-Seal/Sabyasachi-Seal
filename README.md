@@ -45,22 +45,22 @@
 <hr>
 <div align="center">
         <a href="https://github.com/Sabyasachi-Seal">
-        <img align="center" src="http://profileviews.azurewebsites.net/"/>
+        <img src="http://profileviews.azurewebsites.net/"/>
     </a>
         <a href="https://sabyasachiseal.me">
-            <img align="center" src="https://img.shields.io/website?down_color=red&down_message=DOWN&label=My%20Website&logo=Github&style=for-the-badge&up_message=RUNNING&url=https%3A%2F%2Fsabyasachiseal.me" />
+            <img src="https://img.shields.io/website?down_color=red&down_message=DOWN&label=My%20Website&logo=Github&style=for-the-badge&up_message=RUNNING&url=https%3A%2F%2Fsabyasachiseal.me" />
     </a>
         <a href="https://www.linkedin.com/in/sabyasachi-seal-4461711bb/">
-            <img align="center" src="https://img.shields.io/badge/-Connect-orange?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sabyasachi-seal-4461711bb/)](https://www.linkedin.com/in/sabyasachi-seal-4461711bb/"/>
+            <img src="https://img.shields.io/badge/-Connect-orange?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sabyasachi-seal-4461711bb/)](https://www.linkedin.com/in/sabyasachi-seal-4461711bb/"/>
     <!--</a>
         <a href="https://github.com/Sabyasachi-Seal">
         <img align="center" src="https://img.shields.io/github/stars/Sabyasachi-Seal?color=blueviolet&logo=Github&style=for-the-badge"/>
     </a>-->
         <a href="https://www.qwiklabs.com/public_profiles/e3e3af1f-e2c8-48b5-ae19-175dee7b6ef5">
-            <img align="center" src="https://img.shields.io/badge/-GCP Badges-ff69b4?style=for-the-badge&logo=googlecloud&logoColor=white&link=https://www.qwiklabs.com/public_profiles/e3e3af1f-e2c8-48b5-ae19-175dee7b6ef5"/>
+            <img src="https://img.shields.io/badge/-GCP Badges-ff69b4?style=for-the-badge&logo=googlecloud&logoColor=white&link=https://www.qwiklabs.com/public_profiles/e3e3af1f-e2c8-48b5-ae19-175dee7b6ef5"/>
     </a>
         <a href="https://docs.microsoft.com/en-us/users/sabyasachiseal-9602/achievements">
-            <img align="center" src="https://img.shields.io/badge/-Azure Trophies-blue?style=for-the-badge&logo=microsoftazure&logoColor=white&link=https://docs.microsoft.com/en-us/users/sabyasachiseal-9602/achievements"/>
+            <img src="https://img.shields.io/badge/-Azure Trophies-blue?style=for-the-badge&logo=microsoftazure&logoColor=white&link=https://docs.microsoft.com/en-us/users/sabyasachiseal-9602/achievements"/>
     </a>
 <hr>
 

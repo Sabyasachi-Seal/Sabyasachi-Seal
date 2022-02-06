@@ -49,7 +49,7 @@ function shortNumber($num)
     for ($i = 0; $num >= 1000; $i++) {
         $num /= 1000;
     }
-    return round($num, 1) . $units[$i];
+    return $num/*round($num, 1) . $units[$i]*/;
 }
 
 // get contents of a URL with curl
