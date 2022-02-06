@@ -93,9 +93,6 @@
     </a>
 </div>
 -->
-    
-
-
 <a href="https://github.com/Sabyasachi-Seal">
 <img alt="sabyasachi-seal" src="https://activity-graph.herokuapp.com/graph?username=sabyasachi-seal&theme=redical&hide_border=true" /></a>
 
@@ -120,7 +117,7 @@
 <hr>
             
 <a href="https://github.com/Sabyasachi-Seal">
-<img width=100% height=100% align="center" alt="Coding" src="https://readme-typing-svg.herokuapp.com?color=800080&center=true&vCenter=true&width=500&lines=Watch+a+Snake+eat+my+contributions+!" />
+<img width=100% height=100% align="center" alt="Coding" src="https://readme-typing-svg.herokuapp.com?color=a6129c&center=true&vCenter=true&width=500&lines=Watch+a+Snake+eat+my+contributions+!" />
 
 <img align="center" alt="Coding" width=100% src="https://raw.githubusercontent.com/Sabyasachi-Seal/Sabyasachi-Seal/ouput/github-snake.svg" /></a>
 
