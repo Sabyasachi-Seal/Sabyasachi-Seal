@@ -45,11 +45,12 @@ function incrementFile($filename): int
 // short numbers from https://stackoverflow.com/a/52490452/11608064
 function shortNumber($num)
 {
-    $units = ['', 'K', 'M', 'B', 'T'];
+    /*$units = ['', 'K', 'M', 'B', 'T'];
     for ($i = 0; $num >= 1000; $i++) {
         $num /= 1000;
     }
-    return $num/*round($num, 1) . $units[$i]*/;
+    return round($num, 1) . $units[$i];*/
+    return $num;
 }
 
 // get contents of a URL with curl
