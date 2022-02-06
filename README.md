@@ -7,7 +7,7 @@
 
 <h1 align="center"><img width=7% height=15% src="https://raw.githubusercontent.com/Sabyasachi-Seal/Sabyasachi-Seal/ouput/Hi.gif"/> I'm a
 <a href="https://github.com/Sabyasachi-Seal">
-        <img align=center width=100% src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=35&center=true&vCenter=true&width=600%&lines=Cloud+Computing+Enthusiast;Cybersecurity+Passionate;Data+Science+Practitioner;AI+%26+ML+Enthusiast;Tech+Blogger" /></a></h1>
+        <img align=center width=100% src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=35&center=true&vCenter=true&width=600%&lines=Cloud+Computing+Enthusiast;Cybersecurity+Passionate;Data+Science+Practitioner;AI+%26+ML+Enthusiast;Computer+Science+Undergrad;Tech+Blogger" /></a></h1>
 
 <br>
 <div align=center>
