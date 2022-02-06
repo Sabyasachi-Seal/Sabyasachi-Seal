@@ -77,7 +77,6 @@
 </div>
 
 <h2></h2>
-<br>
 
 <div align=center>
     <a href="https://github.com/Sabyasachi-Seal">
@@ -86,7 +85,6 @@
 </div>
 
 <h2></h2>
-<br>
 
 <!--   
 <div align="center">
@@ -103,7 +101,7 @@
 
 <hr>
 
-<div align=centter>
+<div align=center>
     <a href="https://github.com/Sabyasachi-Seal">
         <img align="center" alt="Coding" width=49% height=100% src="https://raw.githubusercontent.com/Sabyasachi-Seal/Sabyasachi-Seal/main/img/connected.gif" />
     </a>
