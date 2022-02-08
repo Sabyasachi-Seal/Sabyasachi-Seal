@@ -75,7 +75,7 @@
 <hr>
 
 <div align="left">
-    <img align="right" width=40% alt="Github" src="https://raw.githubusercontent.com/Sabyasachi-Seal/Sabyasachi-Seal/ouput/coder.gif">
+    <img align="right" width=28% alt="Github" src="https://raw.githubusercontent.com/Sabyasachi-Seal/Sabyasachi-Seal/ouput/coder.gif">
     <!-- <h2><br></h2> -->
     <a href="https://github.com/Sabyasachi-Seal">
     <img src="http://profileviews.azurewebsites.net/"/>
