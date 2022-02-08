@@ -34,14 +34,11 @@
 <div align="right">
     <h2 align="center">Languages and Tools:</h2>
     <p align="center">
-        <img align="left" width=50% alt="Github" src="img/github.gif">
-        <br>
+        <img align="left" width=50% alt="Github" src="https://raw.githubusercontent.com/Sabyasachi-Seal/Sabyasachi-Seal/ouput/github.gif">
         <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="14.0%" height="14.0%" /> 
         </a>
-        <!-- <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="14.0%" height="14.0%" />
-        </a> -->
+        </a>
         <a href="https://www.python.org" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="14.0%" height="14.0%" />
         </a>
