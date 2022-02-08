@@ -80,7 +80,6 @@
     <a href="https://github.com/Sabyasachi-Seal">
     <img src="http://profileviews.azurewebsites.net/"/>
     </a>
-    <br>
     <a href="https://sabyasachiseal.me">
         <img src="https://img.shields.io/website?down_color=red&down_message=DOWN&label=My%20Website&logo=Github&style=for-the-badge&up_message=RUNNING&url=https%3A%2F%2Fsabyasachiseal.me" />
     </a>
@@ -96,6 +95,7 @@
     <a href="https://docs.microsoft.com/en-us/users/sabyasachiseal-9602/achievements">
         <img src="https://img.shields.io/badge/-Azure Trophies-blue?style=for-the-badge&logo=microsoftazure&logoColor=white&link=https://docs.microsoft.com/en-us/users/sabyasachiseal-9602/achievements"/>
     </a>
+    <br>
 <hr>
 
 <h2 align="center">My Stats:</h2>
