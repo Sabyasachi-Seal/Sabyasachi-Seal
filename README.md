@@ -124,11 +124,9 @@
 <hr>
 
 <h2 align="center">Wanna Talk?</h2>
-Mail Me:
 <a href="mailto:iam.sabyasachi.seal@gmail.com" target="_blank">
     <img align=center width=80% src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=350%&lines=iam.sabyasachi.seal@gmail.com" />
 </a>
-Phone:
 <a href="mailto:iam.sabyasachi.seal@gmail.com" target="_blank">
     <img align=center width=80% src="https://readme-typing-svg.herokuapp.com?color=%232CF7E4&center=true&vCenter=true&width=350%&lines=(%2B91)+891-042-7807" />
 </a>
