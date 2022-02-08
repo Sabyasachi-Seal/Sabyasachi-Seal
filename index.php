@@ -43,7 +43,8 @@ function incrementFile($filename): int
 }
 
 // short numbers from https://stackoverflow.com/a/52490452/11608064
-function shortNumber($num){
+function shortNumber($num)
+{
     /*$units = ['', 'K', 'M', 'B', 'T'];
     for ($i = 0; $num >= 1000; $i++) {
         $num /= 1000;
