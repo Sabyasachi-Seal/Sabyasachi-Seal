@@ -11,7 +11,8 @@
 
 <br>
 <div align=center>
-    <a href="https://github.com/Sabyasachi-Seal"><img align="right" alt="Coding" width=45% height=50% src="https://raw.githubusercontent.com/Sabyasachi-Seal/Sabyasachi-Seal/ouput/coder2.gif" /></a>
+    <a href="https://github.com/Sabyasachi-Seal" target="_blank"><img align="right" alt="Coding" width=50% height=50% src="https://raw.githubusercontent.com/Sabyasachi-Seal/Sabyasachi-Seal/ouput/coder2.gif" /></a>
+    <h4 align=left>
     🌱 I’m mostly interested in:<br>
     <a href="https://github.com/Sabyasachi-Seal">
         <img align="center" width=50% height=50% src="https://readme-typing-svg.herokuapp.com?color=%23F78240&center=true&vCenter=true&width=250%&height=50%&lines=Cloud+Computing;CyberSecurity;Data+Science;AI+ML" /></a>
@@ -21,6 +22,8 @@
     <br>💬 Talk to me all about:<br>
     <a href="https://github.com/Sabyasachi-Seal">
         <img align="center" width=50% height=50% src="https://readme-typing-svg.herokuapp.com?color=%234AF736&center=true&vCenter=true&width=250%&height=50%&lines=My+Projects;Upcoming+Events;New+Technology;New+Ideas;Anything+Technical" /></a>
+    </h4>
+    <br>
 </div>
 
 <hr>
