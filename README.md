@@ -116,11 +116,18 @@
     </a>
 </div>
 
-<br>
+<hr>
 
 <h2 align="center">Drop me a mail:</h2>
 <a href="mailto:iam.sabyasachi.seal@gmail.com" target="_blank">
     <img align=center width=100% src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600%&lines=iam.sabyasachi.seal@gmail.com" />
+</a>
+
+<hr>
+
+<h2 align="center">Have a look at my Contibution Graph:</h2>
+<a href="https://github.com/Sabyasachi-Seal" target="_blank">
+    <img align=center width=100% src="profile-3d-contrib/profile-night-rainbow.svg" />
 </a>
 
 <hr>
