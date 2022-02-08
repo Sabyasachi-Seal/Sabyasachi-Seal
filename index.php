@@ -73,7 +73,7 @@ $message = incrementFile("views.txt");
 
 // set parameters for the shields.io URL
 $params = [
-    "label" => "Views",
+    "label" => "Profile Views",
     "logo" => "github",
     "message" => shortNumber($message),
     "color" => "purple",
