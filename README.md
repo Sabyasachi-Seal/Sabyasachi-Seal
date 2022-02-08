@@ -77,7 +77,7 @@
 
 <div align="left">
     <a href="https://github.com/Sabyasachi-Seal">
-    <img align="right" width=44% alt="Github" src="https://raw.githubusercontent.com/Sabyasachi-Seal/Sabyasachi-Seal/ouput/github.gif">
+    <img align="right" width=40% alt="Github" src="https://raw.githubusercontent.com/Sabyasachi-Seal/Sabyasachi-Seal/ouput/github.gif">
     </a>
     <a href="https://sabyasachiseal.me">
         <img width=45% height=48% src="https://img.shields.io/website?down_color=red&down_message=DOWN&label=My%20Website&logo=Github&style=for-the-badge&up_message=RUNNING&url=https%3A%2F%2Fsabyasachiseal.me" />
