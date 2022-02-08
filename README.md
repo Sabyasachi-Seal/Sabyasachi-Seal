@@ -105,6 +105,11 @@
 <a href="https://github.com/Sabyasachi-Seal">
 <img alt="sabyasachi-seal" src="https://activity-graph.herokuapp.com/graph?username=sabyasachi-seal&theme=redical&hide_border=true" /></a>
 
+<h2></h2>
+<a href="https://github.com/Sabyasachi-Seal" target="_blank">
+    <img align=center width=100% src="profile-3d-contrib/profile-night-rainbow.svg" />
+</a>
+
 <hr>
 
 <div align=center>
@@ -126,13 +131,6 @@ Mail Me:
 Phone:
 <a href="mailto:iam.sabyasachi.seal@gmail.com" target="_blank">
     <img align=center width=80% src="https://readme-typing-svg.herokuapp.com?color=%232CF7E4&center=true&vCenter=true&width=350%&lines=(%2B91)+891-042-7807" />
-</a>
-
-<hr>
-
-<h2 align="center">Have a look at my Contibution Graph:</h2>
-<a href="https://github.com/Sabyasachi-Seal" target="_blank">
-    <img align=center width=100% src="profile-3d-contrib/profile-night-rainbow.svg" />
 </a>
 
 <hr>
