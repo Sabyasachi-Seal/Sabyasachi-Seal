@@ -11,6 +11,7 @@
         </h1>
 
 <br>
+
 <div align=center>
     <a href="https://github.com/Sabyasachi-Seal" target="_blank"><img align="right" alt="Coding" width=45% height=100% src="https://raw.githubusercontent.com/Sabyasachi-Seal/Sabyasachi-Seal/ouput/coder2.gif" /></a>
     <h4>
@@ -48,6 +49,7 @@
 </p>
 
 <hr>
+
 <div align="center">
         <a href="https://github.com/Sabyasachi-Seal">
         <img src="http://profileviews.azurewebsites.net/"/>
@@ -70,7 +72,9 @@
 <hr>
 
 <h2 align="center">My Stats:</h2>
+
 <br>
+
 <div align="center">
     <a href="https://github.com/Sabyasachi-Seal">
         <img src="https://github-readme-stats.vercel.app/api?username=sabyasachi-seal&show_icons=true&locale=en&langs_count=20&count_private=true&theme=radical&layout=compact&hide_border=false&bg_color=000000&border_color=808080" width=49% height=100%/>
