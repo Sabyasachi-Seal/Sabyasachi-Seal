@@ -79,22 +79,23 @@
     <img align="right" width=45% alt="Github" src="https://raw.githubusercontent.com/Sabyasachi-Seal/Sabyasachi-Seal/ouput/coder.gif">
     </a>
     <!-- <h2><br></h2> -->
+    <br>
     <a href="https://sabyasachiseal.me">
         <img width=45% height=48% src="https://img.shields.io/website?down_color=red&down_message=DOWN&label=My%20Website&logo=Github&style=for-the-badge&up_message=RUNNING&url=https%3A%2F%2Fsabyasachiseal.me" />
     </a>
-    <h2></h2>
+    <br>
     <a href="https://github.com/Sabyasachi-Seal">
     <img width=45% height=48% src="http://profileviews.azurewebsites.net/"/>
-    <h2></h2>
+    <br>
     </a>
     <a href="https://www.linkedin.com/in/sabyasachi-seal-4461711bb/">
         <img width=45% height=48% src="https://img.shields.io/badge/-Connect With Me-orange?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sabyasachi-seal-4461711bb/)](https://www.linkedin.com/in/sabyasachi-seal-4461711bb/"/>
     </a>
-    <h2></h2>
+    <br>
     <a href="https://www.qwiklabs.com/public_profiles/e3e3af1f-e2c8-48b5-ae19-175dee7b6ef5">
         <img width=45% height=48% src="https://img.shields.io/badge/-Google Cloud Badges-ff69b4?style=for-the-badge&logo=googlecloud&logoColor=white&link=https://www.qwiklabs.com/public_profiles/e3e3af1f-e2c8-48b5-ae19-175dee7b6ef5"/>
     </a>
-    <h2></h2>
+    <br>
     <a href="https://docs.microsoft.com/en-us/users/sabyasachiseal-9602/achievements">
         <img width=45% height=48% src="https://img.shields.io/badge/-Azure Trophies-blue?style=for-the-badge&logo=microsoftazure&logoColor=white&link=https://docs.microsoft.com/en-us/users/sabyasachiseal-9602/achievements"/>
     </a>
@@ -152,10 +153,10 @@
 
 <h2 align="center">Wanna Talk?</h2>
 <a href="mailto:iam.sabyasachi.seal@gmail.com" target="_blank">
-    <img align=center width=80% src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=350%&lines=iam.sabyasachi.seal@gmail.com" />
+    <img align=center width=100% src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=450%&lines=iam.sabyasachi.seal@gmail.com" />
 </a>
 <a href="mailto:iam.sabyasachi.seal@gmail.com" target="_blank">
-    <img align=center width=80% src="https://readme-typing-svg.herokuapp.com?color=%232CF7E4&center=true&vCenter=true&width=350%&lines=(%2B91)+891-042-7807" />
+    <img align=center width=100% src="https://readme-typing-svg.herokuapp.com?color=%232CF7E4&center=true&vCenter=true&width=450%&lines=(%2B91)+891-042-7807" />
 </a>
 
 <hr>
