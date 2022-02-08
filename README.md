@@ -31,10 +31,10 @@
 
 <hr>
 
-<div align="right">
+<div align="left">
     <h2 align="center">Languages and Tools:</h2>
-    <img align="left" width=50% alt="Github" src="https://raw.githubusercontent.com/Sabyasachi-Seal/Sabyasachi-Seal/ouput/github.gif">
-    <p align="center">
+    <img align="right" width=50% alt="Github" src="https://raw.githubusercontent.com/Sabyasachi-Seal/Sabyasachi-Seal/ouput/github.gif">
+    <p>
         <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="14.0%" height="14.0%" /> 
         </a>
@@ -47,7 +47,7 @@
         </a>
     </p>
     <h2></h2>
-    <p align=center>
+    <p>
         <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="14.0%" height="14.0%" />
         </a>
@@ -59,7 +59,7 @@
         </a>
     </p>
     <h2></h2>
-    <p align="center">
+    <p>
         <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="14.0%" height="14.0%" />
         </a>
@@ -69,8 +69,6 @@
         <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="14.0%" height="14.0%" />
         </a>
-    </p>
-    <p align="center">
     </p>
 </div>
 
