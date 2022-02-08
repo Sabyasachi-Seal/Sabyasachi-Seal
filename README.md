@@ -97,8 +97,8 @@
     <a href="https://docs.microsoft.com/en-us/users/sabyasachiseal-9602/achievements">
         <img width=45% height=48% src="https://img.shields.io/badge/-Azure Trophies-blue?style=for-the-badge&logo=microsoftazure&logoColor=white&link=https://docs.microsoft.com/en-us/users/sabyasachiseal-9602/achievements"/>
     </a>
-    <br>
     <h2></h2> 
+    <br>
 <hr>
 
 <h2 align="center">My Stats:</h2>
