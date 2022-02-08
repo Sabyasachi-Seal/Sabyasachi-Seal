@@ -78,13 +78,12 @@
     <a href="https://github.com/Sabyasachi-Seal">
     <img align="right" width=45% alt="Github" src="https://raw.githubusercontent.com/Sabyasachi-Seal/Sabyasachi-Seal/ouput/coder.gif">
     </a>
-    <!-- <h2><br></h2> -->
     <a href="https://sabyasachiseal.me">
         <img width=45% height=48% src="https://img.shields.io/website?down_color=red&down_message=DOWN&label=My%20Website&logo=Github&style=for-the-badge&up_message=RUNNING&url=https%3A%2F%2Fsabyasachiseal.me" />
     </a>
     <br>
     <a href="https://github.com/Sabyasachi-Seal">
-    <img width=45% height=48% src="http://profileviews.azurewebsites.net/"/>
+    <img width=45% height=40% src="http://profileviews.azurewebsites.net/"/>
     <br>
     </a>
     <a href="https://www.linkedin.com/in/sabyasachi-seal-4461711bb/">
@@ -98,8 +97,7 @@
     <a href="https://docs.microsoft.com/en-us/users/sabyasachiseal-9602/achievements">
         <img width=45% height=48% src="https://img.shields.io/badge/-Azure Trophies-blue?style=for-the-badge&logo=microsoftazure&logoColor=white&link=https://docs.microsoft.com/en-us/users/sabyasachiseal-9602/achievements"/>
     </a>
-    <br>
-    <br>
+    <h2><br></h2> 
 <hr>
 
 <h2 align="center">My Stats:</h2>
