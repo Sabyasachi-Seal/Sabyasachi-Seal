@@ -183,8 +183,8 @@
         <object data="https://sabyasachiseal.me/ChromeDinoGame/" width="100%">
             <embed src="https://sabyasachiseal.me/ChromeDinoGame/" width="100%"> </embed>
             Check Out the Chrome Dino Game !
+            https://sabyasachiseal.me/ChromeDinoGame/
         </object>
-        https://sabyasachiseal.me/ChromeDinoGame/
 </div>
 
  <hr>
