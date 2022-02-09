@@ -179,9 +179,13 @@
       src="https://sabyasachiseal.me/ChromeDinoGame/">
   </iframe>
 </div> -->
-<object data="https://sabyasachiseal.me/ChromeDinoGame/" width="100%">
-    <embed src="https://sabyasachiseal.me/ChromeDinoGame/" width="100%"> </embed>
-    Error: Embedded data could not be displayed.
-</object>
+<div align=center>
+        <object data="https://sabyasachiseal.me/ChromeDinoGame/" width="100%">
+            <embed src="https://sabyasachiseal.me/ChromeDinoGame/" width="100%"> </embed>
+            Check Out the Chrome Dino Game !
+        </object>
+        https://sabyasachiseal.me/ChromeDinoGame/
+</div>
 
  <hr>
+ 
