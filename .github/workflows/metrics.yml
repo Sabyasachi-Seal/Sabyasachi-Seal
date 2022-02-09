@@ -26,7 +26,7 @@ jobs:
       #     plugin_languages_ignored: javascript
       #     plugin_languages_colors: 0:#00ff00, 1:#ff0000, 2:#0000ff, 3:#ffff00, 4:#00ffff, 5:#ff00ff, 6:#ffffff, 7:#000000
       #     plugin_languages_limit: 10
-      - name: Recent activity charts
+      - name: Metrics Generator
         uses: lowlighter/metrics@latest
         with:
           filename: metrics.plugin.habits.charts.svg
