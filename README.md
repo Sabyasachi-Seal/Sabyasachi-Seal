@@ -33,6 +33,7 @@
 
 <div align="right">
     <h2 align="center">Languages and Tools:</h2>
+    <br>
     <img align="left" width=50% alt="Github" src="https://raw.githubusercontent.com/Sabyasachi-Seal/Sabyasachi-Seal/ouput/coder.gif">
     <!-- https://raw.githubusercontent.com/Sabyasachi-Seal/Sabyasachi-Seal/ouput/coder.gif -->
     <p>
