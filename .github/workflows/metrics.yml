@@ -67,6 +67,7 @@ jobs:
           token: ${{ secrets.ACTIONS_TOKEN }}
           base: ""
           plugin_licenses: yes
+          repo: ${{ github.repository }}
           plugin_licenses_setup: npm ci
       - name: Achivements
         uses: lowlighter/metrics@latest
