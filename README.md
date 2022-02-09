@@ -172,6 +172,6 @@
             
 <hr>
 
- <iframe width=100% src="https://sabyasachiseal.me/ChromeDinoGame/" title="Chrome Dino Game"></iframe> 
+<iframe width=100% src="https://sabyasachiseal.me/ChromeDinoGame/" title="Chrome Dino Game"></iframe> 
 
  <hr>
