@@ -2,7 +2,7 @@ name: GitHub 3D Contribution Graph
 
 on:
   schedule:
-    - cron: "0 */6 * * *"
+    - cron: "0 */4 * * *"
   workflow_dispatch:
 
 jobs:
