@@ -180,7 +180,7 @@
   </iframe>
 </div> -->
 <div align=center>
-        <object data="https://sabyasachiseal.me/ChromeDinoGame/" width="100%">
+        <object data="https://sabyasachiseal.me/ChromeDinoGame/" height=180 width="100%">
             <embed src="https://sabyasachiseal.me/ChromeDinoGame/" width="100%"> </embed>
 <!--             Check Out the Chrome Dino Game !
             https://sabyasachiseal.me/ChromeDinoGame/ -->
