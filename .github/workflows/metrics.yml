@@ -11,8 +11,7 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
-    name: Main Workflow
-    with: 
+    name: Main Workflow 
     steps:
       - name: Checkout
         uses: actions/checkout@v2
