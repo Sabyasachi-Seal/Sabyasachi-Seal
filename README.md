@@ -172,13 +172,16 @@
             
 <hr>
 
-<div>
+<!-- <div align=center>
   <iframe
       title="Inline Frame Example"
       width="100%"
-      height="100%"
       src="https://sabyasachiseal.me/ChromeDinoGame/">
   </iframe>
-</div>
+</div> -->
+<object data="https://sabyasachiseal.me/ChromeDinoGame/" width="100%">
+    <embed src="https://sabyasachiseal.me/ChromeDinoGame/" width="100%"> </embed>
+    Error: Embedded data could not be displayed.
+</object>
 
  <hr>
