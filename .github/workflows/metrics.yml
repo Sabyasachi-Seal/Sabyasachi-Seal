@@ -86,7 +86,7 @@ jobs:
           base: ""
           plugin_skyline: yes
           plugin_skyline_year: 2022
-          plugin_skyline_frames: 60
+          plugin_skyline_frames: 120
           plugin_skyline_quality: 1
       - name: Website
         uses: lowlighter/metrics@latest
@@ -96,7 +96,7 @@ jobs:
           base: ""
           plugin_pagespeed: yes
           plugin_pagespeed_screenshot: yes
-          plugin_pagespeed_token: ${{ secrets.ACTIONS_TOKEN }}
+          # plugin_pagespeed_token: ${{ secrets.ACTIONS_TOKEN }}
           plugin_pagespeed_url: https://sabyasachiseal.me/
 
 
