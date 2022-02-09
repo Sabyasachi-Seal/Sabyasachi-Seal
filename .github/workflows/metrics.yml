@@ -60,6 +60,15 @@ jobs:
           plugin_activity_days: 30
           plugin_activity_visibility: all
           plugin_activity_filter: all
+      - name: License Activity
+        uses: lowlighter/metrics@latest
+        with:
+          filename: licenses.svg
+          token: ${{ secrets.ACTIONS_TOKEN }}
+          base: ""
+          repo: Sabyasachi-Seal
+          plugin_licenses: yes
+          plugin_licenses_setup: npm ci
 
 
 
