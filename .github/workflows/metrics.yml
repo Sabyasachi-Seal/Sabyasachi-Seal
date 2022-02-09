@@ -1,0 +1,19 @@
+name: Metrics
+
+on:
+  push:
+    branches:
+      - master
+  schedule:
+    - cron: "0 */3 * * *"
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    name: Main Workflow
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v2
+      - name: Metrics embed
+        uses: lowlighter/metrics@v3.19
