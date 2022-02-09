@@ -38,5 +38,8 @@ jobs:
           plugin_habits_days: 30
           plugin_habits_charts: yes
           plugin_habits_facts: yes
+          plugin_people: yes
+          plugin_people_limit: 1000
+          plugin_people_types: followers, following, contributors, stargazers, watchers
 
 
