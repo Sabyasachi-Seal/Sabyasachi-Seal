@@ -26,7 +26,7 @@ jobs:
       #     plugin_languages_ignored: javascript
       #     plugin_languages_colors: 0:#00ff00, 1:#ff0000, 2:#0000ff, 3:#ffff00, 4:#00ffff, 5:#ff00ff, 6:#ffffff, 7:#000000
       #     plugin_languages_limit: 10
-      - name: Code Habits Generator
+      - name: Code Habits
         uses: lowlighter/metrics@latest
         with:
           filename: codehabits.svg
@@ -66,9 +66,19 @@ jobs:
           filename: licenses.svg
           token: ${{ secrets.ACTIONS_TOKEN }}
           base: ""
-          repo: Sabyasachi-Seal
           plugin_licenses: yes
           plugin_licenses_setup: npm ci
+      - name: Achivements
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.plugin.achievements.compact.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          plugin_achievements: yes
+          plugin_achievements_display: compact
+          plugin_achievements_threshold: X
+
+      
 
 
 
