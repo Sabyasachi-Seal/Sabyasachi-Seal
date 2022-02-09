@@ -36,7 +36,8 @@ jobs:
           plugin_habits: yes
           plugin_habits_from: 5
           plugin_habits_days: 30
-          plugin_habits_charts: yes
+          plugin_habits_trim: yes
+          plugin_habits_charts: no
           plugin_habits_facts: yes
       - name: Follower
         uses: lowlighter/metrics@latest
@@ -47,5 +48,18 @@ jobs:
           plugin_people: yes
           plugin_people_limit: 1000
           plugin_people_types: followers, following, contributors, stargazers, watchers
+      - name: Recent Activity
+        uses: lowlighter/metrics@latest
+        with:
+          filename: activity.svg
+          token: ${{ secrets.ACTIONS_TOKEN }}
+          base: ""
+          plugin_activity: yes
+          plugin_activity_limit: 5
+          plugin_activity_load: 999
+          plugin_activity_days: 30
+          plugin_activity_visibility: all
+          plugin_activity_filter: all
+
 
 
