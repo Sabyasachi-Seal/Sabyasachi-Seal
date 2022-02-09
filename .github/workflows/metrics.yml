@@ -71,7 +71,7 @@ jobs:
       - name: Achivements
         uses: lowlighter/metrics@latest
         with:
-          filename: metrics.plugin.achievements.compact.svg
+          filename: achievements.svg
           token: ${{ secrets.ACTIONS_TOKEN }}
           base: ""
           plugin_achievements: yes
