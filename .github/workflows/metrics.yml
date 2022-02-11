@@ -47,7 +47,7 @@ jobs:
           base: ""
           plugin_people: yes
           plugin_people_limit: 1000
-          plugin_people_types: followers, following, contributors, stargazers, watchers
+          plugin_people_types: followers #, following, contributors, stargazers, watchers
       - name: Recent Activity
         uses: lowlighter/metrics@latest
         with:
