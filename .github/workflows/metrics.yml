@@ -77,7 +77,7 @@ jobs:
           base: ""
           plugin_achievements: yes
           plugin_achievements_display: compact
-          plugin_achievements_threshold: C
+          plugin_achievements_threshold: X
       - name: GitHub Skyline
         uses: lowlighter/metrics@latest
         with:
