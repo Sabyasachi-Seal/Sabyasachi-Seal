@@ -183,7 +183,7 @@
 <div align=center>            
     <a href="https://github.com/Sabyasachi-Seal">
     <img width=100% height=100% align="center" alt="Coding" src="https://readme-typing-svg.herokuapp.com?color=a6129c&center=true&vCenter=true&width=450%&lines=Watch+a+Snake+eat+my+contributions+!" />
-    <img align="center" alt="Coding" width=100% src="https://raw.githubusercontent.com/Sabyasachi-Seal/Sabyasachi-Seal/ouput/github-snake.svg" />
+    <img align="center" alt="Snake" width=100% src="https://raw.githubusercontent.com/Sabyasachi-Seal/Sabyasachi-Seal/ouput/github-snake.svg" />
     </a>
 </div>
 <!--https://raw.githubusercontent.com/Sabyasachi-Seal/Sabyasachi-Seal/ouput/github-snake.svg-->
@@ -201,14 +201,14 @@
 <div align=center>            
     <a href="https://github.com/Sabyasachi-Seal">
     <img width=100% height=100% align="center" alt="Coding" src="https://readme-typing-svg.herokuapp.com?color=e3d20c&center=true&vCenter=true&width=450%&lines=Shoutout+to+my+followers+!!!" />
-    <img width=100% height=100% align="center" alt="Coding" src="./followers.svg" />
+    <img width=100% height=100% align="center" alt="Followers" src="followers.svg" />
 </div>
 
 <h2></h2>
 
 <div align=center>
     <a href="https://github.com/Sabyasachi-Seal">            
-    <img align="center" alt="Coding" width=100% src="./codehabits.svg" />
+    <img align="center" alt="Coding Habits" width=100% src="codehabits.svg" />
     </a>
 </div>
 
@@ -216,16 +216,16 @@
 
 <div align=center>
     <a href="https://github.com/Sabyasachi-Seal">            
-    <img align="center" alt="Coding" width=100% src="./activity.svg" />
+    <img align="center" alt="Activity" width=100% src="activity.svg" />
     </a>
 </div>
 
-<hr>
+<h2></h2>
 
 <div align=center>   
     <a href="https://sabyasachiseal.me/">
     <img width=100% height=100% align="center" alt="Coding" src="https://readme-typing-svg.herokuapp.com?color=e91e63&center=true&vCenter=true&width=350%&lines=Check+out+my+website+!" />        
-    <img align="center" alt="Coding" width=100% src="website.svg" />
+    <img align="center" alt="Website Stats" width=100% src="website.svg" />
     </a>
 </div>
 
