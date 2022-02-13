@@ -199,9 +199,18 @@
 
 <div align=center>            
     <a href="https://github.com/Sabyasachi-Seal">
+    <img width=100% height=100% align="center" alt="Coding" src="https://readme-typing-svg.herokuapp.com?color=e3d20c&center=true&vCenter=true&width=450%&lines=Shoutout+to+my+followers+!!!" />
     <img width=100% height=100% align="center" alt="Coding" src="./followers.svg" />
+</div>
+
+<h2></h2>
+
+<div align=center>            
     <img align="center" alt="Coding" width=100% src="./codehabits.svg" />
     </a>
+</div>
+
+<div align=center>            
     <img align="center" alt="Coding" width=100% src="./activity.svg" />
     </a>
 </div>
