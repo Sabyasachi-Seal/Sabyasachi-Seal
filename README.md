@@ -131,13 +131,6 @@
     </a>
 </div>
 -->
-<div align=center>
-    <a href="https://github.com/Sabyasachi-Seal">
-    <img alt="sabyasachi-seal" src="./achievements.svg" />
-    </a>
-</div>
-
-<h2></h2>
 
 <div align=center>
     <a href="https://github.com/Sabyasachi-Seal">
@@ -151,9 +144,18 @@
 <div align=center>
     <a href="https://github.com/Sabyasachi-Seal" target="_blank">
         <img align=center width=100% src="profile-3d-contrib/profile-night-rainbow.svg" />
-        <img align=center width=100% src="./skyline.svg" />
     </a>
 </div>
+
+<h2></h2>
+
+<div align=center>
+    <a href="https://github.com/Sabyasachi-Seal">
+    <img width=49% src="./achievements.svg" />
+    <img width=49% src="./skyline.svg" />
+    </a>
+</div>
+
 
 <hr>
 
