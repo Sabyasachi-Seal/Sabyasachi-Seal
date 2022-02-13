@@ -55,7 +55,7 @@ jobs:
           token: ${{ secrets.ACTIONS_TOKEN }}
           base: ""
           plugin_activity: yes
-          plugin_activity_limit: 5
+          plugin_activity_limit: 3
           plugin_activity_load: 999
           plugin_activity_days: 30
           plugin_activity_visibility: all
@@ -77,7 +77,7 @@ jobs:
           base: ""
           plugin_achievements: yes
           plugin_achievements_display: compact
-          plugin_achievements_threshold: X
+          plugin_achievements_threshold: C
       - name: GitHub Skyline
         uses: lowlighter/metrics@latest
         with:

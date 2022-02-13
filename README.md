@@ -131,13 +131,29 @@
     </a>
 </div>
 -->
-<a href="https://github.com/Sabyasachi-Seal">
-<img alt="sabyasachi-seal" src="https://activity-graph.herokuapp.com/graph?username=sabyasachi-seal&theme=redical&hide_border=true" /></a>
+<div align=center>
+    <a href="https://github.com/Sabyasachi-Seal">
+    <img alt="sabyasachi-seal" src="./achievements.svg" />
+    </a>
+</div>
 
 <h2></h2>
-<a href="https://github.com/Sabyasachi-Seal" target="_blank">
-    <img align=center width=100% src="profile-3d-contrib/profile-night-rainbow.svg" />
-</a>
+
+<div align=center>
+    <a href="https://github.com/Sabyasachi-Seal">
+    <img alt="sabyasachi-seal" src="https://activity-graph.herokuapp.com/graph?username=sabyasachi-seal&theme=redical&hide_border=true" />
+    </a>
+</div>
+
+<h2></h2>
+
+
+<div align=center>
+    <a href="https://github.com/Sabyasachi-Seal" target="_blank">
+        <img align=center width=100% src="profile-3d-contrib/profile-night-rainbow.svg" />
+        <img align=center width=100% src="./skyline.svg" />
+    </a>
+</div>
 
 <hr>
 
@@ -179,6 +195,16 @@
       src="https://sabyasachiseal.me/ChromeDinoGame/">
   </iframe>
 </div> -->
+
+<div align=center>            
+    <a href="https://github.com/Sabyasachi-Seal">
+    <img width=100% height=100% align="center" alt="Coding" src="./followers.svg" />
+    <img align="center" alt="Coding" width=100% src="./codehabits.svg" />
+    </a>
+    <img align="center" alt="Coding" width=100% src="./activity.svg" />
+    </a>
+</div>
+
 <div align=center>
         <object data="https://sabyasachiseal.me/ChromeDinoGame/" height=180 width="100%">
             <embed src="https://sabyasachiseal.me/ChromeDinoGame/" width="100%"> </embed>
