@@ -224,8 +224,8 @@
 
 <div align=center>   
     <a href="https://sabyasachiseal.me/">
-    <img width=100% height=100% align="center" alt="Coding" src="https://readme-typing-svg.herokuapp.com?color=e91e63&center=true&vCenter=true&width=350%&lines=Check+out+my+website+!" />        
-    <img align="center" alt="Website Stats" width=100% src="website.svg" />
+    <img width=100% align="center" alt="Coding" src="https://readme-typing-svg.herokuapp.com?color=e91e63&center=true&vCenter=true&width=350%&lines=Check+out+my+website+!" />        
+    <img align="center" alt="Website Stats" width=100% height=50% src="website.svg" />
     </a>
 </div>
 
@@ -244,20 +244,19 @@
 
 <div align=center>   
     <a href="https://open.spotify.com/user/31rovcoqi44ew75t535jlndsain4">
-    <img width=100% height=100% align="center" alt="Coding" src="https://readme-typing-svg.herokuapp.com?color=ff9800&center=true&vCenter=true&width=550%&lines=Wanna+listen+to+the+best+playlist+ever?" /> 
+    <img width=100% height=100% align="center" alt="Coding" src="https://readme-typing-svg.herokuapp.com?color=ff5722&center=true&vCenter=true&width=550%&lines=Wanna+listen+to+the+best+playlist+ever?" /> 
     <img align="right" alt="Spotify Now Playing" width=100% src="https://spotify-github-profile.vercel.app/api/view?uid=31rovcoqi44ew75t535jlndsain4&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=true" />
     </a>
 </div>
 
 <hr>
 
-<div align=center>
+<!-- <div align=center>
         <object data="https://sabyasachiseal.me/ChromeDinoGame/" height=180 width="100%">
-            <embed src="https://sabyasachiseal.me/ChromeDinoGame/" width="100%"> </embed>
-<!--             Check Out the Chrome Dino Game !
-            https://sabyasachiseal.me/ChromeDinoGame/ -->
+            <embed src="https://sabyasachiseal.me/ChromeDinoGame/" width="100%"> </embed>Check Out the Chrome Dino Game !
+            https://sabyasachiseal.me/ChromeDinoGame/
         </object>
-</div>
+</div> -->
 
 <!-- <embed src="https://sabyasachiseal.me/ChromeDinoGame/"
 width=100%
