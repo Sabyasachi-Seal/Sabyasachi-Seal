@@ -23,14 +23,14 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">Sabyasachi-Seal/Repository_Views</span>
+                                        <span class="repo">Sabyasachi-Seal/Sabyasachi-Seal</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
+                                    <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#77b48d4</div>
-                                        <div class="message">Update views</div>
+                                        <div class="sha">#0b2b932</div>
+                                        <div class="message">Spotify!</div>
                                     </div>
                                 </div>
                             </section>
@@ -43,14 +43,14 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">Sabyasachi-Seal/CodingInJava</span>
+                                        <span class="repo">Sabyasachi-Seal/Sabyasachi-Seal</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
+                                    <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#c00137b</div>
-                                        <div class="message">Question Added</div>
+                                        <div class="sha">#11b88ed</div>
+                                        <div class="message">Minor Changes</div>
                                     </div>
                                 </div>
                             </section>
@@ -63,14 +63,14 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">Sabyasachi-Seal/CodingInJava</span>
+                                        <span class="repo">Sabyasachi-Seal/Sabyasachi-Seal</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
+                                    <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#2bf73e4</div>
-                                        <div class="message">Good Pairs</div>
+                                        <div class="sha">#18987fa</div>
+                                        <div class="message">Added Spotify, Removed LinkedIn</div>
                                     </div>
                                 </div>
                             </section>
