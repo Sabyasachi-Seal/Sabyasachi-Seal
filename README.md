@@ -252,7 +252,7 @@
 <h2></h2>
 
 <div align=center>   
-    <a href="https://open.spotify.com/user/31rovcoqi44ew75t535jlndsain4">
+    <a href="https://open.spotify.com/embed/playlist/73JrRdB8AjHDGRP9lNvZam?utm_source=generator&theme=0">
         <img width=100% height=100% align="center" alt="Coding" src="https://readme-typing-svg.herokuapp.com?color=ff5722&center=true&vCenter=true&width=550%&lines=Wanna+listen+to+the+best+playlist+ever?" /> 
         <img align="right" alt="Spotify Now Playing" width=100% src="https://spotify-github-profile.vercel.app/api/view?uid=31rovcoqi44ew75t535jlndsain4&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=true" />
     </a>
@@ -266,6 +266,8 @@
             https://sabyasachiseal.me/ChromeDinoGame/
         </object>
 </div> -->
+
+<!-- <iframe src="https://open.spotify.com/embed/playlist/73JrRdB8AjHDGRP9lNvZam?utm_source=generator&theme=0" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe> -->
 
 <!-- <embed src="https://sabyasachiseal.me/ChromeDinoGame/"
 width=100%
