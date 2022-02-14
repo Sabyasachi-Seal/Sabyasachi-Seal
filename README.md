@@ -1,19 +1,21 @@
 <div align="center" >
 <a href="https://github.com/Sabyasachi-Seal">
-<img width=100% src="https://raw.githubusercontent.com/Sabyasachi-Seal/Sabyasachi-Seal/ouput/action2.gif" href="https://github.com/Sabyasachi-Seal" /></a>
+    <img width=100% src="https://raw.githubusercontent.com/Sabyasachi-Seal/Sabyasachi-Seal/ouput/action2.gif" href="https://github.com/Sabyasachi-Seal" /></a>
 </div>
 
 <hr>
 
 <h1 align="center"><img width=7% height=15% src="https://raw.githubusercontent.com/Sabyasachi-Seal/Sabyasachi-Seal/ouput/Hi.gif"/> I'm a
-<a href="https://github.com/Sabyasachi-Seal">
-        <img align=center width=100% src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=35&center=true&vCenter=true&width=600%&lines=Cloud+Computing+Enthusiast;Cybersecurity+Passionate;Data+Science+Practitioner;AI+%26+ML+Enthusiast;Computer+Science+Undergrad;Tech+Blogger" /></a>
-        </h1>
+    <a href="https://github.com/Sabyasachi-Seal">
+        <img align=center width=100% src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=35&center=true&vCenter=true&width=600%&lines=Cloud+Computing+Enthusiast;Cybersecurity+Passionate;Data+Science+Practitioner;AI+%26+ML+Enthusiast;Computer+Science+Undergrad;Tech+Blogger" />
+    </a>
+</h1>
 
 <br>
 
 <div align=center>
-    <a href="https://github.com/Sabyasachi-Seal" target="_blank"><img align="right" alt="Coding" width=45% height=100% src="https://raw.githubusercontent.com/Sabyasachi-Seal/Sabyasachi-Seal/ouput/coder2.gif" /></a>
+    <a href="https://github.com/Sabyasachi-Seal" target="_blank">
+        <img align="right" alt="Coding" width=45% height=100% src="https://raw.githubusercontent.com/Sabyasachi-Seal/Sabyasachi-Seal/ouput/coder2.gif" /></a>
     <h4>
     🌱 I’m mostly interested in:
     <a href="https://github.com/Sabyasachi-Seal">
@@ -34,42 +36,42 @@
 <div align="right">
     <h2 align="center">Languages and Tools:</h2>
     <br>
-    <img align="left" width=50% alt="Github" src="https://raw.githubusercontent.com/Sabyasachi-Seal/Sabyasachi-Seal/ouput/coder.gif">
+        <img align="left" width=50% alt="Github" src="https://raw.githubusercontent.com/Sabyasachi-Seal/Sabyasachi-Seal/ouput/coder.gif">
     <!-- https://raw.githubusercontent.com/Sabyasachi-Seal/Sabyasachi-Seal/ouput/coder.gif -->
     <p>
         <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="12.5%" height="12.5%" /> 
+            <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="12.5%" height="12.5%" /> 
         </a>
         <a href="https://cloud.google.com" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="12.5%" height="12.5%" />
+            <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="12.5%" height="12.5%" />
         </a>
         <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="12.5%" height="12.5%" />
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="12.5%" height="12.5%" />
         </a>
         </a>
     </p>
     <h2></h2>
     <p>
         <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="12.5%" height="12.5%" />
+            <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="12.5%" height="12.5%" />
         </a>
         <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="12.5%" height="12.5%" />
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="12.5%" height="12.5%" />
         </a>
         <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="12.5%" height="12.5%" />
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="12.5%" height="12.5%" />
         </a>
     </p>
     <h2></h2>
     <p>
         <a href="https://www.python.org" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="12.5%" height="12.5%" />
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="12.5%" height="12.5%" />
         </a>
         <a href="https://www.java.com" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="12.5%" height="12.5%" />
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="12.5%" height="12.5%" />
         </a>
         <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="12.5%" height="12.5%" />
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="12.5%" height="12.5%" />
         </a>
     </p>
 </div>
@@ -78,7 +80,7 @@
 
 <div align="left">
     <a href="https://github.com/Sabyasachi-Seal">
-    <img align="right" width=40% alt="Github" src="https://raw.githubusercontent.com/Sabyasachi-Seal/Sabyasachi-Seal/ouput/github.gif">
+        <img align="right" width=40% alt="Github" src="https://raw.githubusercontent.com/Sabyasachi-Seal/Sabyasachi-Seal/ouput/github.gif">
     </a>
     <br>
     <a href="https://sabyasachiseal.me">
@@ -134,7 +136,7 @@
 
 <div align=center>
     <a href="https://github.com/Sabyasachi-Seal">
-    <img alt="sabyasachi-seal" src="https://activity-graph.herokuapp.com/graph?username=sabyasachi-seal&theme=redical&hide_border=true" />
+        <img alt="sabyasachi-seal" src="https://activity-graph.herokuapp.com/graph?username=sabyasachi-seal&theme=redical&hide_border=true" />
     </a>
 </div>
 
@@ -151,8 +153,8 @@
 
 <div align=center>
     <a href="https://github.com/Sabyasachi-Seal">
-    <img width=49% src="achievements.svg" />
-    <img width=49% src="skyline.svg" />
+        <img width=49% src="achievements.svg" />
+        <img width=49% src="skyline.svg" />
     </a>
 </div>
 
@@ -165,18 +167,24 @@
     <a href="https://github.com/Sabyasachi-Seal">
         <img align="center" alt="Coding" width=49% height=100% src="https://raw.githubusercontent.com/Sabyasachi-Seal/Sabyasachi-Seal/main/img/code.gif" />
     </a>
+    <!-- <a href="https://www.linkedin.com/in/sabyasachi-seal-4461711bb/">
+        <img align=center alt="Footer" width=49% src="https://linkedin-github.herokuapp.com/api/render/Sabyasachi%20Seal/Tech%20Enthusiast/Student/Bachelor%20of%20Technology/dark-red/https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F36451386%3Fv%3D4" />
+    </a> -->
 </div>
 
 
 <h2></h2>
 <h3 align="center">Wanna Talk?</h3>
 
-<a href="mailto:iam.sabyasachi.seal@gmail.com" target="_blank">
-    <img align=center width=100% src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=450%&lines=iam.sabyasachi.seal@gmail.com" />
-</a>
-<a href="mailto:iam.sabyasachi.seal@gmail.com" target="_blank">
-    <img align=center width=100% src="https://readme-typing-svg.herokuapp.com?color=%232CF7E4&center=true&vCenter=true&width=450%&lines=(%2B91)+891-042-7807" />
-</a>
+<div align=center>   
+    <!-- <a href="https://www.linkedin.com/in/sabyasachi-seal-4461711bb/">
+        <img align="right" alt="Footer" width=45% src="https://linkedin-github.herokuapp.com/api/render/Sabyasachi%20Seal/Tech%20Enthusiast/Student/Bachelor%20of%20Technology/dark-red/https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F36451386%3Fv%3D4" />
+    </a> -->
+    <a href="mailto:iam.sabyasachi.seal@gmail.com" target="_blank">
+        <img align=center width=100% src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=450%&lines=iam.sabyasachi.seal@gmail.com" />
+        <img align=center width=100% src="https://readme-typing-svg.herokuapp.com?color=%232CF7E4&center=true&vCenter=true&width=450%&lines=(%2B91)+891-042-7807" />
+    </a>
+</div>
 
 <hr>
 
