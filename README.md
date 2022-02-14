@@ -240,9 +240,12 @@
     </a>
 </div> -->
 
+<h2></h2>
+
 <div align=center>   
-    <a href="">
-    <img align="right" alt="Footer" width=100% src="https://spotify-github-profile.vercel.app/api/view?uid=31rovcoqi44ew75t535jlndsain4&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=true" />
+    <a href="https://open.spotify.com/user/31rovcoqi44ew75t535jlndsain4">
+    <img width=100% height=100% align="center" alt="Coding" src="https://readme-typing-svg.herokuapp.com?color=ff9800&center=true&vCenter=true&width=550%&lines=Wanna+listen+to+the+best+playlist+ever?" /> 
+    <img align="right" alt="Spotify Now Playing" width=100% src="https://spotify-github-profile.vercel.app/api/view?uid=31rovcoqi44ew75t535jlndsain4&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=true" />
     </a>
 </div>
 
