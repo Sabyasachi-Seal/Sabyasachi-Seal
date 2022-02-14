@@ -204,7 +204,7 @@
     <img width=100% height=100% align="center" alt="Followers" src="followers.svg" />
 </div>
 
-<h2></h2>
+<hr>
 
 <div align=center>
     <a href="https://github.com/Sabyasachi-Seal">            
@@ -212,7 +212,7 @@
     </a>
 </div>
 
-<hr>
+<h2></h2>
 
 <div align=center>
     <a href="https://github.com/Sabyasachi-Seal">            
@@ -220,7 +220,7 @@
     </a>
 </div>
 
-<h2></h2>
+<hr>
 
 <div align=center>   
     <a href="https://sabyasachiseal.me/">
