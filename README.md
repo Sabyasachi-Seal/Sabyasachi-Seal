@@ -232,12 +232,17 @@
 <div align=center>   
     <a href="https://sabyasachiseal.me/">
     <img align="center" alt="Footer" width=100% src="https://raw.githubusercontent.com/Sabyasachi-Seal/Sabyasachi-Seal/5e25d8798cd48ce2b0880b8672a4443632a4ce73/footer.svg" />
-    <!-- https://linkedin-github.herokuapp.com/api/render/Sabyasachi%20Seal/Tech%20Enthusiast/Student/Bachelor%20of%20Technology/dark-red/https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F36451386%3Fv%3D4 -->
 </div>
 
-<div align=center>   
+<!-- <div align=center>   
     <a href="https://www.linkedin.com/in/sabyasachi-seal-4461711bb/">
-    <img align="center" alt="Footer" width=100% src="https://linkedin-github.herokuapp.com/api/render/Sabyasachi%20Seal/Tech%20Enthusiast/Student/Bachelor%20of%20Technology/dark-red/https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F36451386%3Fv%3D4" />
+    <img align="left" alt="Footer" width=100% src="https://linkedin-github.herokuapp.com/api/render/Sabyasachi%20Seal/Tech%20Enthusiast/Student/Bachelor%20of%20Technology/dark-red/https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F36451386%3Fv%3D4" />
+    </a>
+</div> -->
+
+<div align=center>   
+    <a href="">
+    <img align="right" alt="Footer" width=100% src="https://spotify-github-profile.vercel.app/api/view?uid=31rovcoqi44ew75t535jlndsain4&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=true" />
     </a>
 </div>
 
