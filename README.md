@@ -232,6 +232,7 @@
 <div align=center>   
     <a href="https://sabyasachiseal.me/">
     <img align="center" alt="Footer" width=100% src="https://raw.githubusercontent.com/Sabyasachi-Seal/Sabyasachi-Seal/5e25d8798cd48ce2b0880b8672a4443632a4ce73/footer.svg" />
+    <!-- <img align="center" alt="Footer" width=100% src="img/footer.svg" /> -->
 </div>
 
 <!-- <div align=center>   

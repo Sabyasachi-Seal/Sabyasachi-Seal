@@ -3,17 +3,17 @@
 svg {
   width:110vw;
   position:fixed;
-  top:-5px;
+  top:-1px;
   transform: rotate(360deg);
   overflow:visible;
 }
 .wave {
   animation: wave 3s linear;
   animation-iteration-count:infinite;
-  fill: #000;  
+  fill: #e91e63;  
 }
 .wave:hover {
-  fill: #fff;
+  fill: #000;
 }
 #wave2 {
   animation-duration:6s;
