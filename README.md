@@ -245,7 +245,7 @@
 </div>
 
 <div align=center>   
-    <a href="https://sabyasachiseal.me/">
+    <a href="https://github.com/Sabyasachi-Seal">
         <img align="center" alt="Footer" width=100% src="https://raw.githubusercontent.com/Sabyasachi-Seal/Sabyasachi-Seal/ouput/footer.svg" />
     <!-- <img align="center" alt="Footer" width=100% src="img/footer.svg" /> -->
 </div>
@@ -256,7 +256,7 @@
     </a>
 </div> -->
 
-<h2></h2>
+<hr>
 
 <!-- <div align=center>
         <object data="https://sabyasachiseal.me/ChromeDinoGame/" height=180 width="100%">
