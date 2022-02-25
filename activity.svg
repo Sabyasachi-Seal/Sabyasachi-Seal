@@ -23,14 +23,14 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">Sabyasachi-Seal/Repository_Views</span>
+                                        <span class="repo">Sabyasachi-Seal/Books</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
+                                    <div>on branch <span class="code">gh-pages</span></div>
                                     <div class="commit">
-                                        <div class="sha">#7277713</div>
-                                        <div class="message">Update views</div>
+                                        <div class="sha">#96524bd</div>
+                                        <div class="message">Update index.md</div>
                                     </div>
                                 </div>
                             </section>
@@ -43,14 +43,14 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">Sabyasachi-Seal/Repository_Views</span>
+                                        <span class="repo">Sabyasachi-Seal/Books</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
+                                    <div>on branch <span class="code">gh-pages</span></div>
                                     <div class="commit">
-                                        <div class="sha">#0035ee0</div>
-                                        <div class="message">Update views</div>
+                                        <div class="sha">#868a795</div>
+                                        <div class="message">Update index.md</div>
                                     </div>
                                 </div>
                             </section>
@@ -63,14 +63,14 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">Sabyasachi-Seal/Sabyasachi-Seal</span>
+                                        <span class="repo">Sabyasachi-Seal/Books</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#b321366</div>
-                                        <div class="message">updated cron</div>
+                                        <div class="sha">#a3bacc6</div>
+                                        <div class="message">Update README.md</div>
                                     </div>
                                 </div>
                             </section>
