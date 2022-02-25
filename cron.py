@@ -17,7 +17,7 @@ import os
 
 # cron = croncontent[croncontent.index("- cron"): croncontent.index("- cron") + 21]
 
-yamlfile =  open('Sabyasachi-Seal\.github\workflows\Profile3D.yml', 'r')
+yamlfile =  open('.github\workflows\Profile3D.yml', 'r')
 fullfile = yaml.load(yamlfile, Loader=yaml.FullLoader)
 yamlfile.close()
 
@@ -31,7 +31,7 @@ fullfile[True]["schedule"][-1]["cron"] = cron
 
 # print(fullfile)
 
-yamlfile =  open('Sabyasachi-Seal\.github\workflows\Profile3D.yml', 'w')
+yamlfile =  open('.github\workflows\Profile3D.yml', 'w')
 yaml.dump(fullfile, yamlfile)
 yamlfile.close()
 
