@@ -17,6 +17,6 @@ yamlfile.close()
 
 print("Updated Cron Job")
 
-os.system('git add .github\workflows\Profile3D.yml')
+os.system('git add .')
 os.system('git commit -m "Cron Job Update"')
 os.system('git push')
