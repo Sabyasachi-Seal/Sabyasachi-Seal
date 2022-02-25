@@ -14,12 +14,13 @@ import os
 yamlfile =  open('.github\workflows\Profile3D.yml', 'r')
 fullfile = yaml.load(yamlfile, Loader=yaml.FullLoader)
 yamlfile.close()
+print(fullfile)
 
 cron = fullfile[True]["schedule"][-1]["cron"]
 
 # print(cron)
 
-cron = "0 */" + str(random.randint(1, 8)) + " * * *"
+cron = "'0 */" + str(random.randint(1, 8)) + " * * *'"
 
 fullfile[True]["schedule"][-1]["cron"] = cron
 
