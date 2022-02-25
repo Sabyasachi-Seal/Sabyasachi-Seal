@@ -7,7 +7,7 @@ cronjobraw = "https://raw.githubusercontent.com/Sabyasachi-Seal/Sabyasachi-Seal/
 cron = requests.get(cronjobraw)
 croncontent = cron.text
 croncontent = croncontent.split("\n")
-croncontent[3] =   f"  - cron: '0 */{str(random.randint(1, 8))} * * *'"
+croncontent[3] =   f'  - cron: "0 */{str(random.randint(1, 8))} * * *"'
 
 yamlfile =  open('.github\workflows\Profile3D.yml', 'w')
 
