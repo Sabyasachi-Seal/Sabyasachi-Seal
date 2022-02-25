@@ -1,27 +1,30 @@
 name: GitHub 3D Contribution Graph
-
-on:
+true:
   schedule:
-    - cron: "0 */6 * * *"
-  workflow_dispatch:
-
+  - cron: 0 */3 * * *
+  workflow_dispatch: null
 jobs:
   build:
-    runs-on: ubuntu-latest
     name: Main Workflow
+    runs-on: ubuntu-latest
     steps:
-      - name: Checkout
-        uses: actions/checkout@v2
-      - name: Generate
-        uses: yoshi389111/github-profile-3d-contrib@0.5.0
-        env:
-          GITHUB_TOKEN: ${{ secrets.ACTIONS_TOKEN }}
-          USERNAME: ${{ github.repository_owner }}
-          MAX_REPOS: 250
-      - name: Commit & Push
-        run: |
-          git config user.name Sabyasachi-Seal
-          git config user.email yoboy907@gmail.com
-          git add -A .
-          git commit -m "Update 3D Graph"
-          git push
+    - name: Checkout
+      uses: actions/checkout@v2
+    - env:
+        GITHUB_TOKEN: ${{ secrets.ACTIONS_TOKEN }}
+        MAX_REPOS: 250
+        USERNAME: ${{ github.repository_owner }}
+      name: Generate
+      uses: yoshi389111/github-profile-3d-contrib@0.5.0
+    - name: Commit & Push
+      run: 'git config user.name Sabyasachi-Seal
+
+        git config user.email yoboy907@gmail.com
+
+        git add -A .
+
+        git commit -m "Update 3D Graph"
+
+        git push
+
+        '
