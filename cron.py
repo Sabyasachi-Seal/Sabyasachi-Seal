@@ -4,17 +4,11 @@ import yaml
 import os
 
 # readmeraw = "https://raw.githubusercontent.com/Sabyasachi-Seal/Sabyasachi-Seal/main/README.md"
-
 # cronjobraw = "https://raw.githubusercontent.com/Sabyasachi-Seal/Sabyasachi-Seal/main/.github/workflows/Profile3D.yml"
-
 # readme = requests.get(readmeraw)
-
 # cron = requests.get(cronjobraw)
-
 # readmecontent = readme.text
-
 # croncontent = cron.text
-
 # cron = croncontent[croncontent.index("- cron"): croncontent.index("- cron") + 21]
 
 yamlfile =  open('.github\workflows\Profile3D.yml', 'r')
