@@ -9,7 +9,7 @@ jobs:
     name: Main Workflow
     steps:
       - uses: actions/checkout@v2
-      - uses:  Sabyasachi-Seal/3DContributionGraph@CustomFolderV1
+      - uses:  Sabyasachi-Seal/3DContributionGraph@CustomFolderV2
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
