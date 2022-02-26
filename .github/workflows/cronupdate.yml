@@ -37,16 +37,18 @@ jobs:
           python cron.py
         env:
           key: ${{ secrets.key }}
-      # - name: Git Log 1
-      #   run: |
-      #     git log
-      # - name: Commit
-      #   run: |
-      #     git add -A .
-      #     git commit -m "Cron Update"
-      # - name: Git Log 2
-      #   run: |
-      #     git log
-      # - name: Push
-      #   run: |
-      #     git push
+      - name: Git Log 1
+        run: |
+          git log
+      - name: Commit
+        run: |
+          git add -A .
+          git commit -m "Cron Update"
+      - name: Git Log 2
+        run: |
+          git log
+      - name: Push
+        run: |
+          git push
+        env:
+          GITHUB_TOKEN: ${{ secrets.ALL_TOKEN }}
