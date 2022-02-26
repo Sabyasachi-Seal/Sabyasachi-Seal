@@ -40,3 +40,4 @@ jobs:
           git pull
           git add .
           git commit -m "CI: Update Cron"
+          git push
