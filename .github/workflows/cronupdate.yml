@@ -43,7 +43,7 @@ jobs:
           git add .
           git commit -m "CI: Update Cron"
           git push -u https://${{ secrets.GITHUB_TOKEN }}@github.com/${GITHUB_REPOSITORY}.git update
-          echo "${{ secrets.ACTIONS_TOKEN }}" | gh auth login --with-token
+          echo "${{ secrets.ALL_TOKEN }}" | gh auth login --with-token
           gh pr create --head update --fill
           gh pr review --comment -b "AutoCheck"
           gh pr review --comment -b "Checked"
