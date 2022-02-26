@@ -12,8 +12,9 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v2.3.4
-        with:
-           token: ${{ secrets.ACTIONS_TOKEN }}
+      - env:
+          GITHUB_TOKEN: ${{ secrets.ALL_TOKEN }}
+          USERNAME: ${{ github.repository_owner }}
       - name: Setup Python
         uses: actions/setup-python@v2
         with:
@@ -23,11 +24,7 @@ jobs:
           pip install requests
       - name: Install YAML
         run: |
-          pip install pyyaml    
-      - name: Setting Up GitPush
-        run: |
-          git config user.email "yoboy907@gmail.com"
-          git config user.name "Sabyasachi Seal"
+          pip install pyyaml
         env:
           key: ${{ secrets.key }}
       - name: Update Cron
@@ -35,9 +32,11 @@ jobs:
           python cron.py
         env:
           key: ${{ secrets.key }}
-      # - name: Commit New YAML
-      #   run: |
-      #     git pull
-      #     git add .
-      #     git commit -m "CI: Update Cron"
-      #     git push
+      - name: Commit New YAML
+        run: |
+          git config user.name Sabyasachi-Seal
+          git config user.email yoboy907@gmail.com
+          git pull
+          git add -A .
+          git commit -m "CI: Update Cron"
+          git push
