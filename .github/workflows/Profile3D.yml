@@ -10,7 +10,7 @@ jobs:
     steps:
     - name: Checkout
       uses: actions/checkout@v2
-    - env:
+      env:
         GITHUB_TOKEN: ${{ secrets.ACTIONS_TOKEN }}
         MAX_REPOS: 250
         USERNAME: ${{ github.repository_owner }}
