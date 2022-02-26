@@ -29,7 +29,7 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#93d4f6f</div>
+                                        <div class="sha">#af98c88</div>
                                         <div class="message">CI: Cron Update</div>
                                     </div>
                                 </div>
@@ -49,8 +49,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#131f182</div>
-                                        <div class="message">CI: Cron Update</div>
+                                        <div class="sha">#f416d73</div>
+                                        <div class="message">Cron : Everyday</div>
                                     </div>
                                 </div>
                             </section>
@@ -63,14 +63,14 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">Sabyasachi-Seal/Sabyasachi-Seal</span>
+                                        <span class="repo">Sabyasachi-Seal/Repository_Views</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
+                                    <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#3a49d77</div>
-                                        <div class="message">CI: Cron Update</div>
+                                        <div class="sha">#06600d7</div>
+                                        <div class="message">Update views</div>
                                     </div>
                                 </div>
                             </section>
