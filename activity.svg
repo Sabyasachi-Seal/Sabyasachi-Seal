@@ -29,8 +29,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#fba60c2</div>
-                                        <div class="message">Cron Job Update</div>
+                                        <div class="sha">#852d6d8</div>
+                                        <div class="message">Update Profile3D.yml</div>
                                     </div>
                                 </div>
                             </section>
@@ -49,8 +49,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#d1a6a5f</div>
-                                        <div class="message">Cron Job Update</div>
+                                        <div class="sha">#b93fda7</div>
+                                        <div class="message">CI: Cron Update</div>
                                     </div>
                                 </div>
                             </section>
@@ -69,8 +69,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#fb5cda5</div>
-                                        <div class="message">fixed missing</div>
+                                        <div class="sha">#1aa577f</div>
+                                        <div class="message">Updated backups</div>
                                     </div>
                                 </div>
                             </section>
