@@ -2,8 +2,8 @@ name: Cron Updater
 on:
   # push:
   #   branch: [ master ]
-  # schedule:
-  #   - cron: '5 * */1 * *'
+  schedule:
+    - cron: '5 * */1 * *'
   workflow_dispatch:
 jobs:
   release:
