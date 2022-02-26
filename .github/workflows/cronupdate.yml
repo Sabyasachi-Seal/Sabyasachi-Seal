@@ -27,15 +27,26 @@ jobs:
           pip install pyyaml
         env:
           key: ${{ secrets.key }}
+      - name: Git Config
+        run: |
+          git config user.name Sabyasachi-Seal
+          git config user.email yoboy907@gmail.com
+          git pull
       - name: Update Cron
         run: |
           python cron.py
         env:
           key: ${{ secrets.key }}
-      - name: Commit New YAML
+      - name: Git Log 1
         run: |
-          git config user.name Sabyasachi-Seal
-          git config user.email yoboy907@gmail.com
+          git log
+      - name: Commit
+        run: |
           git add -A .
-          git commit -m "CI: Update Cron"
+          git commit -m "Update 3D Graph"
+      - name: Git Log 2
+        run: |
+          git log
+      - name: Push
+        run: |
           git push
