@@ -1,7 +1,7 @@
 name: GitHub 3D Contribution Graph
 on:
   schedule:
-  - cron: "0 */4 * * *"
+  - cron: "0 */2 * * *"
   workflow_dispatch:
 jobs:
   build:
@@ -10,11 +10,11 @@ jobs:
     steps:
     - name: Checkout
       uses: actions/checkout@v2
-    - env:
+      env:
         GITHUB_TOKEN: ${{ secrets.ACTIONS_TOKEN }}
         MAX_REPOS: 250
         USERNAME: ${{ github.repository_owner }}
-      name: Generate
+    - name: Generate
       uses: yoshi389111/github-profile-3d-contrib@0.5.0
     - name: Commit & Push
       run: |
