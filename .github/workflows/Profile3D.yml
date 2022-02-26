@@ -5,21 +5,18 @@ on:
   workflow_dispatch:
 jobs:
   build:
-    name: Main Workflow
     runs-on: ubuntu-latest
+    name: generate-github-profile-3d-contrib
     steps:
-    - name: Checkout
-      uses: actions/checkout@v2
-      env:
-        GITHUB_TOKEN: ${{ secrets.WORKFLOW_TOKEN }}
-        MAX_REPOS: 250
-        USERNAME: ${{ github.repository_owner }}
-    - name: Generate
-      uses: yoshi389111/github-profile-3d-contrib@0.5.0
-    - name: Commit & Push
-      run: |
-        git config user.name Sabyasachi-Seal
-        git config user.email yoboy907@gmail.com
-        git add -A .
-        git commit -m "Update 3D Graph"
-        git push
+      - uses: actions/checkout@v2
+      - uses: yoshi389111/github-profile-3d-contrib@0.6.0
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: ${{ github.repository_owner }}
+      - name: Commit & Push
+        run: |
+          git config user.name Sabyasachi Seal
+          git config user.email yoboy907@gmail.com
+          git add -A .
+          git commit -m "Update 3D Graph"
+          git push
