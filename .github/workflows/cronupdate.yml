@@ -13,7 +13,7 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v2.3.4
         with:
-          GITHUB_TOKEN: ${{ secrets.WORKFLOW_TOKEN }}
+          token: ${{ secrets.WORKFLOW_TOKEN }}
       - name: Setup Python
         uses: actions/setup-python@v2
         with:
