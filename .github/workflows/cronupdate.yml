@@ -38,14 +38,5 @@ jobs:
       - name: Commit New YAML
         run: |
           git pull
-          git config user.name "${GITHUB_ACTOR}"
-          git config user.email "${GITHUB_ACTOR}@users.noreply.github.com"
-          git checkout -b update
           git add .
           git commit -m "CI: Update Cron"
-          git push -u https://${{ secrets.GITHUB_TOKEN }}@github.com/${GITHUB_REPOSITORY}.git update
-          echo "${{ secrets.ALL_TOKEN }}" | gh auth login --with-token
-          gh pr create --head update --fill
-          gh pr review --comment -b "AutoCheck"
-          gh pr review --comment -b "Checked"
-          gh pr merge -d -m
