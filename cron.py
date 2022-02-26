@@ -9,7 +9,7 @@ croncontent = cron.text
 croncontent = croncontent.split("\n")
 croncontent[3] =   f'  - cron: "0 */{str(random.randint(1, 8))} * * *"'
 
-yamlfile =  open('.github\workflows\Profile3D.yml', 'w')
+yamlfile =  open('.github/workflows/Profile3D.yml', 'w')
 
 yamlfile.write("\n".join(croncontent))
 
