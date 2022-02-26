@@ -17,8 +17,8 @@ yamlfile.close()
 
 print("Updated Cron Job")
 
-os.system('cd ./github/workflows')
-os.system('git pull')
-os.system('git add .')
-os.system('git commit -m "Cron Job Update"')
-os.system('git push')
+# os.system('cd ./github/workflows')
+# os.system('git pull')
+# os.system('git add .')
+# os.system('git commit -m "Cron Job Update"')
+# os.system('git push')
