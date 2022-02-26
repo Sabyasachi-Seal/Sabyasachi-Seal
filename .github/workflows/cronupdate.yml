@@ -35,9 +35,9 @@ jobs:
           python cron.py
         env:
           key: ${{ secrets.key }}
-      - name: Commit New YAML
-        run: |
-          git pull
-          git add .
-          git commit -m "CI: Update Cron"
-          git push
+      # - name: Commit New YAML
+      #   run: |
+      #     git pull
+      #     git add .
+      #     git commit -m "CI: Update Cron"
+      #     git push
