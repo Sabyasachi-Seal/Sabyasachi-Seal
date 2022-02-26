@@ -38,6 +38,7 @@ jobs:
       - name: Commit New YAML
         run: |
           git pull
+          cd ./.github/workflows
           git add .
           git commit -m "CI: Update Cron"
           git push
