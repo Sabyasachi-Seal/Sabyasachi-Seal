@@ -49,5 +49,3 @@ jobs:
       - name: Push
         run: |
           git push
-        with:
-          GITHUB_TOKEN: ${{ secrets.WORKFLOW_TOKEN }}
