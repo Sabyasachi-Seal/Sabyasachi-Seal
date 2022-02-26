@@ -12,9 +12,8 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v2.3.4
-        env:
+        with:
           GITHUB_TOKEN: ${{ secrets.WORKFLOW_TOKEN }}
-          USERNAME: ${{ github.repository_owner }}
       - name: Setup Python
         uses: actions/setup-python@v2
         with:
@@ -50,5 +49,5 @@ jobs:
       - name: Push
         run: |
           git push
-        env:
+        with:
           GITHUB_TOKEN: ${{ secrets.WORKFLOW_TOKEN }}
