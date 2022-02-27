@@ -234,7 +234,7 @@
     <a href="https://sabyasachiseal.me/">
     <img width=100% align="center" alt="Coding" src="https://readme-typing-svg.herokuapp.com?color=e91e63&center=true&vCenter=true&width=350%&lines=Check+out+my+website+!" />        
     <img align="center" alt="Website Stats" width=100% height=50% src="website.svg" />
-    <img align="center" width=95% alt="Website Stats" width=100% height=50% src="img/thumbnail.png" />
+    <img align="center" width=95% alt="Website Thumbnail" width=100% height=50% src="img/thumbnail.png" />
     </a>
 </div>
 
