@@ -1,7 +1,7 @@
 name: GitHub 3D Contribution Graph
 on:
   schedule:
-  - cron: "0 */2 * * *"
+  - cron: "0 */3 * * *"
   workflow_dispatch:
 jobs:
   build:
@@ -9,7 +9,7 @@ jobs:
     name: Main Workflow
     steps:
       - uses: actions/checkout@v2
-      - uses: yoshi389111/github-profile-3d-contrib@0.6.0
+      - uses:  Sabyasachi-Seal/3DContributionGraph@CustomFolderV3
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: ${{ github.repository_owner }}

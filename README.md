@@ -145,7 +145,7 @@
 
 <div align=center>
     <a href="https://github.com/Sabyasachi-Seal" target="_blank">
-        <img align=center width=100% src="profile-3d-contrib/profile-night-rainbow.svg" />
+        <img align=center width=100% src="https://raw.githubusercontent.com/Sabyasachi-Seal/Sabyasachi-Seal/main/3DGraphs/profile-night-rainbow.svg" />
     </a>
 </div>
 
