@@ -21,9 +21,9 @@ jobs:
       - name: Install Requests
         run: |
           pip install requests
-      - name: Install YAML
-        run: |
-          pip install pyyaml
+      # - name: Install YAML
+      #   run: |
+      #     pip install pyyaml
         env:
           key: ${{ secrets.key }}
       - name: Git Config
