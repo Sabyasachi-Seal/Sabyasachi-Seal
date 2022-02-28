@@ -44,4 +44,3 @@ svg {
   <use id="wave2" class="wave" xlink:href="#wave" x="0" y="0" ></use>
   <use id="wave3" class="wave" xlink:href="#wave" x="0" y="-2" ></use> 
 </svg>
-
