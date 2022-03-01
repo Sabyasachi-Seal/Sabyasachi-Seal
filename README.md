@@ -36,8 +36,10 @@
 <div align="right">
     <h2 align="center">Languages and Tools:</h2>
     <br>
+    <a href="https://github.com/Sabyasachi-Seal">
         <img align="left" width=50% alt="Github" src="https://raw.githubusercontent.com/Sabyasachi-Seal/Sabyasachi-Seal/ouput/coder.gif">
-    <!-- https://raw.githubusercontent.com/Sabyasachi-Seal/Sabyasachi-Seal/ouput/coder.gif -->
+        <!-- https://raw.githubusercontent.com/Sabyasachi-Seal/Sabyasachi-Seal/ouput/coder.gif -->
+    </a>
     <p>
         <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer">
             <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="12.5%" height="12.5%" /> 
