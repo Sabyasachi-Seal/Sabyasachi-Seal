@@ -8,7 +8,7 @@ svg {
   overflow:visible;
 }
 .wave {
-    animation: wave 0.5s linear;
+    animation: wave 9s linear;
     animation-iteration-count: infinite;  
     fill: #e91e63;
 }
@@ -29,39 +29,47 @@ svg {
     transform: translateX(-100%);
   } -->
   0% {
-        fill: #7694e4;
+        fill: #FF0000 ;
         transform: translateX(-0%);
       }
-  12.5% {
-        fill: green;
-        transform: translateX(-12.5%);
+  10% {
+        fill: #FF8700 ;
+        transform: translateX(-10%);
       }
-  25% {
-        fill: yellow;
-        transform: translateX(-25%);
+  20% {
+        fill: #FFD300 ;
+        transform: translateX(-20%);
       }
-  37.5% {
-        fill: orange;
-        transform: translateX(-37.5%);
+  30% {
+        fill: #DEFF0A ;
+        transform: translateX(-30%);
+      }
+  40% {
+        fill: #A1FF0A ;
+        transform: translateX(-40%);
       }
   50% {
-        fill: red;
+        fill: #0AFF99 ;
         transform: translateX(-50%);
       }
-  62.5% {
-        fill: hotpink;
-        transform: translateX(-62.5%);
+  60% {
+        fill: #0AEFFF ;
+        transform: translateX(-60%);
       }
-  75% {
-        fill: purple;
-        transform: translateX(-75%);
+  70% {
+        fill: #147DF5 ;
+        transform: translateX(-70%);
       }
-  87.5% {
-        fill: blue;
-        transform: translateX(-87.5%);
+  80%{
+        fill: #580AFF ;
+        transform: translateX(-80%);
+      }
+  90%{
+        fill: #BE0AFF;
+        transform: translateX(-90%);
       }
   100%{
-        fill: #7694e4;
+        fill: #FF0000 ;
         transform: translateX(-100%);
       }
     }
