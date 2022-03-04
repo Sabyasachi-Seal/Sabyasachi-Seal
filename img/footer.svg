@@ -8,7 +8,7 @@ svg {
   overflow:visible;
 }
 .wave {
-    animation: wave 9s linear;
+    animation: wave 3s linear;
     animation-iteration-count: infinite;  
     fill: #e91e63;
 }
@@ -16,7 +16,7 @@ svg {
   fill: #000;
 }
 #wave2 {
-  animation-duration:6s;
+  animation-duration: 6s;
   animation-direction: reverse;
   opacity: .9;
 }
