@@ -29,8 +29,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#79dbed0</div>
-                                        <div class="message">Sentiment Analysis</div>
+                                        <div class="sha">#69fea81</div>
+                                        <div class="message">Working.</div>
                                     </div>
                                 </div>
                             </section>
@@ -49,8 +49,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#07157d0</div>
-                                        <div class="message">Plotted</div>
+                                        <div class="sha">#a77c1e7</div>
+                                        <div class="message">Subjectivity and Polarity Scores</div>
                                     </div>
                                 </div>
                             </section>
@@ -69,8 +69,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#1495a9b</div>
-                                        <div class="message">City Data</div>
+                                        <div class="sha">#dedaadc</div>
+                                        <div class="message">Subtle Changes</div>
                                     </div>
                                 </div>
                             </section>
