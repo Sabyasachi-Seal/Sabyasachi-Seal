@@ -25,9 +25,6 @@ svg {
   opacity:.6;
 }
 @keyframes wave {
-  <!-- 0% {
-    transform: translateX(-100%);
-  } -->
   0% {
         fill: #FF0000 ;
         transform: translateX(-0%);
