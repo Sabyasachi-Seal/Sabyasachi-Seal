@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="233" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="549" class="">
     <defs>
         <style/>
     </defs>
@@ -22,6 +22,122 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
+                                        Pushed 38 commits in
+                                        <span class="repo">Sabyasachi-Seal/Project-Guidance</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#4ad3637</div>
+                                        <div class="message">Create Student Assessment Card</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#7a1cbbd</div>
+                                        <div class="message">Merge branch 'Kushal997-das:main' into main</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#9021a12</div>
+                                        <div class="message">Added quiz website template</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#6078811</div>
+                                        <div class="message">folder move from intrmedeate to basic</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#042d274</div>
+                                        <div class="message">Merge branch 'Kushal997-das:main' into webdev</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#dcdce96</div>
+                                        <div class="message">readme file added</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#8cbdcc5</div>
+                                        <div class="message">Merge branch 'Kushal997-das:main' into webdev</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#cbd1823</div>
+                                        <div class="message">Upload readme</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#a058f85</div>
+                                        <div class="message">Trained Data</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#c46c525</div>
+                                        <div class="message">Added Main Files</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#fc7f232</div>
+                                        <div class="message">Added Data</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#1e755c4</div>
+                                        <div class="message">Delete Student Assessment using Python and MySQL directory</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#c285040</div>
+                                        <div class="message">casio added to webdev</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#91a2c36</div>
+                                        <div class="message">Update readme.md</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#56f12ce</div>
+                                        <div class="message">Update readme.md</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#e75919b</div>
+                                        <div class="message">Update Marks-Assessment.py</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#a7176e3</div>
+                                        <div class="message">Update readme.md</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#7682d1f</div>
+                                        <div class="message">Update readme.md</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#0626a11</div>
+                                        <div class="message">Add files via upload</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#743038c</div>
+                                        <div class="message">Create readme.md</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">Sabyasachi-Seal/Sabyasachi-Seal</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#3299a9b</div>
+                                        <div class="message">CI: Cron Update</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
                                         Pushed 1 commit in
                                         <span class="repo">Sabyasachi-Seal/Repository_Views</span>
                                     </div>
@@ -29,48 +145,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#52d4188</div>
+                                        <div class="sha">#2fff833</div>
                                         <div class="message">Update views</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">Sabyasachi-Seal/StockMarketPrediction</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#b76b0b9</div>
-                                        <div class="message">Done.</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">Sabyasachi-Seal/StockMarketPrediction</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#69fea81</div>
-                                        <div class="message">Working.</div>
                                     </div>
                                 </div>
                             </section>
