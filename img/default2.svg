@@ -123,7 +123,7 @@
       }
 
       .bar {
-        background: #006eff;
+        background: #32CD32;
         bottom: 1px;
         height: 3px;
         position: absolute;
