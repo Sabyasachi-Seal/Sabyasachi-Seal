@@ -251,7 +251,7 @@
 
 <div align=center>   
     <a href="https://github.com/Sabyasachi-Seal">
-        <img align="center" alt="Footer" width=100% src="https://raw.githubusercontent.com/Sabyasachi-Seal/Sabyasachi-Seal/ouput/footer.svg" />
+        <img align="center" alt="Footer" width=100% src="https://raw.githubusercontent.com/Sabyasachi-Seal/Sabyasachi-Seal/ouput/footer.svg" onerror="this.src='img/default2.svg';"/>
     <!-- <img align="center" alt="Footer" width=100% src="img/footer.svg" /> -->
 </div>
 
