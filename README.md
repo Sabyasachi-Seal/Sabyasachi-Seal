@@ -247,7 +247,9 @@
         <img width=100% height=100% align="center" alt="Coding" src="https://readme-typing-svg.herokuapp.com?color=ff5722&center=true&vCenter=true&width=550%&lines=Wanna+listen+to+the+best+playlist+ever?" /> 
         <!-- <img align="right" alt="Spotify Now Playing" width=100% src="https://spotify-github-profile.vercel.app/api/view?uid=31rovcoqi44ew75t535jlndsain4&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=true" /> -->
         <!-- <img align="right" alt="Spotify Now Playing" width=100% src="https://spotify-github-profile.vercel.app/api/view?uid=31rovcoqi44ew75t535jlndsain4&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=true" onerror="if (this.src != 'error.jpg') this.src = 'https://raw.githubusercontent.com/Sabyasachi-Seal/Sabyasachi-Seal/ouput/default2.svg';"> -->
-        <img alt="Spotify Now Playing" width=100% src="https://spotify-github-profile.vercel.app/api/view?uid=31rovcoqi44ew75t535jlndsain4&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=true" onerror="this.src='https://raw.githubusercontent.com/Sabyasachi-Seal/Sabyasachi-Seal/ouput/default2.svg';">
+      <object width=100% data="https://spotify-github-profile.vercel.app/api/view?uid=31rovcoqi44ew75t535jlndsain4&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=true">
+           <img width=100% src="https://raw.githubusercontent.com/Sabyasachi-Seal/Sabyasachi-Seal/ouput/default2.svg" />
+      </object>
     </a>
 </div>
 
@@ -266,9 +268,8 @@
 <hr>
 
 <!-- <div align=center>
-        <object data="https://sabyasachiseal.me/ChromeDinoGame/" height=180 width="100%">
-            <embed src="https://sabyasachiseal.me/ChromeDinoGame/" width="100%"> </embed>Check Out the Chrome Dino Game !
-            https://sabyasachiseal.me/ChromeDinoGame/
+        <object data="https://raw.githubusercontent.com/Sabyasachi-Seal/Sabyasachi-Seal/ouput/footer.svg" height=180 width="100%">
+            <embed src="https://raw.githubusercontent.com/Sabyasachi-Seal/Sabyasachi-Seal/ouput/footer.svg" width="100%"></embed><img width=100% src="https://raw.githubusercontent.com/Sabyasachi-Seal/Sabyasachi-Seal/ouput/default2.svg"/>
         </object>
 </div> -->
 
