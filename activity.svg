@@ -23,14 +23,14 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">Sabyasachi-Seal/Repository_Views</span>
+                                        <span class="repo">Sabyasachi-Seal/CodingInC-CPP</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#75f49ec</div>
-                                        <div class="message">Update views</div>
+                                        <div class="sha">#0f570da</div>
+                                        <div class="message">Configure lappy</div>
                                     </div>
                                 </div>
                             </section>
@@ -43,14 +43,14 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">Sabyasachi-Seal/Sabyasachi-Seal</span>
+                                        <span class="repo">Sabyasachi-Seal/CodingInC-CPP</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
+                                    <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#5790496</div>
-                                        <div class="message">CI: Cron Update</div>
+                                        <div class="sha">#c74c2fa</div>
+                                        <div class="message">Trial</div>
                                     </div>
                                 </div>
                             </section>
@@ -69,7 +69,7 @@
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#1acfaa8</div>
+                                        <div class="sha">#c85aafb</div>
                                         <div class="message">Update views</div>
                                     </div>
                                 </div>
