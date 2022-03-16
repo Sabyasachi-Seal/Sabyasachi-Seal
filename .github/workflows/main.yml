@@ -14,7 +14,6 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
-
     steps:
       - name: Checkout
         uses: actions/checkout@v2
@@ -66,16 +65,12 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       
       - name: Make GitArtwork SVG
-        runs-on: ubuntu-latest
-        steps:
-          - uses: actions/checkout@v2
-          - uses: jasineri/gitartwork@v1
-            with:
-                # Use this username's contribution graph  
-                user_name: Sabyasachi-Seal
-                # Text on contribution graph 
-                text: Thanks For Visiting
-          - uses: jasineri/simple-push-action@v1
+        uses: actions/checkout@v2
+        uses: jasineri/gitartwork@v1
+        with:
+          user_name: Sabyasachi-Seal
+          text: Thanks For Visiting
+        uses: jasineri/simple-push-action@v1
 
   deploy:
     runs-on: ubuntu-latest
