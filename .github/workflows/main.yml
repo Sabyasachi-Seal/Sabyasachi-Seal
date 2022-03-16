@@ -65,11 +65,12 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       
       - name: Make GitArtwork SVG
-        uses: actions/checkout@v2
         uses: jasineri/gitartwork@v1
         with:
           user_name: Sabyasachi-Seal
           text: Thanks For Visiting
+
+      - name: PUSH
         uses: jasineri/simple-push-action@v1
 
   deploy:
