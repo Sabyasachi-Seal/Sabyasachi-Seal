@@ -5,7 +5,7 @@ name: Profile Views | Snake Repo-Eater
 
 on:
   schedule:
-    - cron: "0 */2 * * *"
+    - cron: "0 */5 * * *"
   workflow_dispatch:
   # push:
   #   branches:
@@ -69,6 +69,20 @@ jobs:
         with:
           user_name: Sabyasachi-Seal
           text: Thanks For Visiting
+
+      - name: Git Status
+        run: git status
+
+      - name : Git Pull
+        run: git pull
+
+      - name: Commit
+        run: |
+          git config user.name Sabyasachi Seal
+          git config user.email yoboy907@gmail.com
+          git add -A .
+          git commit -m "Updated Picture"
+          git push
 
       - name: PUSH
         uses: jasineri/simple-push-action@v1
