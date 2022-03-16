@@ -1,27 +1,23 @@
 <svg viewBox="0 0 115 25" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
 <style>
 svg {
-  width:110vw;
+  width: 100%;
   position: fixed;
   top: -1px;
   transform: rotate(360deg);
   overflow:visible;
 }
 .wave {
-    animation: wave 3s linear;
+    animation: wave 5s linear;
     animation-iteration-count: infinite;  
-    fill: #e91e63;
-}
-.wave:hover {
-  fill: #000;
 }
 #wave2 {
-  animation-duration: 6s;
+  animation-duration: 10s;
   animation-direction: reverse;
   opacity: .9;
 }
 #wave3 {
-  animation-duration: 3s;
+  animation-duration: 5s;
   opacity:.6;
 }
 @keyframes wave {
