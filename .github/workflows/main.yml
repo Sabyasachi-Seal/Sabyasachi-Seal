@@ -68,7 +68,7 @@ jobs:
         uses: jasineri/gitartwork@v1
         with:
           user_name: Sabyasachi-Seal
-          text: Thanks For Visiting
+          text: Bye Bye !
 
       - name: Git Status
         run: git status
