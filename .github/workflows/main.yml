@@ -84,8 +84,8 @@ jobs:
           git commit -m "Updated Picture"
           git push
 
-      - name: PUSH
-        uses: jasineri/simple-push-action@v1
+      # - name: PUSH
+      #   uses: jasineri/simple-push-action@v1
 
   deploy:
     runs-on: ubuntu-latest
