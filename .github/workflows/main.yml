@@ -68,7 +68,11 @@ jobs:
         uses: jasineri/gitartwork@v1
         with:
           user_name: Sabyasachi-Seal
-          text: Bye Bye !
+          text: Sabyasachi
+
+      - name: Update Markdown Index
+        run: |
+          python docs\website.py
 
       - name: Git Status
         run: git status
