@@ -20,9 +20,9 @@ with open('docs/index.html', 'r') as f:
                 content = content.split("\n")
         f3.write("\n".join(content[id1:id2+1]))
 
-with open('README.md', 'r') as f:
+with open('tempreadme.md', 'r') as f:
     content = f.read()
-    with open('docs/README.md', 'w') as f2:
+    with open('docs/tempreadme.md', 'w') as f2:
         f2.write(content)
     head = '''<!DOCTYPE html>
     <html>
