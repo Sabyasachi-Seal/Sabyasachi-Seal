@@ -155,8 +155,8 @@
 
 <div align=center>
     <a href="https://github.com/Sabyasachi-Seal">
-        <img width=49% src="achievements.svg" />
-        <img width=49% src="skyline.svg" />
+        <img width=49% src="https://raw.githubusercontent.com/Sabyasachi-Seal/Sabyasachi-Seal/main/achievements.svg" />
+        <img width=49% src="https://raw.githubusercontent.com/Sabyasachi-Seal/Sabyasachi-Seal/main/skyline.svg" />
     </a>
 </div>
 
@@ -211,14 +211,15 @@
 <div align=center>            
     <a href="https://github.com/Sabyasachi-Seal">
     <img width=100% height=100% align="center" alt="Coding" src="https://readme-typing-svg.herokuapp.com?color=e3d20c&center=true&vCenter=true&width=450%&lines=Shoutout+to+my+followers+!!!" />
-    <img width=100% height=100% align="center" alt="Followers" src="followers.svg" />
+    <img width=100% height=100% align="center" alt="Followers" src="https://raw.githubusercontent.com/Sabyasachi-Seal/Sabyasachi-Seal/main/followers.svg" />
+    </a>
 </div>
 
 <hr>
 
 <div align=center>
     <a href="https://github.com/Sabyasachi-Seal">            
-    <img align="center" alt="Coding Habits" width=100% src="codehabits.svg" />
+    <img align="center" alt="Coding Habits" width=100% src="https://raw.githubusercontent.com/Sabyasachi-Seal/Sabyasachi-Seal/main/codehabits.svg" />
     </a>
 </div>
 
@@ -226,7 +227,7 @@
 
 <div align=center>
     <a href="https://github.com/Sabyasachi-Seal">            
-    <img align="center" alt="Activity" width=100% src="activity.svg" />
+    <img align="center" alt="Activity" width=100% src="https://raw.githubusercontent.com/Sabyasachi-Seal/Sabyasachi-Seal/main/activity.svg" />
     </a>
 </div>
 
@@ -235,7 +236,7 @@
 <div align=center>   
     <a href="https://sabyasachiseal.me/">
     <img width=100% align="center" alt="Coding" src="https://readme-typing-svg.herokuapp.com?color=e91e63&center=true&vCenter=true&width=350%&lines=Check+out+my+website+!" />        
-    <img align="center" alt="Website Stats" width=100% height=50% src="website.svg" />
+    <img align="center" alt="Website Stats" width=100% height=50% src="https://raw.githubusercontent.com/Sabyasachi-Seal/Sabyasachi-Seal/main/website.svg" />
     <img align="center" width=95% alt="Website Thumbnail" width=100% height=50% src="https://raw.githubusercontent.com/Sabyasachi-Seal/Sabyasachi-Seal/ouput/thumbnail.png" />
     </a>
 </div>
