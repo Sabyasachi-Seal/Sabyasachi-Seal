@@ -72,7 +72,7 @@ jobs:
 
       - name: Update Markdown Index
         run: |
-          python docs\website.py
+          python docs/website.py
 
       - name: Git Status
         run: git status
