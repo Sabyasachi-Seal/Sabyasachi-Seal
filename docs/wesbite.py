@@ -1,17 +1,36 @@
+id1 = -1
+id2 = -1
 with open('docs/index.html', 'r') as f:
     content = f.read()
+    content = content.split("\n")
+    for index, line in enumerate(content):
+        line2 = line.replace(" ", "")
+        # print(line)
+        if(line2=="<style>" and id1 < 0):
+            id1 = index
+        if(line2=="</style>"):
+            id2 = content.index(line)
+
     with open('docs/tempfile.txt', 'w') as f2:
-        f2.write(content)
+        f2.write("\n".join(content))
     with open('docs/cssfile.txt', 'w') as f3:
-        content = content.split("\n")
-        id1 = -1
-        id2 = -1
-        for line in content:
-            line = line.replace(" ", "")
-            print(line)
-            if(line=="<style>" and id1 < 0):
-                id1 = content.index(line)
-            if(line=="</style>"):
-                id2 = content.index(line)
-            # print(id1, id2)
+        if (id1 == -1 or id2 == -1):
+            with open('docs/tempfile.txt', 'r') as f2:
+                content = f2.read()
+                content = content.split("\n")
         f3.write("\n".join(content[id1:id2+1]))
+
+with open('README.md', 'r') as f:
+    content = f.read()
+    with open('docs/README.md', 'w') as f2:
+        f2.write(content)
+    head = '''<!DOCTYPE html>
+    <html>
+    <head>
+        <meta charset="UTF-8">
+        <title>Sabyasachi Seal</title>'''
+    tail = f'''</div></div></body></html>'''
+    with open('docs/index.html', 'w') as f3:
+        with open('docs/cssfile.txt', 'r') as f4:
+            css = f4.read()
+            f3.write(head+"\n"+css+"\n"+content+"\n"+tail)
