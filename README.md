@@ -1,4 +1,10 @@
-<div align="center" >
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <title>Sabyasachi Seal - GitHub</title>
+    </head>
+    <body>
     <a href="https://github.com/Sabyasachi-Seal">
     <img width=100% src="https://raw.githubusercontent.com/Sabyasachi-Seal/Sabyasachi-Seal/ouput/action2.gif" href="https://github.com/Sabyasachi-Seal" /></a>
 </div>
@@ -136,8 +142,8 @@
 <h2></h2>
 <div align=center>
     <a href="https://github.com/Sabyasachi-Seal">
-    <img width=49% src="achievements.svg" />
-    <img width=49% src="skyline.svg" />
+    <img width=49% src="file:///c:\Users\Sabyasachi Seal\OneDrive\Documents\Sabyasachi-Seal\achievements.svg" />
+    <img width=49% src="file:///c:\Users\Sabyasachi Seal\OneDrive\Documents\Sabyasachi-Seal\skyline.svg" />
     </a>
 </div>
 <hr>
@@ -182,25 +188,25 @@
 <div align=center>
     <a href="https://github.com/Sabyasachi-Seal">
         <img width=100% height=100% align="center" alt="Coding" src="https://readme-typing-svg.herokuapp.com?color=e3d20c&center=true&vCenter=true&width=450%&lines=Shoutout+to+my+followers+!!!" />
-        <img width=100% height=100% align="center" alt="Followers" src="followers.svg" />
+        <img width=100% height=100% align="center" alt="Followers" src="file:///c:\Users\Sabyasachi Seal\OneDrive\Documents\Sabyasachi-Seal\followers.svg" />
 </div>
 <hr>
 <div align=center>
 <a href="https://github.com/Sabyasachi-Seal">            
-<img align="center" alt="Coding Habits" width=100% src="codehabits.svg" />
+<img align="center" alt="Coding Habits" width=100% src="file:///c:\Users\Sabyasachi Seal\OneDrive\Documents\Sabyasachi-Seal\codehabits.svg" />
 </a>
 </div>
 <h2></h2>
 <div align=center>
     <a href="https://github.com/Sabyasachi-Seal">            
-    <img align="center" alt="Activity" width=100% src="activity.svg" />
+    <img align="center" alt="Activity" width=100% src="file:///c:\Users\Sabyasachi Seal\OneDrive\Documents\Sabyasachi-Seal\activity.svg" />
     </a>
 </div>
 <hr>
 <div align=center>   
     <a href="https://sabyasachiseal.me/">
     <img width=100% align="center" alt="Coding" src="https://readme-typing-svg.herokuapp.com?color=e91e63&center=true&vCenter=true&width=350%&lines=Check+out+my+website+!" />        
-    <img align="center" alt="Website Stats" width=100% height=50% src="website.svg" />
+    <img align="center" alt="Website Stats" width=100% height=50% src="file:///c:\Users\Sabyasachi Seal\OneDrive\Documents\Sabyasachi-Seal\website.svg" />
     <img align="center" width=95% alt="Website Thumbnail" width=100% height=50% src="https://raw.githubusercontent.com/Sabyasachi-Seal/Sabyasachi-Seal/ouput/thumbnail.png" />
     </a>
 </div>
@@ -219,7 +225,7 @@
 <div align=center>
     <a href="https://github.com/Sabyasachi-Seal">
     <img align="center" alt="Footer" width=100% src="https://raw.githubusercontent.com/Sabyasachi-Seal/Sabyasachi-Seal/ouput/footer.svg"/>
-    <!-- <img align="center" alt="Footer" width=100% src="img/footer.svg" /> -->
+    <!-- <img align="center" alt="Footer" width=100% src="file:///c:\Users\Sabyasachi Seal\OneDrive\Documents\Sabyasachi-Seal\img\footer.svg" /> -->
 </div>
 <!-- <div align=center>   
     <a href="https://www.linkedin.com/in/sabyasachi-seal-4461711bb/">
@@ -235,4 +241,7 @@
 <!-- <iframe src="https://open.spotify.com/embed/playlist/73JrRdB8AjHDGRP9lNvZam?utm_source=generator&theme=0" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe> -->
 <!-- <embed src="https://sabyasachiseal.me/ChromeDinoGame/"
     width=100%
-    height=200/> -->
+    height=200/> --></div>
+        </div>
+    </body>
+</html>
