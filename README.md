@@ -81,7 +81,11 @@
       </a>
    </p>
 </div>
-<hr>
+<div align=center>
+   <a href="https://github.com/Sabyasachi-Seal">
+   <img height=50 width=100% src="./img/divider.gif">
+   </a>
+</div>
 <div align="left">
 <a href="https://github.com/Sabyasachi-Seal">
 <img align="right" width=40% alt="Github" src="https://raw.githubusercontent.com/Sabyasachi-Seal/Sabyasachi-Seal/ouput/github.gif">
