@@ -28,7 +28,8 @@ with open('README.md', 'r') as f:
     <html>
     <head>
         <meta charset="UTF-8">
-        <title>Sabyasachi Seal</title>'''
+        <title>Github - Sabyasachi Seal</title>
+        <link rel="shortcut icon" href="https://sabyasachiseal.me/wp-content/img/github/GitHub-Mark-Light-64px.png" type="image/x-icon">'''
     tail = f'''</div></div></body></html>'''
     with open('docs/index.html', 'w') as f3:
         with open('docs/cssfile.txt', 'r') as f4:
