@@ -175,7 +175,7 @@
       </a> -->
 </div>
 <h2></h2>
-<h3 align="center"><img width=5% alt="Phone" src="https://raw.githubusercontent.com/Sabyasachi-Seal/Sabyasachi-Seal/ouput/phone.gif">&nbsp;Wanna Talk?</h3>
+<h3 align="center"><img width=15% alt="Phone" src="https://raw.githubusercontent.com/Sabyasachi-Seal/Sabyasachi-Seal/ouput/phone.gif">&nbsp;<img width=80% alt="My Stats" src="./img/wannatalk.svg"/></h3>
 <div align=center>
    <!-- <a href="https://www.linkedin.com/in/sabyasachi-seal-4461711bb/">
       <img align="right" alt="Footer" width=45% src="https://linkedin-github.herokuapp.com/api/render/Sabyasachi%20Seal/Tech%20Enthusiast/Student/Bachelor%20of%20Technology/dark-red/https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F36451386%3Fv%3D4" />
