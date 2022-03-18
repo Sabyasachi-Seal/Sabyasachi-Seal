@@ -37,7 +37,7 @@
    </a>
 </div>
 <div align="right">
-   <h2 align="center"><img alt="Script" width=4% src="https://raw.githubusercontent.com/Sabyasachi-Seal/Sabyasachi-Seal/ouput/script.gif">&nbsp;&nbsp;Languages and Tools:</h2>
+   <h2 align="center"><img alt="Script" width=10% src="https://raw.githubusercontent.com/Sabyasachi-Seal/Sabyasachi-Seal/ouput/script.gif"/>&nbsp;&nbsp;<img width=85% src="./img/lang.svg"/></h2>
    <a href="https://github.com/Sabyasachi-Seal">
       <img align="left" width=50% alt="Github" src="https://raw.githubusercontent.com/Sabyasachi-Seal/Sabyasachi-Seal/ouput/coder.gif">
       <!-- https://raw.githubusercontent.com/Sabyasachi-Seal/Sabyasachi-Seal/ouput/coder.gif -->
