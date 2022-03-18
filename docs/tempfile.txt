@@ -1479,7 +1479,7 @@ body,
       </a> -->
 </div>
 <h2></h2>
-<h3 align="center">Wanna Talk?</h3>
+<h3 align="center"><img height=30 width=5% alt="" src="https://media0.giphy.com/media/al7grkbrCChTAPEfyh/giphy.gif?cid=ecf05e47ovngg5ue61dc7cdvpl1bcr4114bq8n11in6ssdn7&rid=giphy.gif&ct=s">&nbsp;Wanna Talk?</h3>
 <div align=center>
    <!-- <a href="https://www.linkedin.com/in/sabyasachi-seal-4461711bb/">
       <img align="right" alt="Footer" width=45% src="https://linkedin-github.herokuapp.com/api/render/Sabyasachi%20Seal/Tech%20Enthusiast/Student/Bachelor%20of%20Technology/dark-red/https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F36451386%3Fv%3D4" />
