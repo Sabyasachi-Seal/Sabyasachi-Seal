@@ -39,7 +39,7 @@ jobs:
           plugin_habits_trim: yes
           plugin_habits_charts: no
           plugin_habits_facts: yes
-      - name: Follower
+      - name: Followers
         uses: lowlighter/metrics@latest
         with:
           filename: followers.svg
@@ -87,7 +87,7 @@ jobs:
           plugin_skyline: yes
           plugin_skyline_year: 2022
           plugin_skyline_frames: 60
-          plugin_skyline_quality: 1
+          plugin_skyline_quality: 0.5
           plugin_skyline_compatibility: yes
       - name: Website
         uses: lowlighter/metrics@latest

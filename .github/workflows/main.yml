@@ -85,7 +85,7 @@ jobs:
           git config user.name Sabyasachi Seal
           git config user.email yoboy907@gmail.com
           git add -A .
-          git commit -m "Updated Picture"
+          git commit -m "Updated Data"
           git push
 
       # - name: PUSH
