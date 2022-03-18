@@ -6,7 +6,7 @@
 </div>
 <div align=center>
    <a href="https://github.com/Sabyasachi-Seal">
-   <img height=50 width=100% src="./img/divider.gif">
+   <img height=50 width=100% src="https://raw.githubusercontent.com/Sabyasachi-Seal/Sabyasachi-Seal/ouput/divider.gif">
    </a>
 </div>
 <h1 align="center"><img width=7% height=15% src="https://raw.githubusercontent.com/Sabyasachi-Seal/Sabyasachi-Seal/ouput/Hi.gif"/> I'm a
@@ -34,7 +34,7 @@
 </div>
 <div align=center>
    <a href="https://github.com/Sabyasachi-Seal">
-   <img height=50 width=100% src="./img/divider.gif">
+   <img height=50 width=100% src="https://raw.githubusercontent.com/Sabyasachi-Seal/Sabyasachi-Seal/ouput/divider.gif">
    </a>
 </div>
 <div align="right">
@@ -83,7 +83,7 @@
 </div>
 <div align=center>
    <a href="https://github.com/Sabyasachi-Seal">
-   <img height=50 width=100% src="./img/divider.gif">
+   <img height=50 width=100% src="https://raw.githubusercontent.com/Sabyasachi-Seal/Sabyasachi-Seal/ouput/divider.gif">
    </a>
 </div>
 <div align="left">
@@ -112,7 +112,7 @@
 </a>
 <div align=center>
    <a href="https://github.com/Sabyasachi-Seal">
-   <img height=50 width=100% src="./img/divider.gif">
+   <img height=50 width=100% src="https://raw.githubusercontent.com/Sabyasachi-Seal/Sabyasachi-Seal/ouput/divider.gif">
    </a>
 </div>
 <h2 align="center">My Stats:</h2>
@@ -159,7 +159,7 @@
 </div>
 <div align=center>
    <a href="https://github.com/Sabyasachi-Seal">
-   <img height=50 width=100% src="./img/divider.gif">
+   <img height=50 width=100% src="https://raw.githubusercontent.com/Sabyasachi-Seal/Sabyasachi-Seal/ouput/divider.gif">
    </a>
 </div>
 <div align=center>
@@ -186,7 +186,7 @@
 </div>
 <div align=center>
    <a href="https://github.com/Sabyasachi-Seal">
-   <img height=50 width=100% src="./img/divider.gif">
+   <img height=50 width=100% src="https://raw.githubusercontent.com/Sabyasachi-Seal/Sabyasachi-Seal/ouput/divider.gif">
    </a>
 </div>
 <div align=center>            
@@ -198,7 +198,7 @@
 <!--https://raw.githubusercontent.com/Sabyasachi-Seal/Sabyasachi-Seal/ouput/github-snake.svg-->
 <div align=center>
    <a href="https://github.com/Sabyasachi-Seal">
-   <img height=50 width=100% src="./img/divider.gif">
+   <img height=50 width=100% src="https://raw.githubusercontent.com/Sabyasachi-Seal/Sabyasachi-Seal/ouput/divider.gif">
    </a>
 </div>
 <!-- <div align=center>
@@ -216,7 +216,7 @@
 </div>
 <div align=center>
    <a href="https://github.com/Sabyasachi-Seal">
-   <img height=50 width=100% src="./img/divider.gif">
+   <img height=50 width=100% src="https://raw.githubusercontent.com/Sabyasachi-Seal/Sabyasachi-Seal/ouput/divider.gif">
    </a>
 </div>
 <div align=center>
@@ -232,7 +232,7 @@
 </div>
 <div align=center>
    <a href="https://github.com/Sabyasachi-Seal">
-   <img height=50 width=100% src="./img/divider.gif">
+   <img height=50 width=100% src="https://raw.githubusercontent.com/Sabyasachi-Seal/Sabyasachi-Seal/ouput/divider.gif">
    </a>
 </div>
 <div align=center>   
@@ -266,7 +266,7 @@
    </div> -->
 <div align=center>
    <a href="https://github.com/Sabyasachi-Seal">
-   <img height=50 width=100% src="./img/divider.gif">
+   <img height=50 width=100% src="https://raw.githubusercontent.com/Sabyasachi-Seal/Sabyasachi-Seal/ouput/divider.gif">
    </a>
 </div>
 <!-- <div align=center>
