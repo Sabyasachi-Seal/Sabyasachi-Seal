@@ -20,7 +20,7 @@ with open('docs/index.html', 'r') as f:
                 content = content.split("\n")
         f3.write("\n".join(content[id1:id2+1]))
 
-with open('docs/readmetemp.md', 'r') as f:
+with open('README.md', 'r') as f:
     content = f.read()
     with open('docs/readmetemp.md', 'w') as f2:
         f2.write(content)
