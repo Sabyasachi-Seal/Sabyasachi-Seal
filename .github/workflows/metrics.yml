@@ -85,10 +85,9 @@ jobs:
           token: NOT_NEEDED
           base: ""
           plugin_skyline: yes
-          plugin_skyline_year: 2022
           plugin_skyline_frames: 60
           plugin_skyline_quality: 0.5
-          plugin_skyline_compatibility: yes
+          plugin_skyline_compatibility: no
       - name: Website
         uses: lowlighter/metrics@latest
         with:
