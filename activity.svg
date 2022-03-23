@@ -29,8 +29,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#a9d8f04</div>
-                                        <div class="message">GIF compatibility</div>
+                                        <div class="sha">#12b4fa1</div>
+                                        <div class="message">CI: Cron Update</div>
                                     </div>
                                 </div>
                             </section>
@@ -49,7 +49,7 @@
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#ddb71f6</div>
+                                        <div class="sha">#47e68ab</div>
                                         <div class="message">Update views</div>
                                     </div>
                                 </div>
@@ -69,8 +69,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#7451a30</div>
-                                        <div class="message">CI: Cron Update</div>
+                                        <div class="sha">#a9d8f04</div>
+                                        <div class="message">GIF compatibility</div>
                                     </div>
                                 </div>
                             </section>
