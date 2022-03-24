@@ -142,7 +142,7 @@
    -->
 <div align=center>
    <a href="https://github.com/Sabyasachi-Seal">
-   <img alt="sabyasachi-seal" src="https://activity-graph.herokuapp.com/graph?username=sabyasachi-seal&theme=redical&hide_border=true" />
+   <img alt="Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Sabyasachi-Seal&theme=redical&hide_border=true" />
    </a>
 </div>
 <h2></h2>
