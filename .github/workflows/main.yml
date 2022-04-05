@@ -64,11 +64,11 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       
-      - name: Make GitArtwork SVG
-        uses: jasineri/gitartwork@v1
-        with:
-          user_name: Sabyasachi-Seal
-          text: Sabyasachi
+     # - name: Make GitArtwork SVG
+     #   uses: jasineri/gitartwork@v1
+     #   with:
+     #     user_name: Sabyasachi-Seal
+     #     text: Sabyasachi
 
       - name: Update Markdown Index
         run: |
