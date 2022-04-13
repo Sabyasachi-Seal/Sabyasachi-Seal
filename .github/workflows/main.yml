@@ -63,6 +63,9 @@ jobs:
           build_dir: img
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name : Git Pull
+        run: git pull
       
      # - name: Make GitArtwork SVG
      #   uses: jasineri/gitartwork@v1
@@ -76,9 +79,6 @@ jobs:
 
       - name: Git Status
         run: git status
-
-      - name : Git Pull
-        run: git pull
 
       - name: Commit
         run: |
