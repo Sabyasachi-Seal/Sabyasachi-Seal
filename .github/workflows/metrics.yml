@@ -46,8 +46,8 @@ jobs:
           token: ${{ secrets.ACTIONS_TOKEN }}
           base: ""
           plugin_people: yes
-          plugin_people_limit: 1000
-          plugin_people_types: followers #, following, contributors, stargazers, watchers
+          plugin_people_limit: 100
+          plugin_people_types: followers
       - name: Recent Activity
         uses: lowlighter/metrics@latest
         with:
@@ -97,7 +97,7 @@ jobs:
           plugin_pagespeed: yes
           plugin_pagespeed_screenshot: no
           plugin_pagespeed_token: ${{ secrets.PAGESPEED_TOKEN }}
-          plugin_pagespeed_url: https://sabyasachiseal.me/
+          plugin_pagespeed_url: https://sabyasachi-seal.github.io/
 
 
       

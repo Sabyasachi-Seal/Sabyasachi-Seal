@@ -1,5 +1,6 @@
 id1 = -1
 id2 = -1
+import time
 with open('docs/index.html', 'r') as f:
     content = f.read()
     content = content.split("\n")
@@ -30,7 +31,7 @@ with open('README.md', 'r') as f:
         <meta charset="UTF-8">
         <title>Github - Sabyasachi Seal</title>
         <link rel="shortcut icon" href="https://sabyasachiseal.me/wp-content/img/github/GitHub-Mark-Light-64px.png" type="image/x-icon">'''
-    tail = f'''</div></div></body></html>'''
+    tail = f'''</div></div></body></html><!--{time.strftime("%Y-%m-%d %H:%M:%S", time.localtime())}-->'''
     with open('docs/index.html', 'w') as f3:
         with open('docs/cssfile.txt', 'r') as f4:
             css = f4.read()
