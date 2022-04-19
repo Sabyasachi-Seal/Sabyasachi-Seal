@@ -29,8 +29,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#0fe749f</div>
-                                        <div class="message">max pop</div>
+                                        <div class="sha">#d0a6723</div>
+                                        <div class="message">sqrtx</div>
                                     </div>
                                 </div>
                             </section>
@@ -43,14 +43,14 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">Sabyasachi-Seal/CodingInC-CPP</span>
+                                        <span class="repo">Sabyasachi-Seal/Repository_Views</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#66da9e0</div>
-                                        <div class="message">fractional knapsack</div>
+                                        <div class="sha">#0fbb115</div>
+                                        <div class="message">Update views</div>
                                     </div>
                                 </div>
                             </section>
@@ -69,8 +69,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#ff08b1b</div>
-                                        <div class="message">arrayform done</div>
+                                        <div class="sha">#8852381</div>
+                                        <div class="message">max pop done</div>
                                     </div>
                                 </div>
                             </section>
