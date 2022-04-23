@@ -29,8 +29,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#e1fc7d2</div>
-                                        <div class="message">Insert position</div>
+                                        <div class="sha">#0b01d50</div>
+                                        <div class="message">Rearranged</div>
                                     </div>
                                 </div>
                             </section>
@@ -49,8 +49,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#b4eb82d</div>
-                                        <div class="message">missing num</div>
+                                        <div class="sha">#a6b574b</div>
+                                        <div class="message">Basics</div>
                                     </div>
                                 </div>
                             </section>
@@ -63,14 +63,14 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">Sabyasachi-Seal/CodingInJava</span>
+                                        <span class="repo">Sabyasachi-Seal/Repository_Views</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#512316d</div>
-                                        <div class="message">missing num</div>
+                                        <div class="sha">#ac79a2d</div>
+                                        <div class="message">Update views</div>
                                     </div>
                                 </div>
                             </section>
