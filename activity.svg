@@ -23,14 +23,14 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">Sabyasachi-Seal/CodingInJava</span>
+                                        <span class="repo">Sabyasachi-Seal/Sabyasachi-Seal</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
+                                    <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#5ab1fca</div>
-                                        <div class="message">Rotated Sorted Array</div>
+                                        <div class="sha">#ae800b7</div>
+                                        <div class="message">CI: Cron Update</div>
                                     </div>
                                 </div>
                             </section>
@@ -49,7 +49,7 @@
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#d7f718c</div>
+                                        <div class="sha">#774d256</div>
                                         <div class="message">Update views</div>
                                     </div>
                                 </div>
@@ -63,14 +63,14 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">Sabyasachi-Seal/Sabyasachi-Seal</span>
+                                        <span class="repo">Sabyasachi-Seal/CodingInJava</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
+                                    <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#580ef95</div>
-                                        <div class="message">CI: Cron Update</div>
+                                        <div class="sha">#5ab1fca</div>
+                                        <div class="message">Rotated Sorted Array</div>
                                     </div>
                                 </div>
                             </section>
