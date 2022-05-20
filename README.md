@@ -87,7 +87,7 @@
    <img height=50 width=100% src="https://raw.githubusercontent.com/Sabyasachi-Seal/Sabyasachi-Seal/ouput/divider.gif">
    </a>
 </div>
-<div align="left">
+<div>
 <a href="https://github.com/Sabyasachi-Seal">
 <img align="right" width=40% alt="Github" src="https://raw.githubusercontent.com/Sabyasachi-Seal/Sabyasachi-Seal/ouput/github.gif">
 </a>
