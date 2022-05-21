@@ -2,7 +2,10 @@
 <!--Made By Sabyasachi-->
 <div align="center" >
    <a href="https://github.com/Sabyasachi-Seal">
-   <img width=100% src="https://raw.githubusercontent.com/Sabyasachi-Seal/Sabyasachi-Seal/ouput/action2.gif" href="https://github.com/Sabyasachi-Seal" /></a>
+   <picture>
+   <img width=100% src="https://raw.githubusercontent.com/Sabyasachi-Seal/Sabyasachi-Seal/ouput/action2.gif" href="https://github.com/Sabyasachi-Seal" />
+   </picture>
+   </a>
 </div>
 <div align=center>
    <a href="https://github.com/Sabyasachi-Seal">
