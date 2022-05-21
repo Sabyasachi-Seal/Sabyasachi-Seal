@@ -1,17 +1,11 @@
-
 <!--Made By Sabyasachi-->
 <div align="center" >
    <a href="https://github.com/Sabyasachi-Seal">
-   <picture>
-   <img width=100% src="https://raw.githubusercontent.com/Sabyasachi-Seal/Sabyasachi-Seal/ouput/action2.gif" href="https://github.com/Sabyasachi-Seal" />
-   </picture>
-   </a>
+   <img width=100% src="https://raw.githubusercontent.com/Sabyasachi-Seal/Sabyasachi-Seal/ouput/action2.gif" href="https://github.com/Sabyasachi-Seal" /></a>
 </div>
 <div align=center>
    <a href="https://github.com/Sabyasachi-Seal">
-   <picture>
    <img height=50 width=100% src="https://raw.githubusercontent.com/Sabyasachi-Seal/Sabyasachi-Seal/ouput/divider.gif">
-   </picture>
    </a>
 </div>
 <h1 align="center"><a href="https://github.com/Sabyasachi-Seal"><img width=7% height=15% src="https://raw.githubusercontent.com/Sabyasachi-Seal/Sabyasachi-Seal/ouput/Hi.gif"/></a> I'm a
@@ -21,26 +15,24 @@
 </h1>
 <div align=center>
    <a href="https://github.com/Sabyasachi-Seal" target="_blank">
-   <img align="right" alt="Coding" width="45%" height="100%" src="https://raw.githubusercontent.com/Sabyasachi-Seal/Sabyasachi-Seal/ouput/coder2.gif" /></a>
+   <img align="right" alt="Coding" width=45% height=100% src="https://raw.githubusercontent.com/Sabyasachi-Seal/Sabyasachi-Seal/ouput/coder2.gif" /></a>
    <h4>
       🌱 I’m mostly interested in:
       <a href="https://github.com/Sabyasachi-Seal">
-      <img align="center" width="50%" height="50%" src="https://readme-typing-svg.herokuapp.com?font=Manrope&color=%23F78240&center=true&vCenter=true&width=250%&height=50%&lines=Cloud+Computing;CyberSecurity;Data+Science;AI+ML" /></a>
+      <img align="center" width=50% height=50% src="https://readme-typing-svg.herokuapp.com?font=Manrope&color=%23F78240&center=true&vCenter=true&width=250%&height=50%&lines=Cloud+Computing;CyberSecurity;Data+Science;AI+ML" /></a>
       <br>
       👯 I’m looking to collaborate on:
       <a href="https://github.com/Sabyasachi-Seal">
-      <img align="center" width="50%" height="50%" src="https://readme-typing-svg.herokuapp.com?font=Manrope&color=%23F7BB45&center=true&vCenter=true&width=250%&height=50%&lines=Data+Science;AI+Projects;Web+Apps;Cloud+Deployment;Social+Media+Bots" /></a>
+      <img align="center" width=50% height=50% src="https://readme-typing-svg.herokuapp.com?font=Manrope&color=%23F7BB45&center=true&vCenter=true&width=250%&height=50%&lines=Data+Science;AI+Projects;Web+Apps;Cloud+Deployment;Social+Media+Bots" /></a>
       <br>
       💬 Talk to me all about:
       <a href="https://github.com/Sabyasachi-Seal">
-      <img align="center" width="50%" height="50%" src="https://readme-typing-svg.herokuapp.com?font=Manrope&color=%234AF736&center=true&vCenter=true&width=250%&height=50%&lines=My+Projects;Upcoming+Events;New+Technology;New+Ideas;Anything+Technical" /></a>
+      <img align="center" width=50% height=50% src="https://readme-typing-svg.herokuapp.com?font=Manrope&color=%234AF736&center=true&vCenter=true&width=250%&height=50%&lines=My+Projects;Upcoming+Events;New+Technology;New+Ideas;Anything+Technical" /></a>
    </h4>
 </div>
 <div align=center>
    <a href="https://github.com/Sabyasachi-Seal">
-   <picture>
    <img height=50 width=100% src="https://raw.githubusercontent.com/Sabyasachi-Seal/Sabyasachi-Seal/ouput/divider.gif">
-   </picture>
    </a>
 </div>
 <div align="right">
@@ -91,9 +83,7 @@
 </div>
 <div align=center>
    <a href="https://github.com/Sabyasachi-Seal">
-   <picture>
    <img height=50 width=100% src="https://raw.githubusercontent.com/Sabyasachi-Seal/Sabyasachi-Seal/ouput/divider.gif">
-   </picture>
    </a>
 </div>
 <div align="left">
@@ -122,9 +112,7 @@
 </a>
 <div align=center>
    <a href="https://github.com/Sabyasachi-Seal">
-   <picture>
    <img height=50 width=100% src="https://raw.githubusercontent.com/Sabyasachi-Seal/Sabyasachi-Seal/ouput/divider.gif">
-   </picture>
    </a>
 </div>
 <h2 align="center"><a href="https://github.com/Sabyasachi-Seal"><img alt="Star" width=20% src="https://raw.githubusercontent.com/Sabyasachi-Seal/Sabyasachi-Seal/ouput/star.gif"><img width=80% alt="My Stats" src="./img/mystats.svg"/></a></h2>
@@ -140,7 +128,7 @@
 <h2></h2>
 <div align=center>
    <a href="https://github.com/Sabyasachi-Seal">
-   <img src="https://github-profile-trophy.vercel.app/?username=sabyasachi-seal&no-bg=true&theme=onedark&no-frame=true&title=Commits,MultiLanguage,PullRequest,Repositories,Followers,Stars&column=6" alt="zumrudu-anka" width="200%" height="100%"/>
+   <img src="https://github-profile-trophy.vercel.app/?username=sabyasachi-seal&no-bg=true&theme=onedark&no-frame=true&title=Commits,MultiLanguage,PullRequest,Repositories,Followers,Stars&column=6" alt="zumrudu-anka" width=200% height=100%/>
    </a>
 </div>
 <h2></h2>
@@ -171,9 +159,7 @@
 </div>
 <div align=center>
    <a href="https://github.com/Sabyasachi-Seal">
-   <picture>
    <img height=50 width=100% src="https://raw.githubusercontent.com/Sabyasachi-Seal/Sabyasachi-Seal/ouput/divider.gif">
-   </picture>
    </a>
 </div>
 <div align=center>
@@ -200,9 +186,7 @@
 </div>
 <div align=center>
    <a href="https://github.com/Sabyasachi-Seal">
-   <picture>
    <img height=50 width=100% src="https://raw.githubusercontent.com/Sabyasachi-Seal/Sabyasachi-Seal/ouput/divider.gif">
-   </picture>
    </a>
 </div>
 <div align=center>            
@@ -214,15 +198,13 @@
 <!--https://raw.githubusercontent.com/Sabyasachi-Seal/Sabyasachi-Seal/ouput/github-snake.svg-->
 <div align=center>
    <a href="https://github.com/Sabyasachi-Seal">
-   <picture>
    <img height=50 width=100% src="https://raw.githubusercontent.com/Sabyasachi-Seal/Sabyasachi-Seal/ouput/divider.gif">
-   </picture>
    </a>
 </div>
 <!-- <div align=center>
    <iframe
        title="Inline Frame Example"
-       width=100%
+       width="100%"
        src="https://sabyasachi-seal.github.io/ChromeDinoGame/">
    </iframe>
    </div> -->
@@ -234,9 +216,7 @@
 </div>
 <div align=center>
    <a href="https://github.com/Sabyasachi-Seal">
-   <picture>
    <img height=50 width=100% src="https://raw.githubusercontent.com/Sabyasachi-Seal/Sabyasachi-Seal/ouput/divider.gif">
-   </picture>
    </a>
 </div>
 <div align=center>
@@ -252,9 +232,7 @@
 </div>
 <div align=center>
    <a href="https://github.com/Sabyasachi-Seal">
-   <picture>
    <img height=50 width=100% src="https://raw.githubusercontent.com/Sabyasachi-Seal/Sabyasachi-Seal/ouput/divider.gif">
-   </picture>
    </a>
 </div>
 <div align=center>   
@@ -288,17 +266,15 @@
    </div> -->
 <div align=center>
    <a href="https://github.com/Sabyasachi-Seal">
-   <picture>
    <img height=50 width=100% src="https://raw.githubusercontent.com/Sabyasachi-Seal/Sabyasachi-Seal/ouput/divider.gif">
-   </picture>
    </a>
 </div>
 <!-- <div align=center>
-   <object data="https://raw.githubusercontent.com/Sabyasachi-Seal/Sabyasachi-Seal/ouput/footer.svg" height=180 width=100%>
-       <embed src="https://raw.githubusercontent.com/Sabyasachi-Seal/Sabyasachi-Seal/ouput/footer.svg" width=100%></embed><img width=100% src="https://raw.githubusercontent.com/Sabyasachi-Seal/Sabyasachi-Seal/ouput/default2.svg"/>
+   <object data="https://raw.githubusercontent.com/Sabyasachi-Seal/Sabyasachi-Seal/ouput/footer.svg" height=180 width="100%">
+       <embed src="https://raw.githubusercontent.com/Sabyasachi-Seal/Sabyasachi-Seal/ouput/footer.svg" width="100%"></embed><img width=100% src="https://raw.githubusercontent.com/Sabyasachi-Seal/Sabyasachi-Seal/ouput/default2.svg"/>
    </object>
    </div> -->
-<!-- <iframe src="https://open.spotify.com/embed/playlist/73JrRdB8AjHDGRP9lNvZam?utm_source=generator&theme=0" width=100% height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe> -->
+<!-- <iframe src="https://open.spotify.com/embed/playlist/73JrRdB8AjHDGRP9lNvZam?utm_source=generator&theme=0" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe> -->
 <!-- <embed src="https://sabyasachi-seal.github.io/ChromeDinoGame/"
    width=100%
    height=200/> -->
