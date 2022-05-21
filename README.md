@@ -2,21 +2,28 @@
 <!--Made By Sabyasachi-->
 <div align="center" >
    <a href="https://github.com/Sabyasachi-Seal">
+      <picture>
    <img width="100%" src="https://raw.githubusercontent.com/Sabyasachi-Seal/Sabyasachi-Seal/ouput/action2.gif" href="https://github.com/Sabyasachi-Seal" /></a>
+      </picture>
 </div>
 <div align=center>
    <a href="https://github.com/Sabyasachi-Seal">
+      <picture>
    <img height=50 width="100%" src="https://raw.githubusercontent.com/Sabyasachi-Seal/Sabyasachi-Seal/ouput/divider.gif">
+         </picture>
    </a>
 </div>
 <h1 align="center"><a href="https://github.com/Sabyasachi-Seal"><img width=7% height=15% src="https://raw.githubusercontent.com/Sabyasachi-Seal/Sabyasachi-Seal/ouput/Hi.gif"/></a> I'm a
    <a href="https://github.com/Sabyasachi-Seal">
+      
    <img align=center width="100%" src="https://readme-typing-svg.herokuapp.com?font=Sora&color=%2336BCF7&size=35&center=true&vCenter=true&width=600%&lines=Cloud+Computing+Enthusiast;Cybersecurity+Passionate;Data+Science+Practitioner;AI+%26+ML+Enthusiast;Computer+Science+Undergrad;Tech+Blogger" />
    </a>
 </h1>
 <div align=center>
    <a href="https://github.com/Sabyasachi-Seal" target="_blank">
+      <picture>
    <img align="right" alt="Coding" width="45%" height="100%" src="https://raw.githubusercontent.com/Sabyasachi-Seal/Sabyasachi-Seal/ouput/coder2.gif" /></a>
+      </picture>
    <h4>
       🌱 I’m mostly interested in:
       <a href="https://github.com/Sabyasachi-Seal">
@@ -33,7 +40,9 @@
 </div>
 <div align=center>
    <a href="https://github.com/Sabyasachi-Seal">
+      <picture>
    <img height=50 width="100%" src="https://raw.githubusercontent.com/Sabyasachi-Seal/Sabyasachi-Seal/ouput/divider.gif">
+         </picture>
    </a>
 </div>
 <div align="right">
@@ -41,7 +50,9 @@
       <h2 align="center"><img alt="Script" width=10% src="https://raw.githubusercontent.com/Sabyasachi-Seal/Sabyasachi-Seal/ouput/script.gif"/>&nbsp;&nbsp;<img width=85% alt="Languages and Tools" src="https://raw.githubusercontent.com/Sabyasachi-Seal/Sabyasachi-Seal/ouput/languagesandtools.svg"/></a>
       </h2>
       <a href="https://github.com/Sabyasachi-Seal">
+         <picture>
          <img align="left" width=50% alt="Github" src="https://raw.githubusercontent.com/Sabyasachi-Seal/Sabyasachi-Seal/ouput/coder.gif">
+            </picture>
          <!-- https://raw.githubusercontent.com/Sabyasachi-Seal/Sabyasachi-Seal/ouput/coder.gif -->
       </a>
    </a>
@@ -84,12 +95,16 @@
 </div>
 <div align=center>
    <a href="https://github.com/Sabyasachi-Seal">
+      <picture>
    <img height=50 width="100%" src="https://raw.githubusercontent.com/Sabyasachi-Seal/Sabyasachi-Seal/ouput/divider.gif">
+         </picture>
    </a>
 </div>
 <div align="left">
 <a href="https://github.com/Sabyasachi-Seal">
+   <picture>
 <img align="right" width=40% alt="Github" src="https://raw.githubusercontent.com/Sabyasachi-Seal/Sabyasachi-Seal/ouput/github.gif">
+      </picture>
 </a>
 <br>
 <a href="https://sabyasachi-seal.github.io">
@@ -160,15 +175,21 @@
 </div>
 <div align=center>
    <a href="https://github.com/Sabyasachi-Seal">
+      <picture>
    <img height=50 width="100%" src="https://raw.githubusercontent.com/Sabyasachi-Seal/Sabyasachi-Seal/ouput/divider.gif">
+         </picture>
    </a>
 </div>
 <div align=center>
    <a href="https://github.com/Sabyasachi-Seal">
+      <picture>
    <img align="center" alt="Coding" width=49% height=100% src="https://raw.githubusercontent.com/Sabyasachi-Seal/Sabyasachi-Seal/main/img/connected.gif" />
+         </picture>
    </a>
    <a href="https://github.com/Sabyasachi-Seal">
+      <picture>
    <img align="center" alt="Coding" width=49% height=100% src="https://raw.githubusercontent.com/Sabyasachi-Seal/Sabyasachi-Seal/main/img/code.gif" />
+         </picture>
    </a>
    <!-- <a href="https://www.linkedin.com/in/sabyasachi-seal-4461711bb/">
       <img align=center alt="Footer" width=49% src="https://linkedin-github.herokuapp.com/api/render/Sabyasachi%20Seal/Tech%20Enthusiast/Student/Bachelor%20of%20Technology/dark-red/https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F36451386%3Fv%3D4" />
@@ -267,7 +288,9 @@
    </div> -->
 <div align=center>
    <a href="https://github.com/Sabyasachi-Seal">
+      <picture>
    <img height=50 width="100%" src="https://raw.githubusercontent.com/Sabyasachi-Seal/Sabyasachi-Seal/ouput/divider.gif">
+         </picture>
    </a>
 </div>
 <!-- <div align=center>
