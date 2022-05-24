@@ -29,8 +29,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#a29c979</div>
-                                        <div class="message">Ones and Zeros DP</div>
+                                        <div class="sha">#cefc276</div>
+                                        <div class="message">Smaller than self</div>
                                     </div>
                                 </div>
                             </section>
@@ -43,14 +43,14 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">Sabyasachi-Seal/CodingInC-CPP</span>
+                                        <span class="repo">Sabyasachi-Seal/Sabyasachi-Seal</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
+                                    <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#2ff40a4</div>
-                                        <div class="message">Non Zero</div>
+                                        <div class="sha">#eeb34ad</div>
+                                        <div class="message">CI: Cron Update</div>
                                     </div>
                                 </div>
                             </section>
@@ -69,7 +69,7 @@
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#0cc4b80</div>
+                                        <div class="sha">#c217b2e</div>
                                         <div class="message">Update views</div>
                                     </div>
                                 </div>
