@@ -29,8 +29,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#d1ce386</div>
-                                        <div class="message">dijkstra practice</div>
+                                        <div class="sha">#9eab699</div>
+                                        <div class="message">Max Sub Array</div>
                                     </div>
                                 </div>
                             </section>
@@ -43,14 +43,14 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">Sabyasachi-Seal/Sabyasachi-Seal</span>
+                                        <span class="repo">Sabyasachi-Seal/CodingInC-CPP</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
+                                    <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#250ae78</div>
-                                        <div class="message">Removed &lt;picture&gt;</div>
+                                        <div class="sha">#4d9d26b</div>
+                                        <div class="message">Unbounded Knapsack</div>
                                     </div>
                                 </div>
                             </section>
@@ -63,14 +63,14 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">Sabyasachi-Seal/Sabyasachi-Seal</span>
+                                        <span class="repo">Sabyasachi-Seal/CodingInC-CPP</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
+                                    <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#767847d</div>
-                                        <div class="message">Picture Fix</div>
+                                        <div class="sha">#a56aae2</div>
+                                        <div class="message">Count Notes</div>
                                     </div>
                                 </div>
                             </section>
