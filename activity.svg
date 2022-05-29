@@ -29,8 +29,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#6bb9c32</div>
-                                        <div class="message">Special Number</div>
+                                        <div class="sha">#3e02937</div>
+                                        <div class="message">DP Optimzed</div>
                                     </div>
                                 </div>
                             </section>
@@ -43,14 +43,14 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">Sabyasachi-Seal/CodingInJava</span>
+                                        <span class="repo">Sabyasachi-Seal/CodingInC-CPP</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#7d323bd</div>
-                                        <div class="message">Max Product of String Length</div>
+                                        <div class="sha">#9348080</div>
+                                        <div class="message">EggDrop Dp</div>
                                     </div>
                                 </div>
                             </section>
@@ -63,14 +63,14 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">Sabyasachi-Seal/Sabyasachi-Seal</span>
+                                        <span class="repo">Sabyasachi-Seal/CodingInC-CPP</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
+                                    <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#bcd34ab</div>
-                                        <div class="message">CI: Cron Update</div>
+                                        <div class="sha">#40f316c</div>
+                                        <div class="message">Egg Drop DP</div>
                                     </div>
                                 </div>
                             </section>
