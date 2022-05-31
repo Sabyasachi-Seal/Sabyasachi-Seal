@@ -29,8 +29,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#246c3af</div>
-                                        <div class="message">Colour Graph</div>
+                                        <div class="sha">#7fb698d</div>
+                                        <div class="message">Commented</div>
                                     </div>
                                 </div>
                             </section>
@@ -43,14 +43,14 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">Sabyasachi-Seal/CodingInJava</span>
+                                        <span class="repo">Sabyasachi-Seal/CodingInC-CPP</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#61eb50d</div>
-                                        <div class="message">3 Sum WA</div>
+                                        <div class="sha">#eeffdf7</div>
+                                        <div class="message">Min Steps for Binary Palindrome</div>
                                     </div>
                                 </div>
                             </section>
@@ -63,14 +63,14 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">Sabyasachi-Seal/CodingInJava</span>
+                                        <span class="repo">Sabyasachi-Seal/Repository_Views</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#f2b22f8</div>
-                                        <div class="message">Binary Codes</div>
+                                        <div class="sha">#725b9fa</div>
+                                        <div class="message">Update views</div>
                                     </div>
                                 </div>
                             </section>
