@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="249" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="233" class="">
     <defs>
         <style/>
     </defs>
@@ -22,15 +22,15 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 2 commits in
+                                        Pushed 1 commit in
                                         <span class="repo">Sabyasachi-Seal/CodingInJava</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#2bfc562</div>
-                                        <div class="message">Merge branch 'master' of https://github.com/Sabyasachi-Seal/CodingInJava</div>
+                                        <div class="sha">#f7dd9b0</div>
+                                        <div class="message">First Missing Positive</div>
                                     </div>
                                 </div>
                             </section>
@@ -43,14 +43,14 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">Sabyasachi-Seal/Repository_Views</span>
+                                        <span class="repo">Sabyasachi-Seal/CodingInJava</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#5152324</div>
-                                        <div class="message">Update views</div>
+                                        <div class="sha">#a1d7cde</div>
+                                        <div class="message">Set Mismatch</div>
                                     </div>
                                 </div>
                             </section>
@@ -62,19 +62,15 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 2 commits in
+                                        Pushed 1 commit in
                                         <span class="repo">Sabyasachi-Seal/CodingInJava</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#1d498f9</div>
-                                        <div class="message">Disappeared Cyclic</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#e2a9630</div>
-                                        <div class="message">Cyclic Sort</div>
+                                        <div class="sha">#f89a9f6</div>
+                                        <div class="message">Find Duplicates Cyclic</div>
                                     </div>
                                 </div>
                             </section>
