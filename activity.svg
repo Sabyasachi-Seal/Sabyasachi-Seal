@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="233" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="249" class="">
     <defs>
         <style/>
     </defs>
@@ -23,14 +23,14 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">Sabyasachi-Seal/Repository_Views</span>
+                                        <span class="repo">Sabyasachi-Seal/CodingInJava</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#44ab96c</div>
-                                        <div class="message">Update views</div>
+                                        <div class="sha">#3884d06</div>
+                                        <div class="message">Further Fixes</div>
                                     </div>
                                 </div>
                             </section>
@@ -49,8 +49,12 @@
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#7998535</div>
-                                        <div class="message">Merge branch 'master' of https://github.com/Sabyasachi-Seal/CodingInJava</div>
+                                        <div class="sha">#737de9a</div>
+                                        <div class="message">Merge remote-tracking branch 'origin/master'</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#98c0a27</div>
+                                        <div class="message">Fixes</div>
                                     </div>
                                 </div>
                             </section>
@@ -63,14 +67,14 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">Sabyasachi-Seal/Sabyasachi-Seal</span>
+                                        <span class="repo">Sabyasachi-Seal/Repository_Views</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
+                                    <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#0328e3b</div>
-                                        <div class="message">CI: Cron Update</div>
+                                        <div class="sha">#44ab96c</div>
+                                        <div class="message">Update views</div>
                                     </div>
                                 </div>
                             </section>
