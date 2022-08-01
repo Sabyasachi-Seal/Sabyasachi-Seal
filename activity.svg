@@ -29,7 +29,7 @@
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#857cb9b</div>
+                                        <div class="sha">#8f2d3b7</div>
                                         <div class="message">Doubly Linked Lists</div>
                                     </div>
                                 </div>
@@ -49,8 +49,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#4a02297</div>
-                                        <div class="message">Linked Lists</div>
+                                        <div class="sha">#33aadd0</div>
+                                        <div class="message">Doubly Linked Lists</div>
                                     </div>
                                 </div>
                             </section>
@@ -63,14 +63,14 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">Sabyasachi-Seal/Sabyasachi-Seal</span>
+                                        <span class="repo">Sabyasachi-Seal/CodingInJava</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
+                                    <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#d20a51f</div>
-                                        <div class="message">CI: Cron Update</div>
+                                        <div class="sha">#857cb9b</div>
+                                        <div class="message">Doubly Linked Lists</div>
                                     </div>
                                 </div>
                             </section>
