@@ -29,8 +29,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#6b07e58</div>
-                                        <div class="message">Minor  Fixes</div>
+                                        <div class="sha">#1db8f1a</div>
+                                        <div class="message">Form Fix 1</div>
                                     </div>
                                 </div>
                             </section>
@@ -43,14 +43,14 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">Sabyasachi-Seal/Certificate-Generator-MLSA</span>
+                                        <span class="repo">Sabyasachi-Seal/Sabyasachi-Seal</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
+                                    <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#130b221</div>
-                                        <div class="message">Auto Requirements</div>
+                                        <div class="sha">#42b303b</div>
+                                        <div class="message">CI: Cron Update</div>
                                     </div>
                                 </div>
                             </section>
@@ -63,14 +63,14 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">Sabyasachi-Seal/Certificate-Generator-MLSA</span>
+                                        <span class="repo">Sabyasachi-Seal/Repository_Views</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#e14dfcc</div>
-                                        <div class="message">Minor Fixes</div>
+                                        <div class="sha">#5a8100a</div>
+                                        <div class="message">Update views</div>
                                     </div>
                                 </div>
                             </section>
