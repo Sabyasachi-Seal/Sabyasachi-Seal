@@ -23,12 +23,12 @@
                                     </svg>
                                     <div class="content">
                                         Opened
-                                        <span class="issue">#4 Added TicTacToe</span>
+                                        <span class="issue">#59 Added Solutions</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div> in <span class="repo">IncrediblePro/Hacktoberfest_2022</span></div>
-                                    <div>1 file changed <span class="code">++123 --0</span></div>
+                                    <div> in <span class="repo">raktimbar100/HACKTOBERFEST-2022</span></div>
+                                    <div>3 files changed <span class="code">++79 --0</span></div>
                                 </div>
                             </section>
                         </div>
@@ -40,14 +40,14 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">Sabyasachi-Seal/IncrediblePro-HF22</span>
+                                        <span class="repo">Sabyasachi-Seal/AlgosHF22</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">TicTacToe</span></div>
+                                    <div>on branch <span class="code">JavaCodes</span></div>
                                     <div class="commit">
-                                        <div class="sha">#4e9ba6c</div>
-                                        <div class="message">Added TicTacToe</div>
+                                        <div class="sha">#25a1139</div>
+                                        <div class="message">Added Solutions</div>
                                     </div>
                                 </div>
                             </section>
@@ -61,9 +61,9 @@
                                     <div class="content">
                                         Created new
                       branch
-                                        <span class="code">TicTacToe</span>
+                                        <span class="code">JavaCodes</span>
                                         in
-                                        <span class="repo">Sabyasachi-Seal/IncrediblePro-HF22</span>
+                                        <span class="repo">Sabyasachi-Seal/AlgosHF22</span>
                                     </div>
                                 </div>
                             </section>
