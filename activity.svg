@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="263" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="229" class="">
     <defs>
         <style/>
     </defs>
@@ -23,13 +23,12 @@
                                     </svg>
                                     <div class="content">
                                         Commented on
-                                        <span class="issue">#7668 Linux Couse (Bengali)</span>
+                                        <span class="issue">#4 Google I/O</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>opened by Sabyasachi-Seal in <span class="repo">EbookFoundation/free-programming-books</span></div>
-                                    <div class="comment">Understood 👌. Will keep that in mind from the next time.
-Thanks for letting me contribute :)</div>
+                                    <div>opened by Sabyasachi-Seal in <span class="repo">imanishbarnwal/Events-And-Hackathons</span></div>
+                                    <div class="comment">Also a question can we add CP competitions to the list? e.g, Code Jam</div>
                                 </div>
                             </section>
                         </div>
@@ -42,11 +41,11 @@ Thanks for letting me contribute :)</div>
                                     </svg>
                                     <div class="content">
                                         Opened
-                                        <span class="issue">#316 Restructure Cloud Programs</span>
+                                        <span class="issue">#4 Google I/O</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>opened  in <span class="repo">avinash201199/Competitions-and-Programs-List</span></div>
+                                    <div>opened  in <span class="repo">imanishbarnwal/Events-And-Hackathons</span></div>
                                 </div>
                             </section>
                         </div>
@@ -58,12 +57,12 @@ Thanks for letting me contribute :)</div>
                                     </svg>
                                     <div class="content">
                                         Commented on
-                                        <span class="issue">#29 Add Google I/O</span>
+                                        <span class="issue">#3 Added GitHub Universe</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>opened by Sabyasachi-Seal in <span class="repo">thisdot/tech-conferences</span></div>
-                                    <div class="comment">Adding this under the issue: https://github.com/thisdot/tech-conferences/issues/17</div>
+                                    <div>opened by Sabyasachi-Seal in <span class="repo">imanishbarnwal/Events-And-Hackathons</span></div>
+                                    <div class="comment">Awesome ! Didnt know about this feature. Thanks a lot :)</div>
                                 </div>
                             </section>
                         </div>
