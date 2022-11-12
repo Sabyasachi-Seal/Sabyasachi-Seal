@@ -29,7 +29,7 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#f9ebc60</div>
+                                        <div class="sha">#5e46146</div>
                                         <div class="message">CI: Cron Update</div>
                                     </div>
                                 </div>
@@ -49,7 +49,7 @@
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#59ed5a0</div>
+                                        <div class="sha">#b8822f5</div>
                                         <div class="message">Update views</div>
                                     </div>
                                 </div>
@@ -63,14 +63,14 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">mlsa-codespaces/CodeSpacesDemo</span>
+                                        <span class="repo">Sabyasachi-Seal/Sabyasachi-Seal</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#cc3c2fd</div>
-                                        <div class="message">Test Commit 2</div>
+                                        <div class="sha">#f9ebc60</div>
+                                        <div class="message">CI: Cron Update</div>
                                     </div>
                                 </div>
                             </section>
