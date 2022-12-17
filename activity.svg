@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="249" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="233" class="">
     <defs>
         <style/>
     </defs>
@@ -29,7 +29,7 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#bb138d6</div>
+                                        <div class="sha">#18f3282</div>
                                         <div class="message">CI: Cron Update</div>
                                     </div>
                                 </div>
@@ -43,14 +43,14 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">GDSC-TMSL/GCCP_Guide</span>
+                                        <span class="repo">Sabyasachi-Seal/Repository_Views</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
+                                    <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#a30bad8</div>
-                                        <div class="message">Subtle Update</div>
+                                        <div class="sha">#ffe9b85</div>
+                                        <div class="message">Update views</div>
                                     </div>
                                 </div>
                             </section>
@@ -62,21 +62,15 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 2 commits in
-                                        <span class="repo">vishalshaw03/cse-united-2022</span>
+                                        Pushed 1 commit in
+                                        <span class="repo">Sabyasachi-Seal/SVGTryouts</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
+                                    <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#87f18d9</div>
-                                        <div class="message">Merge pull request #1 from vishalshaw03/Loader
-
-Loader Added</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#29e57b3</div>
-                                        <div class="message">Loader Added</div>
+                                        <div class="sha">#80c2b93</div>
+                                        <div class="message">Done</div>
                                     </div>
                                 </div>
                             </section>
