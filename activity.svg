@@ -29,7 +29,7 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#48490c1</div>
+                                        <div class="sha">#c7943e5</div>
                                         <div class="message">CI: Cron Update</div>
                                     </div>
                                 </div>
@@ -43,14 +43,14 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">Sabyasachi-Seal/QwiklabsProgressTracker</span>
+                                        <span class="repo">Sabyasachi-Seal/Repository_Views</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
+                                    <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#6679222</div>
-                                        <div class="message">Scraped User Details</div>
+                                        <div class="sha">#fc744b4</div>
+                                        <div class="message">Update views</div>
                                     </div>
                                 </div>
                             </section>
@@ -63,14 +63,14 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">Sabyasachi-Seal/QwiklabsProgressTracker</span>
+                                        <span class="repo">vishalshaw03/cse-united-2022</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#40816f5</div>
-                                        <div class="message">Fixed Bugs + Added Complete/Incomplete</div>
+                                        <div class="sha">#b89f36a</div>
+                                        <div class="message">Padding Fix</div>
                                     </div>
                                 </div>
                             </section>
