@@ -29,7 +29,7 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#11436e9</div>
+                                        <div class="sha">#81013a3</div>
                                         <div class="message">CI: Cron Update</div>
                                     </div>
                                 </div>
@@ -49,7 +49,7 @@
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#a53668f</div>
+                                        <div class="sha">#bc2fb20</div>
                                         <div class="message">Update views</div>
                                     </div>
                                 </div>
@@ -63,14 +63,14 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">Sabyasachi-Seal/Sabyasachi-Seal</span>
+                                        <span class="repo">Sabyasachi-Seal/QwiklabsProgressTracker</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#5e9dce5</div>
-                                        <div class="message">CI: Cron Update</div>
+                                        <div class="sha">#c21c600</div>
+                                        <div class="message">Testing Trigger</div>
                                     </div>
                                 </div>
                             </section>
