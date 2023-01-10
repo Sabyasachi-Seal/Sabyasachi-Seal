@@ -43,12 +43,8 @@ jobs:
         uses: Platane/snk@v2
         with:
           github_user_name: Sabyasachi-Seal
-          palette: github-dark
-          color_snake: 00FFFF
           outputs: |
-            img/github-snake.svg
-            img/github-snake-dark.svg?palette=github-dark
-            img/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
+            img/github-snake.svg?palette=github-dark&color_snake=orange
       
       - name: Getting Status
         run: git status
