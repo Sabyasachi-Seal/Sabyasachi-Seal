@@ -224,12 +224,12 @@
    <img align="center" alt="Coding Habits" width=100% src="https://raw.githubusercontent.com/Sabyasachi-Seal/Sabyasachi-Seal/main/codehabits.svg" />
    </a>
 </div>
-<h2></h2>
+<!-- <h2></h2>
 <div align=center>
    <a href="https://github.com/Sabyasachi-Seal">            
    <img align="center" alt="Activity" width=100% src="https://raw.githubusercontent.com/Sabyasachi-Seal/Sabyasachi-Seal/main/activity.svg" />
    </a>
-</div>
+</div> -->
 <div align=center>
    <a href="https://github.com/Sabyasachi-Seal">
    <img height=50 width=100% src="https://raw.githubusercontent.com/Sabyasachi-Seal/Sabyasachi-Seal/ouput/divider.gif">
