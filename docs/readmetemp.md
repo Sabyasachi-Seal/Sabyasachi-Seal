@@ -141,7 +141,7 @@
    -->
 <div align=center>
    <a href="https://github.com/Sabyasachi-Seal">
-   <img alt="Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=Sabyasachi-Seal&theme=redical&hide_border=true" />
+   <img alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Sabyasachi-Seal&theme=redical&hide_border=true" />
    </a>
 </div>
 <h2></h2>
