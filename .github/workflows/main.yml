@@ -40,7 +40,7 @@ jobs:
           path: .
       
       - name: Feed the Snake
-        uses: Platane/snk@v2
+        uses: Platane/snk@v3
         with:
           github_user_name: Sabyasachi-Seal
           outputs: |
