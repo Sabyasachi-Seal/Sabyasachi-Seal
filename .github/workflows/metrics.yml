@@ -13,103 +13,103 @@ jobs:
     runs-on: ubuntu-latest
     name: Main Workflow 
     steps:
-      # - name: Checkout
-      #   uses: actions/checkout@v2
-      # # - name: Most used (with details)
-      # #   uses: lowlighter/metrics@latest
-      # #   with:
-      # #     filename: metrics.plugin.languages.details.svg
-      # #     token: ${{ secrets.ACTIONS_TOKEN }}
-      # #     base: ""
-      # #     plugin_languages: yes
-      # #     plugin_languages_details: bytes-size, percentage
-      # #     plugin_languages_ignored: javascript
-      # #     plugin_languages_colors: 0:#00ff00, 1:#ff0000, 2:#0000ff, 3:#ffff00, 4:#00ffff, 5:#ff00ff, 6:#ffffff, 7:#000000
-      # #     plugin_languages_limit: 10
-      # - name: Code Habits
+      - name: Checkout
+        uses: actions/checkout@v2
+      # - name: Most used (with details)
       #   uses: lowlighter/metrics@latest
       #   with:
-      #     filename: codehabits.svg
+      #     filename: metrics.plugin.languages.details.svg
       #     token: ${{ secrets.ACTIONS_TOKEN }}
       #     base: ""
-      #     config_timezone: Asia/Kolkata
-      #     plugin_habits: yes
-      #     plugin_habits_from: 5
-      #     plugin_habits_days: 30
-      #     plugin_habits_trim: yes
-      #     plugin_habits_charts: no
-      #     plugin_habits_facts: yes
-      # - name: Followers
+      #     plugin_languages: yes
+      #     plugin_languages_details: bytes-size, percentage
+      #     plugin_languages_ignored: javascript
+      #     plugin_languages_colors: 0:#00ff00, 1:#ff0000, 2:#0000ff, 3:#ffff00, 4:#00ffff, 5:#ff00ff, 6:#ffffff, 7:#000000
+      #     plugin_languages_limit: 10
+      - name: Code Habits
+        uses: lowlighter/metrics@latest
+        with:
+          filename: codehabits.svg
+          token: ${{ secrets.ACTIONS_TOKEN }}
+          base: ""
+          config_timezone: Asia/Kolkata
+          plugin_habits: yes
+          plugin_habits_from: 5
+          plugin_habits_days: 30
+          plugin_habits_trim: yes
+          plugin_habits_charts: no
+          plugin_habits_facts: yes
+      - name: Followers
+        uses: lowlighter/metrics@latest
+        with:
+          filename: followers.svg
+          token: ${{ secrets.ACTIONS_TOKEN }}
+          base: ""
+          plugin_people: yes
+          plugin_people_limit: 100
+          plugin_people_types: followers
+      - name: Recent Activity
+        uses: lowlighter/metrics@latest
+        with:
+          filename: activity.svg
+          token: ${{ secrets.ACTIONS_TOKEN }}
+          base: ""
+          plugin_activity: no
+          plugin_activity_limit: 3
+          plugin_activity_load: 999
+          plugin_activity_days: 10
+          plugin_activity_visibility: all
+          plugin_activity_filter: all
+      # - name: License Activity
       #   uses: lowlighter/metrics@latest
       #   with:
-      #     filename: followers.svg
+      #     filename: licenses.svg
       #     token: ${{ secrets.ACTIONS_TOKEN }}
       #     base: ""
-      #     plugin_people: yes
-      #     plugin_people_limit: 100
-      #     plugin_people_types: followers
-      # - name: Recent Activity
+      #     plugin_licenses: yes
+      #     repo: ${{ github.repository }}
+      #     plugin_licenses_setup: npm ci
+      - name: Achivements
+        uses: lowlighter/metrics@latest
+        with:
+          filename: achievements.svg
+          token: ${{ secrets.ACTIONS_TOKEN }}
+          base: ""
+          plugin_achievements: yes
+          plugin_achievements_display: compact
+          plugin_achievements_threshold: X
+      # - name: GitHub Skyline
       #   uses: lowlighter/metrics@latest
       #   with:
-      #     filename: activity.svg
-      #     token: ${{ secrets.ACTIONS_TOKEN }}
-      #     base: ""
-      #     plugin_activity: no
-      #     plugin_activity_limit: 3
-      #     plugin_activity_load: 999
-      #     plugin_activity_days: 10
-      #     plugin_activity_visibility: all
-      #     plugin_activity_filter: all
-      # # - name: License Activity
-      # #   uses: lowlighter/metrics@latest
-      # #   with:
-      # #     filename: licenses.svg
-      # #     token: ${{ secrets.ACTIONS_TOKEN }}
-      # #     base: ""
-      # #     plugin_licenses: yes
-      # #     repo: ${{ github.repository }}
-      # #     plugin_licenses_setup: npm ci
-      # - name: Achivements
-      #   uses: lowlighter/metrics@latest
-      #   with:
-      #     filename: achievements.svg
-      #     token: ${{ secrets.ACTIONS_TOKEN }}
-      #     base: ""
-      #     plugin_achievements: yes
-      #     plugin_achievements_display: compact
-      #     plugin_achievements_threshold: X
-      # # - name: GitHub Skyline
-      # #   uses: lowlighter/metrics@latest
-      # #   with:
-      # #     filename: skyline.svg
-      # #     token: NOT_NEEDED
-      # #     base: ""
-      # #     plugin_skyline: yes
-      # #     plugin_skyline_frames: 5
-      # #     plugin_skyline_quality: 0.5
-      # #     plugin_skyline_compatibility: no
-      # - name: Website
-      #   uses: lowlighter/metrics@latest
-      #   with:
-      #     filename: website.svg
+      #     filename: skyline.svg
       #     token: NOT_NEEDED
       #     base: ""
-      #     plugin_pagespeed: yes
-      #     plugin_pagespeed_screenshot: no
-      #     plugin_pagespeed_token: ${{ secrets.PAGESPEED_TOKEN }}
-      #     plugin_pagespeed_url: https://sabyasachi-seal.github.io/
-      # - name: Overall Account Summary
-      #   uses: lowlighter/metrics@latest
-      #   with:
-      #     filename: account_summary.svg
-      #     token: ${{ secrets.ACTIONS_TOKEN }}
-      #     base: header, repositories
-      #     plugin_traffic: yes
+      #     plugin_skyline: yes
+      #     plugin_skyline_frames: 5
+      #     plugin_skyline_quality: 0.5
+      #     plugin_skyline_compatibility: no
+      - name: Website
+        uses: lowlighter/metrics@latest
+        with:
+          filename: website.svg
+          token: NOT_NEEDED
+          base: ""
+          plugin_pagespeed: yes
+          plugin_pagespeed_screenshot: no
+          plugin_pagespeed_token: ${{ secrets.PAGESPEED_TOKEN }}
+          plugin_pagespeed_url: https://sabyasachi-seal.github.io/
+      - name: Overall Account Summary
+        uses: lowlighter/metrics@latest
+        with:
+          filename: account_summary.svg
+          token: ${{ secrets.ACTIONS_TOKEN }}
+          base: header, repositories
+          plugin_traffic: yes
 
       - name: Youtube Stats
         uses: DenverCoder1/github-readme-youtube-cards@main
         with:
-          channel_id: PLQC9gmr8t9R9tUE68IHZwpMeR8-DgqJkT
+          channel_id: UC5VBAKQWkYdrALsQ_W8woCg
           background_color: "#0d1117"
           title_color: "#39FF14"
           stats_color: "#dedede"
