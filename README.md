@@ -153,8 +153,8 @@
 <h2></h2>
 <div align=center>
    <a href="https://github.com/Sabyasachi-Seal">
-   <img width=49% src="https://raw.githubusercontent.com/Sabyasachi-Seal/Sabyasachi-Seal/main/achievements.svg" />
-   <img width=49% src="https://raw.githubusercontent.com/Sabyasachi-Seal/Sabyasachi-Seal/main/account_summary.svg" />
+   <img width=40% src="https://raw.githubusercontent.com/Sabyasachi-Seal/Sabyasachi-Seal/main/achievements.svg" />
+   <img width=59% src="https://raw.githubusercontent.com/Sabyasachi-Seal/Sabyasachi-Seal/main/account_summary.svg" />
    </a>
 </div>
 <div align=center>
