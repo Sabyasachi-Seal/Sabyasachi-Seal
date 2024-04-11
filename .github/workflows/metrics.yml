@@ -106,16 +106,6 @@ jobs:
           base: header, repositories
           plugin_traffic: yes
 
-      - name: Youtube Stats
-        uses: DenverCoder1/github-readme-youtube-cards@main
-        with:
-          channel_id: UC5VBAKQWkYdrALsQ_W8woCg
-          background_color: "#0d1117"
-          title_color: "#39FF14"
-          stats_color: "#dedede"
-          commit_message: "(ci): Update YouTube cards"
-          readme_path: README.md
-
 
       
 
