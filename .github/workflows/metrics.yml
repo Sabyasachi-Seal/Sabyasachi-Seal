@@ -88,6 +88,7 @@ jobs:
           plugin_skyline_frames: 60
           plugin_skyline_quality: 0.5
           plugin_skyline_compatibility: no
+          plugin_skyline_year: 2024
       - name: Website
         uses: lowlighter/metrics@latest
         with:
