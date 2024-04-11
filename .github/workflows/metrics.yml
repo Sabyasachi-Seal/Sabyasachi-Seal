@@ -78,17 +78,16 @@ jobs:
           plugin_achievements: yes
           plugin_achievements_display: compact
           plugin_achievements_threshold: X
-      - name: GitHub Skyline
-        uses: lowlighter/metrics@latest
-        with:
-          filename: skyline.svg
-          token: NOT_NEEDED
-          base: ""
-          plugin_skyline: yes
-          plugin_skyline_frames: 5
-          plugin_skyline_quality: 0.5
-          plugin_skyline_compatibility: no
-          # plugin_skyline_year: 2024
+      # - name: GitHub Skyline
+      #   uses: lowlighter/metrics@latest
+      #   with:
+      #     filename: skyline.svg
+      #     token: NOT_NEEDED
+      #     base: ""
+      #     plugin_skyline: yes
+      #     plugin_skyline_frames: 5
+      #     plugin_skyline_quality: 0.5
+      #     plugin_skyline_compatibility: no
       - name: Website
         uses: lowlighter/metrics@latest
         with:
