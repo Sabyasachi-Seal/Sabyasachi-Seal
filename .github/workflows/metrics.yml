@@ -102,7 +102,7 @@ jobs:
         uses: lowlighter/metrics@latest
         with:
           filename: account_summary.svg
-          token: ${{ secrets.METRICS_TOKEN }}
+          token: ${{ secrets.ACTIONS_TOKEN }}
           base: header, repositories
           plugin_lines: yes
 
