@@ -98,6 +98,13 @@ jobs:
           plugin_pagespeed_screenshot: no
           plugin_pagespeed_token: ${{ secrets.PAGESPEED_TOKEN }}
           plugin_pagespeed_url: https://sabyasachi-seal.github.io/
+      - name: Overall Account Summary
+        uses: lowlighter/metrics@latest
+        with:
+          filename: account_summary.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: header, repositories
+          plugin_lines: yes
 
 
       
