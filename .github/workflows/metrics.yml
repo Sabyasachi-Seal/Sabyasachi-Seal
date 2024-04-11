@@ -104,7 +104,7 @@ jobs:
           filename: account_summary.svg
           token: ${{ secrets.ACTIONS_TOKEN }}
           base: header, repositories
-          plugin_lines: yes
+          plugin_traffic: yes
 
 
       
