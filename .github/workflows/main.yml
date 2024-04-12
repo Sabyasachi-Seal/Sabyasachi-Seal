@@ -52,7 +52,7 @@ jobs:
       - name: Pull in community.aws and Medium posts
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
-          feed_list: "https://medium.com/@yoboy907,https://community.aws/@seal"
+          feed_list: "https://medium.com/feed/@yoboy907"
       
       - name: Feed the Snake
         uses: Platane/snk@v3
