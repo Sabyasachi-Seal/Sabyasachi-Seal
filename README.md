@@ -213,7 +213,8 @@
    <a href="[https://www.youtube.com/channel/UC5VBAKQWkYdrALsQ_W8woCg](https://medium.com/@yoboy907)">
    <img width=100% height=100% align="center" alt="Youtube" src="https://readme-typing-svg.herokuapp.com?font=Sora&color=e3d20c&center=true&vCenter=true&width=450%&lines=Maybe+read+some+of+my+blogs+?" />
    </a>
-   
+   <div align=left>
+      
 <!-- BLOG-POST-LIST:START -->
 - [CloudWatch Chronicles: Unleashing the Jedi Mind Tricks of Anomaly Detection](https://medium.com/@yoboy907/unveiling-anomaly-detection-transforming-log-analysis-with-amazon-cloudwatch-491fe8c1113b?source=rss-440d4323ee2------2)
 - [Deploy your Full Stack website with CI/CD in under 5 mins !!! &lpar;Totally Free&rpar;](https://medium.com/@yoboy907/deploy-your-full-stack-website-with-ci-cd-in-under-5-mins-totally-free-cf43063f719b?source=rss-440d4323ee2------2)
@@ -222,6 +223,7 @@
 - [Make a AI Chatbot with AWS || Amazon Lex](https://medium.com/@yoboy907/make-a-ai-chatbot-with-aws-amazon-lex-74ad850171e1?source=rss-440d4323ee2------2)
 <!-- BLOG-POST-LIST:END -->
 
+   </div>
 </div>
 
 
