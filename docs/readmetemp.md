@@ -195,16 +195,36 @@
    </a>
    
 <!-- BEGIN YOUTUBE-CARDS -->
+[![How to use Certificate Generator MLSA](https://ytcards.demolab.com/?id=OUAbqdLDTZQ&title=How+to+use+Certificate+Generator+MLSA&lang=en&timestamp=1712895550&background_color=%230d1117&title_color=%2339FF14&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "How to use Certificate Generator MLSA")](https://www.youtube.com/watch?v=OUAbqdLDTZQ)
 [![Titanfall 2 - Intro Mission Part 1](https://ytcards.demolab.com/?id=Pvw-LnuvfdI&title=Titanfall+2+-+Intro+Mission+Part+1&lang=en&timestamp=1712848277&background_color=%230d1117&title_color=%2339FF14&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Titanfall 2 - Intro Mission Part 1")](https://www.youtube.com/watch?v=Pvw-LnuvfdI)
 [![Insurgency Sandstorm: Getting Ripped](https://ytcards.demolab.com/?id=bISphPGUjvU&title=Insurgency+Sandstorm%3A+Getting+Ripped&lang=en&timestamp=1711870049&background_color=%230d1117&title_color=%2339FF14&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Insurgency Sandstorm: Getting Ripped")](https://www.youtube.com/watch?v=bISphPGUjvU)
 [![Rusty Aim: Insurgency Sandstom](https://ytcards.demolab.com/?id=nZHYnu29QjM&title=Rusty+Aim%3A+Insurgency+Sandstom&lang=en&timestamp=1711214903&background_color=%230d1117&title_color=%2339FF14&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Rusty Aim: Insurgency Sandstom")](https://www.youtube.com/watch?v=nZHYnu29QjM)
 [![Local to Global 101: How to host your app using Azure VMs, NGINX and GitHub](https://ytcards.demolab.com/?id=uw5QqM8VByo&title=Local+to+Global+101%3A+How+to+host+your+app+using+Azure+VMs%2C+NGINX+and+GitHub&lang=en&timestamp=1711179435&background_color=%230d1117&title_color=%2339FF14&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Local to Global 101: How to host your app using Azure VMs, NGINX and GitHub")](https://www.youtube.com/watch?v=uw5QqM8VByo)
 [![Load Balancing with Azure Load Balancer and Azure Virtual Machines](https://ytcards.demolab.com/?id=ClaPSzFWqAs&title=Load+Balancing+with+Azure+Load+Balancer+and+Azure+Virtual+Machines&lang=en&timestamp=1710155429&background_color=%230d1117&title_color=%2339FF14&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Load Balancing with Azure Load Balancer and Azure Virtual Machines")](https://www.youtube.com/watch?v=ClaPSzFWqAs)
-[![Qwiklabs Progress Tracker - Track your pathway completion in GCP](https://ytcards.demolab.com/?id=VJ19jeNiwX8&title=Qwiklabs+Progress+Tracker+-+Track+your+pathway+completion+in+GCP&lang=en&timestamp=1683872504&background_color=%230d1117&title_color=%2339FF14&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Qwiklabs Progress Tracker - Track your pathway completion in GCP")](https://www.youtube.com/watch?v=VJ19jeNiwX8)
 <!-- END YOUTUBE-CARDS -->
 
 </div>
+<div align=center>
+   <a href="https://github.com/Sabyasachi-Seal">
+   <img height=50 width=100% src="https://raw.githubusercontent.com/Sabyasachi-Seal/Sabyasachi-Seal/ouput/divider.gif">
+   </a>
+</div>
+<div align=center>
+   <a href="[https://www.youtube.com/channel/UC5VBAKQWkYdrALsQ_W8woCg](https://medium.com/@yoboy907)">
+   <img width=100% height=100% align="center" alt="Youtube" src="https://readme-typing-svg.herokuapp.com?font=Sora&color=e3d20c&center=true&vCenter=true&width=450%&lines=Maybe+read+some+of+my+blogs+?" />
+   </a>
+   <div align=left>
+      
+<!-- BLOG-POST-LIST:START -->
+- [CloudWatch Chronicles: Unleashing the Jedi Mind Tricks of Anomaly Detection](https://medium.com/@yoboy907/unveiling-anomaly-detection-transforming-log-analysis-with-amazon-cloudwatch-491fe8c1113b?source=rss-440d4323ee2------2)
+- [Deploy your Full Stack website with CI/CD in under 5 mins !!! &lpar;Totally Free&rpar;](https://medium.com/@yoboy907/deploy-your-full-stack-website-with-ci-cd-in-under-5-mins-totally-free-cf43063f719b?source=rss-440d4323ee2------2)
+- [How to integrate Postgres with ERPNext/Frappe &lpar; both Local and Remote &rpar;](https://medium.com/@yoboy907/how-to-integrate-postgres-with-erpnext-frappe-both-local-and-remote-a17885c2472a?source=rss-440d4323ee2------2)
+- [10 AI Tools to make your life 100x easier !](https://medium.com/@yoboy907/10-ai-tools-to-make-your-life-100x-easier-6ec4fbd3f05d?source=rss-440d4323ee2------2)
+- [Make a AI Chatbot with AWS || Amazon Lex](https://medium.com/@yoboy907/make-a-ai-chatbot-with-aws-amazon-lex-74ad850171e1?source=rss-440d4323ee2------2)
+<!-- BLOG-POST-LIST:END -->
 
+   </div>
+</div>
 
 
 <div align=center>
