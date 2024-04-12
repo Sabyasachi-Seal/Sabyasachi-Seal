@@ -204,7 +204,20 @@
 <!-- END YOUTUBE-CARDS -->
 
 </div>
+<div align=center>
+   <a href="https://github.com/Sabyasachi-Seal">
+   <img height=50 width=100% src="https://raw.githubusercontent.com/Sabyasachi-Seal/Sabyasachi-Seal/ouput/divider.gif">
+   </a>
+</div>
+<div align=center>
+   <a href="[https://www.youtube.com/channel/UC5VBAKQWkYdrALsQ_W8woCg](https://medium.com/@yoboy907)">
+   <img width=100% height=100% align="center" alt="Youtube" src="https://readme-typing-svg.herokuapp.com?font=Sora&color=e3d20c&center=true&vCenter=true&width=450%&lines=Maybe+read+some+of+my+blogs+?" />
+   </a>
+   
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
+</div>
 
 
 <div align=center>
