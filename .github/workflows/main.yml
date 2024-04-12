@@ -48,6 +48,11 @@ jobs:
           stats_color: "#dedede"
           commit_message: "(ci): Update YouTube cards"
           readme_path: README.md
+
+      - name: Pull in community.aws and Medium posts
+        uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          feed_list: "https://medium.com/@yoboy907,https://community.aws/@seal"
       
       - name: Feed the Snake
         uses: Platane/snk@v3
