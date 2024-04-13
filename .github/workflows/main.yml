@@ -48,7 +48,8 @@ jobs:
           date_format: "mmm d, yyyy"
           item_exec: |
             post.title = post.title.replace(/\s/g, "+");
-          template: '$newline[![$title](https://ytcards.demolab.com/?id=$videoId&title=$title&background_color=%230d1117&title_color=%2339FF14&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "$title")]($url)'
+            post.date = new Date(date).getTime() / 1000;
+          template: '$newline[![$title](https://ytcards.demolab.com/?id=$videoId&title=$title&background_color=%230d1117&title_color=%2339FF14&timestamp=$date&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "$title")]($url)'
 
       - name: Pull in Medium posts
         uses: gautamkrishnar/blog-post-workflow@v1
