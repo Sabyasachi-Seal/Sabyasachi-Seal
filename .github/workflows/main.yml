@@ -54,7 +54,7 @@ jobs:
         with:
           feed_list: "https://medium.com/feed/@yoboy907"
           feed_names: "Medium"
-          template: "<tr><td>$title$randomEmoji(💯,🔥,💫,🚀,🌮)</td><td><a href=$url>$feedName</a></td><td><code>$category</code></td></tr>$newline"
+          template: "<tr><td>$title$randomEmoji(💯,🔥,💫,🚀,🌮)</td><td><a href=$url>$feedName</a></td><td><code>$categories</code></td></tr>$newline"
       
       - name: Feed the Snake
         uses: Platane/snk@v3
