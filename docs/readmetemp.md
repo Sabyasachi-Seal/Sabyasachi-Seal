@@ -195,11 +195,11 @@
    </a>
    
 <!-- YOUTUBE:START -->
-[![Local to Global 101: How to host your app using Azure VMs, NGINX and GitHub](https://ytcards.demolab.com/?id=uw5QqM8VByo&title=post.modified_title&background_color=%230d1117&title_color=%2339FF14&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Local to Global 101: How to host your app using Azure VMs, NGINX and GitHub")](https://www.youtube.com/watch?v=uw5QqM8VByo)
+[![Local+to+Global+101:+How+to+host+your+app+using+Azure+VMs,+NGINX+and+GitHub](https://ytcards.demolab.com/?id=uw5QqM8VByo&title=Local+to+Global+101:+How+to+host+your+app+using+Azure+VMs,+NGINX+and+GitHub&background_color=%230d1117&title_color=%2339FF14&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Local+to+Global+101:+How+to+host+your+app+using+Azure+VMs,+NGINX+and+GitHub")](https://www.youtube.com/watch?v=uw5QqM8VByo)
 
-[![Load Balancing with Azure Load Balancer and Azure Virtual Machines](https://ytcards.demolab.com/?id=ClaPSzFWqAs&title=post.modified_title&background_color=%230d1117&title_color=%2339FF14&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Load Balancing with Azure Load Balancer and Azure Virtual Machines")](https://www.youtube.com/watch?v=ClaPSzFWqAs)
+[![Load+Balancing+with+Azure+Load+Balancer+and+Azure+Virtual+Machines](https://ytcards.demolab.com/?id=ClaPSzFWqAs&title=Load+Balancing+with+Azure+Load+Balancer+and+Azure+Virtual+Machines&background_color=%230d1117&title_color=%2339FF14&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Load+Balancing+with+Azure+Load+Balancer+and+Azure+Virtual+Machines")](https://www.youtube.com/watch?v=ClaPSzFWqAs)
 
-[![Azure Fundamentals and Roadmap to AZ 900](https://ytcards.demolab.com/?id=8mgj0Qxw9ug&title=post.modified_title&background_color=%230d1117&title_color=%2339FF14&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Azure Fundamentals and Roadmap to AZ 900")](https://www.youtube.com/watch?v=8mgj0Qxw9ug)
+[![Azure+Fundamentals+and+Roadmap+to+AZ+900](https://ytcards.demolab.com/?id=8mgj0Qxw9ug&title=Azure+Fundamentals+and+Roadmap+to+AZ+900&background_color=%230d1117&title_color=%2339FF14&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Azure+Fundamentals+and+Roadmap+to+AZ+900")](https://www.youtube.com/watch?v=8mgj0Qxw9ug)
 <!-- YOUTUBE:END -->
 
 </div>
