@@ -53,6 +53,7 @@ jobs:
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
           feed_list: "https://medium.com/feed/@yoboy907"
+          template: "<tr><td>$title</td><td>$url</td></tr>"
       
       - name: Feed the Snake
         uses: Platane/snk@v3
