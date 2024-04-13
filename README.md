@@ -194,14 +194,9 @@
    <img width=100% height=100% align="center" alt="Youtube" src="https://readme-typing-svg.herokuapp.com?font=Sora&color=e3d20c&center=true&vCenter=true&width=450%&lines=Watch+some+of+my+videos+?" />
    </a>
    
-<!-- BEGIN YOUTUBE-CARDS -->
-[![How to use Certificate Generator MLSA](https://ytcards.demolab.com/?id=OUAbqdLDTZQ&title=How+to+use+Certificate+Generator+MLSA&lang=en&timestamp=1712895550&background_color=%230d1117&title_color=%2339FF14&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "How to use Certificate Generator MLSA")](https://www.youtube.com/watch?v=OUAbqdLDTZQ)
-[![Titanfall 2 - Intro Mission Part 1](https://ytcards.demolab.com/?id=Pvw-LnuvfdI&title=Titanfall+2+-+Intro+Mission+Part+1&lang=en&timestamp=1712848277&background_color=%230d1117&title_color=%2339FF14&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Titanfall 2 - Intro Mission Part 1")](https://www.youtube.com/watch?v=Pvw-LnuvfdI)
-[![Insurgency Sandstorm: Getting Ripped](https://ytcards.demolab.com/?id=bISphPGUjvU&title=Insurgency+Sandstorm%3A+Getting+Ripped&lang=en&timestamp=1711870049&background_color=%230d1117&title_color=%2339FF14&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Insurgency Sandstorm: Getting Ripped")](https://www.youtube.com/watch?v=bISphPGUjvU)
-[![Rusty Aim: Insurgency Sandstom](https://ytcards.demolab.com/?id=nZHYnu29QjM&title=Rusty+Aim%3A+Insurgency+Sandstom&lang=en&timestamp=1711214903&background_color=%230d1117&title_color=%2339FF14&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Rusty Aim: Insurgency Sandstom")](https://www.youtube.com/watch?v=nZHYnu29QjM)
-[![Local to Global 101: How to host your app using Azure VMs, NGINX and GitHub](https://ytcards.demolab.com/?id=uw5QqM8VByo&title=Local+to+Global+101%3A+How+to+host+your+app+using+Azure+VMs%2C+NGINX+and+GitHub&lang=en&timestamp=1711179435&background_color=%230d1117&title_color=%2339FF14&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Local to Global 101: How to host your app using Azure VMs, NGINX and GitHub")](https://www.youtube.com/watch?v=uw5QqM8VByo)
-[![Load Balancing with Azure Load Balancer and Azure Virtual Machines](https://ytcards.demolab.com/?id=ClaPSzFWqAs&title=Load+Balancing+with+Azure+Load+Balancer+and+Azure+Virtual+Machines&lang=en&timestamp=1710155429&background_color=%230d1117&title_color=%2339FF14&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Load Balancing with Azure Load Balancer and Azure Virtual Machines")](https://www.youtube.com/watch?v=ClaPSzFWqAs)
-<!-- END YOUTUBE-CARDS -->
+<!-- YOUTUBE:START -->
+
+<!-- YOUTUBE:END -->
 
 </div>
 <div align=center>
