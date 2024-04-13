@@ -47,8 +47,8 @@ jobs:
           custom_tags: "channelId/yt:channelId/,videoId/yt:videoId/"
           date_format: "mmm d, yyyy"
           item_exec: |
-            post.modified_title = post.title.replace(/\s/g, "+");
-          template: '$newline[![$title](https://ytcards.demolab.com/?id=$videoId&title=post.modified_title&background_color=%230d1117&title_color=%2339FF14&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "$title")]($url)$newline'
+            post.title = post.title.replace(/\s/g, "+");
+          template: '$newline[![$title](https://ytcards.demolab.com/?id=$videoId&title=$title&background_color=%230d1117&title_color=%2339FF14&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "$title")]($url)$newline'
 
       - name: Pull in Medium posts
         uses: gautamkrishnar/blog-post-workflow@v1
