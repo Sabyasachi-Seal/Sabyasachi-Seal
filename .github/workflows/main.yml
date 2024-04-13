@@ -47,8 +47,7 @@ jobs:
           custom_tags: "channelId/yt:channelId/,videoId/yt:videoId/,publishDate/published/"
           item_exec: |
             post.title = post.title.replace(/\s/g, "+");
-            const parsedDate = new Date(post.publishDate);
-            post.date = Math.floor(parsedDate.getTime() / 1000);
+            post.date = Math.floor(Date.parse(post.publishDate) / 1000);
           template: '$newline[![$title](https://ytcards.demolab.com/?id=$videoId&title=$title&background_color=%230d1117&title_color=%2339FF14&timestamp=$date&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "$title")]($url)'
 
       - name: Pull in Medium posts
