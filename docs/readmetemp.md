@@ -194,9 +194,12 @@
    <img width=100% height=100% align="center" alt="Youtube" src="https://readme-typing-svg.herokuapp.com?font=Sora&color=e3d20c&center=true&vCenter=true&width=450%&lines=Watch+some+of+my+videos+?" />
    </a>
    
-<!-- YOUTUBE:START -->[![Local to Global 101: How to host your app using Azure VMs, NGINX and GitHub](https://ytcards.demolab.com/?id=uw5QqM8VByo&title=$modified_title&background_color=%230d1117&title_color=%2339FF14&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Local to Global 101: How to host your app using Azure VMs, NGINX and GitHub")](https://www.youtube.com/watch?v=uw5QqM8VByo)
-[![Load Balancing with Azure Load Balancer and Azure Virtual Machines](https://ytcards.demolab.com/?id=ClaPSzFWqAs&title=$modified_title&background_color=%230d1117&title_color=%2339FF14&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Load Balancing with Azure Load Balancer and Azure Virtual Machines")](https://www.youtube.com/watch?v=ClaPSzFWqAs)
-[![Azure Fundamentals and Roadmap to AZ 900](https://ytcards.demolab.com/?id=8mgj0Qxw9ug&title=$modified_title&background_color=%230d1117&title_color=%2339FF14&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Azure Fundamentals and Roadmap to AZ 900")](https://www.youtube.com/watch?v=8mgj0Qxw9ug)
+<!-- YOUTUBE:START -->
+[![Local to Global 101: How to host your app using Azure VMs, NGINX and GitHub](https://ytcards.demolab.com/?id=uw5QqM8VByo&title=post.modified_title&background_color=%230d1117&title_color=%2339FF14&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Local to Global 101: How to host your app using Azure VMs, NGINX and GitHub")](https://www.youtube.com/watch?v=uw5QqM8VByo)
+
+[![Load Balancing with Azure Load Balancer and Azure Virtual Machines](https://ytcards.demolab.com/?id=ClaPSzFWqAs&title=post.modified_title&background_color=%230d1117&title_color=%2339FF14&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Load Balancing with Azure Load Balancer and Azure Virtual Machines")](https://www.youtube.com/watch?v=ClaPSzFWqAs)
+
+[![Azure Fundamentals and Roadmap to AZ 900](https://ytcards.demolab.com/?id=8mgj0Qxw9ug&title=post.modified_title&background_color=%230d1117&title_color=%2339FF14&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Azure Fundamentals and Roadmap to AZ 900")](https://www.youtube.com/watch?v=8mgj0Qxw9ug)
 <!-- YOUTUBE:END -->
 
 </div>
