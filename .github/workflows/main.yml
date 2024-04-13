@@ -40,16 +40,15 @@ jobs:
           path: .
 
       - name: Youtube Stats
-        uses: DenverCoder1/github-readme-youtube-cards@main
+        uses: gautamkrishnar/blog-post-workflow@master
         with:
-          channel_id: UC5VBAKQWkYdrALsQ_W8woCg
-          background_color: "#0d1117"
-          title_color: "#39FF14"
-          stats_color: "#dedede"
-          commit_message: "(ci): Update YouTube cards"
-          readme_path: README.md
+          comment_tag_name: "YOUTUBE"
+          feed_list: "https://www.youtube.com/feeds/videos.xml?playlist_id=PLQC9gmr8t9R9tUE68IHZwpMeR8-DgqJkT"
+          custom_tags: "channelId/yt:channelId/,videoId/yt:videoId/"
+          date_format: "mmm d, yyyy"
+          template: '[![$title](https://ytcards.demolab.com/?id=$videoId&title=${title// /+}&background_color=%230d1117&title_color=%2339FF14&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "$title")]($url)$newline'
 
-      - name: Pull in community.aws and Medium posts
+      - name: Pull in Medium posts
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
           feed_list: "https://medium.com/feed/@yoboy907"
