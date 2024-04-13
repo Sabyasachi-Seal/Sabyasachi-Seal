@@ -1527,11 +1527,11 @@ body,
       <th>Link</th>
       <th>Categories</th>
    </tr>
-<!-- BLOG-POST-LIST:START --><tr><td>CloudWatch Chronicles: Unleashing the Jedi Mind Tricks of Anomaly Detection💫</td><td><a href=https://medium.com/@yoboy907/unveiling-anomaly-detection-transforming-log-analysis-with-amazon-cloudwatch-491fe8c1113b?source=rss-440d4323ee2------2>Medium</a></td><td><code>$category</code></td></tr>
-<tr><td>Deploy your Full Stack website with CI/CD in under 5 mins !!! &lpar;Totally Free&rpar;🚀</td><td><a href=https://medium.com/@yoboy907/deploy-your-full-stack-website-with-ci-cd-in-under-5-mins-totally-free-cf43063f719b?source=rss-440d4323ee2------2>Medium</a></td><td><code>$category</code></td></tr>
-<tr><td>How to integrate Postgres with ERPNext/Frappe &lpar; both Local and Remote &rpar;💯</td><td><a href=https://medium.com/@yoboy907/how-to-integrate-postgres-with-erpnext-frappe-both-local-and-remote-a17885c2472a?source=rss-440d4323ee2------2>Medium</a></td><td><code>$category</code></td></tr>
-<tr><td>10 AI Tools to make your life 100x easier !🚀</td><td><a href=https://medium.com/@yoboy907/10-ai-tools-to-make-your-life-100x-easier-6ec4fbd3f05d?source=rss-440d4323ee2------2>Medium</a></td><td><code>$category</code></td></tr>
-<tr><td>Make a AI Chatbot with AWS || Amazon Lex🚀</td><td><a href=https://medium.com/@yoboy907/make-a-ai-chatbot-with-aws-amazon-lex-74ad850171e1?source=rss-440d4323ee2------2>Medium</a></td><td><code>$category</code></td></tr>
+<!-- BLOG-POST-LIST:START --><tr><td>CloudWatch Chronicles: Unleashing the Jedi Mind Tricks of Anomaly Detection💫</td><td><a href=https://medium.com/@yoboy907/unveiling-anomaly-detection-transforming-log-analysis-with-amazon-cloudwatch-491fe8c1113b?source=rss-440d4323ee2------2>Medium</a></td><td><code>machine-learning, technology, artificial-intelligence, cloud-computing, aws</code></td></tr>
+<tr><td>Deploy your Full Stack website with CI/CD in under 5 mins !!! &lpar;Totally Free&rpar;🚀</td><td><a href=https://medium.com/@yoboy907/deploy-your-full-stack-website-with-ci-cd-in-under-5-mins-totally-free-cf43063f719b?source=rss-440d4323ee2------2>Medium</a></td><td><code>free, cloud-computing, open-source, engineering, web-development</code></td></tr>
+<tr><td>How to integrate Postgres with ERPNext/Frappe &lpar; both Local and Remote &rpar;💯</td><td><a href=https://medium.com/@yoboy907/how-to-integrate-postgres-with-erpnext-frappe-both-local-and-remote-a17885c2472a?source=rss-440d4323ee2------2>Medium</a></td><td><code>cloud-computing, erpnext, python, aws, postgresql</code></td></tr>
+<tr><td>10 AI Tools to make your life 100x easier !🚀</td><td><a href=https://medium.com/@yoboy907/10-ai-tools-to-make-your-life-100x-easier-6ec4fbd3f05d?source=rss-440d4323ee2------2>Medium</a></td><td><code>social-media, money, programming, productivity, ai</code></td></tr>
+<tr><td>Make a AI Chatbot with AWS || Amazon Lex🚀</td><td><a href=https://medium.com/@yoboy907/make-a-ai-chatbot-with-aws-amazon-lex-74ad850171e1?source=rss-440d4323ee2------2>Medium</a></td><td><code>aws, amazon, chatbots, artificial-intelligence, website</code></td></tr>
 <!-- BLOG-POST-LIST:END -->
 
 </table>
@@ -1634,4 +1634,4 @@ body,
    width=100%
    height=200/> -->
 
-</div></div></body></html><!--2024-04-13 04:17:46-->
+</div></div></body></html><!--2024-04-13 04:20:56-->
