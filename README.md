@@ -214,9 +214,28 @@
    <img width=100% height=100% align="center" alt="Youtube" src="https://readme-typing-svg.herokuapp.com?font=Sora&color=%3452eb&center=true&vCenter=true&width=450%&lines=Maybe+read+some+of+my+blogs+?" />
    </a>
    <div align=left>
-      
-<!-- BLOG-POST-LIST:START --><tr><td>CloudWatch Chronicles: Unleashing the Jedi Mind Tricks of Anomaly Detection</td><td>https://medium.com/@yoboy907/unveiling-anomaly-detection-transforming-log-analysis-with-amazon-cloudwatch-491fe8c1113b?source=rss-440d4323ee2------2</td></tr><tr><td>Deploy your Full Stack website with CI/CD in under 5 mins !!! &lpar;Totally Free&rpar;</td><td>https://medium.com/@yoboy907/deploy-your-full-stack-website-with-ci-cd-in-under-5-mins-totally-free-cf43063f719b?source=rss-440d4323ee2------2</td></tr><tr><td>How to integrate Postgres with ERPNext/Frappe &lpar; both Local and Remote &rpar;</td><td>https://medium.com/@yoboy907/how-to-integrate-postgres-with-erpnext-frappe-both-local-and-remote-a17885c2472a?source=rss-440d4323ee2------2</td></tr><tr><td>10 AI Tools to make your life 100x easier !</td><td>https://medium.com/@yoboy907/10-ai-tools-to-make-your-life-100x-easier-6ec4fbd3f05d?source=rss-440d4323ee2------2</td></tr><tr><td>Make a AI Chatbot with AWS || Amazon Lex</td><td>https://medium.com/@yoboy907/make-a-ai-chatbot-with-aws-amazon-lex-74ad850171e1?source=rss-440d4323ee2------2</td></tr><!-- BLOG-POST-LIST:END -->
+<table>
+   <tr>
+      <th>Title</th>
+      <th>Link</th>
+      <th>Categories</th>
+   </tr>
+<!-- BLOG-POST-LIST:START -->
+<tr>
+   <td>CloudWatch Chronicles: Unleashing the Jedi Mind Tricks of Anomaly Detection</td>
+   <td>
+      <a href="https://medium.com/@yoboy907/unveiling-anomaly-detection-transforming-log-analysis-with-amazon-cloudwatch-491fe8c1113b?source=rss-440d4323ee2------2">Medium</a>
+  
+   </td>
+</tr><tr><td>Deploy your Full Stack website with CI/CD in under 5 mins !!! &lpar;Totally Free&rpar;
+</td><td>https://medium.com/@yoboy907/deploy-your-full-stack-website-with-ci-cd-in-under-5-mins-totally-free-cf43063f719b?source=rss-440d4323ee2------2
+</td></tr><tr><td>How to integrate Postgres with ERPNext/Frappe &lpar; both Local and Remote &rpar;</td><td>https://medium.com/@yoboy907/how-to-integrate-postgres-with-erpnext-frappe-both-local-and-remote-a17885c2472a?source=rss-440d4323ee2------2
+</td></tr><tr><td>10 AI Tools to make your life 100x easier !</td><td>https://medium.com/@yoboy907/10-ai-tools-to-make-your-life-100x-easier-6ec4fbd3f05d?source=rss-440d4323ee2------2
+</td></tr><tr><td>Make a AI Chatbot with AWS || Amazon Lex
+</td><td>https://medium.com/@yoboy907/make-a-ai-chatbot-with-aws-amazon-lex-74ad850171e1?source=rss-440d4323ee2------2</td></tr>
+<!-- BLOG-POST-LIST:END -->
 
+</table>
    </div>
 </div>
 
