@@ -45,7 +45,6 @@ jobs:
           comment_tag_name: "YOUTUBE"
           feed_list: "https://www.youtube.com/feeds/videos.xml?playlist_id=PLQC9gmr8t9R9tUE68IHZwpMeR8-DgqJkT"
           custom_tags: "channelId/yt:channelId/,videoId/yt:videoId/"
-          date_format: "mmm d, yyyy"
           item_exec: |
             post.title = post.title.replace(/\s/g, "+");
             post.date = new Date(post.date).getTime() / 1000;
