@@ -211,7 +211,7 @@
 </div>
 <div align=center>
    <a href="[https://www.youtube.com/channel/UC5VBAKQWkYdrALsQ_W8woCg](https://medium.com/@yoboy907)">
-   <img width=100% height=100% align="center" alt="Youtube" src="https://readme-typing-svg.herokuapp.com?font=Sora&color=e3d20c&center=true&vCenter=true&width=450%&lines=Maybe+read+some+of+my+blogs+?" />
+   <img width=100% height=100% align="center" alt="Youtube" src="https://readme-typing-svg.herokuapp.com?font=Sora&color=%3452eb&center=true&vCenter=true&width=450%&lines=Maybe+read+some+of+my+blogs+?" />
    </a>
    <div align=left>
       
