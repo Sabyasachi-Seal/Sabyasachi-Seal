@@ -215,13 +215,7 @@
    </a>
    <div align=left>
       
-<!-- BLOG-POST-LIST:START -->
-- [CloudWatch Chronicles: Unleashing the Jedi Mind Tricks of Anomaly Detection](https://medium.com/@yoboy907/unveiling-anomaly-detection-transforming-log-analysis-with-amazon-cloudwatch-491fe8c1113b?source=rss-440d4323ee2------2)
-- [Deploy your Full Stack website with CI/CD in under 5 mins !!! &lpar;Totally Free&rpar;](https://medium.com/@yoboy907/deploy-your-full-stack-website-with-ci-cd-in-under-5-mins-totally-free-cf43063f719b?source=rss-440d4323ee2------2)
-- [How to integrate Postgres with ERPNext/Frappe &lpar; both Local and Remote &rpar;](https://medium.com/@yoboy907/how-to-integrate-postgres-with-erpnext-frappe-both-local-and-remote-a17885c2472a?source=rss-440d4323ee2------2)
-- [10 AI Tools to make your life 100x easier !](https://medium.com/@yoboy907/10-ai-tools-to-make-your-life-100x-easier-6ec4fbd3f05d?source=rss-440d4323ee2------2)
-- [Make a AI Chatbot with AWS || Amazon Lex](https://medium.com/@yoboy907/make-a-ai-chatbot-with-aws-amazon-lex-74ad850171e1?source=rss-440d4323ee2------2)
-<!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START --><tr><td>CloudWatch Chronicles: Unleashing the Jedi Mind Tricks of Anomaly Detection</td><td>https://medium.com/@yoboy907/unveiling-anomaly-detection-transforming-log-analysis-with-amazon-cloudwatch-491fe8c1113b?source=rss-440d4323ee2------2</td></tr><tr><td>Deploy your Full Stack website with CI/CD in under 5 mins !!! &lpar;Totally Free&rpar;</td><td>https://medium.com/@yoboy907/deploy-your-full-stack-website-with-ci-cd-in-under-5-mins-totally-free-cf43063f719b?source=rss-440d4323ee2------2</td></tr><tr><td>How to integrate Postgres with ERPNext/Frappe &lpar; both Local and Remote &rpar;</td><td>https://medium.com/@yoboy907/how-to-integrate-postgres-with-erpnext-frappe-both-local-and-remote-a17885c2472a?source=rss-440d4323ee2------2</td></tr><tr><td>10 AI Tools to make your life 100x easier !</td><td>https://medium.com/@yoboy907/10-ai-tools-to-make-your-life-100x-easier-6ec4fbd3f05d?source=rss-440d4323ee2------2</td></tr><tr><td>Make a AI Chatbot with AWS || Amazon Lex</td><td>https://medium.com/@yoboy907/make-a-ai-chatbot-with-aws-amazon-lex-74ad850171e1?source=rss-440d4323ee2------2</td></tr><!-- BLOG-POST-LIST:END -->
 
    </div>
 </div>
