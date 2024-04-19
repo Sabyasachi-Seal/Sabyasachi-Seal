@@ -96,7 +96,7 @@
 </a>
 <br>
 <a href="https://github.com/Sabyasachi-Seal">
-<img width=45% height=40% src="http://profileviews.azurewebsites.net/"/>
+<img width=45% height=40% src="https://komarev.com/ghpvc/?username=Sabyasachi-Seal&style=for-the-badge&color=blueviolet"/>
 </a>
 <br>
 <a href="https://www.linkedin.com/in/sabyasachi-seal-4461711bb/">
