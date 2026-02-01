@@ -218,11 +218,11 @@
       <th>Link</th>
       <th>Categories</th>
    </tr>
-<!-- BLOG-POST-LIST:START --><tr><td>Dodging Downtime with AWS DevOps Agent💫</td><td><a href=https://medium.com/@yoboy907/dodging-downtime-with-aws-devops-agent-b1a8a96ec9f5?source=rss-440d4323ee2------2>Medium</a></td><td><code>aws, outage, aws-devops-agent, devops</code></td></tr>
-<tr><td>Developing Self-Healing and Auto-Maintaining EC2 Instances Like a Chill Guy🚀</td><td><a href=https://medium.com/@yoboy907/developing-self-healing-and-auto-maintaining-ec2-instances-like-a-chill-guy-65d8959576b2?source=rss-440d4323ee2------2>Medium</a></td><td><code>devops, cloud-computing, technology, automation, aws</code></td></tr>
-<tr><td>How to Brick a Billion Devices: A Microsoft-CrowdStrike Symphony💯</td><td><a href=https://medium.com/@yoboy907/how-to-brick-a-billion-devices-a-microsoft-crowdstrike-symphony-73dae61779bb?source=rss-440d4323ee2------2>Medium</a></td><td><code>airlines, information-technology, microsoft, windows, healthcare</code></td></tr>
+<!-- BLOG-POST-LIST:START --><tr><td>Bedrock AgentCore: Production Agents, Zero Sweat💫</td><td><a href=https://medium.com/@yoboy907/bedrock-agentcore-production-agents-zero-sweat-463857edcb4c?source=rss-440d4323ee2------2>Medium</a></td><td><code>artificial-intelligence, aws, ai, amazon-bedrock</code></td></tr>
+<tr><td>Dodging Downtime with AWS DevOps Agent🚀</td><td><a href=https://medium.com/@yoboy907/dodging-downtime-with-aws-devops-agent-b1a8a96ec9f5?source=rss-440d4323ee2------2>Medium</a></td><td><code>aws, outage, aws-devops-agent, devops</code></td></tr>
+<tr><td>Developing Self-Healing and Auto-Maintaining EC2 Instances Like a Chill Guy💯</td><td><a href=https://medium.com/@yoboy907/developing-self-healing-and-auto-maintaining-ec2-instances-like-a-chill-guy-65d8959576b2?source=rss-440d4323ee2------2>Medium</a></td><td><code>devops, cloud-computing, technology, automation, aws</code></td></tr>
+<tr><td>How to Brick a Billion Devices: A Microsoft-CrowdStrike Symphony🚀</td><td><a href=https://medium.com/@yoboy907/how-to-brick-a-billion-devices-a-microsoft-crowdstrike-symphony-73dae61779bb?source=rss-440d4323ee2------2>Medium</a></td><td><code>airlines, information-technology, microsoft, windows, healthcare</code></td></tr>
 <tr><td>CloudWatch Chronicles: Unleashing the Jedi Mind Tricks of Anomaly Detection🚀</td><td><a href=https://medium.com/@yoboy907/unveiling-anomaly-detection-transforming-log-analysis-with-amazon-cloudwatch-491fe8c1113b?source=rss-440d4323ee2------2>Medium</a></td><td><code>machine-learning, technology, artificial-intelligence, cloud-computing, aws</code></td></tr>
-<tr><td>Deploy your Full Stack website with CI/CD in under 5 mins !!! &lpar;Totally Free&rpar;🚀</td><td><a href=https://medium.com/@yoboy907/deploy-your-full-stack-website-with-ci-cd-in-under-5-mins-totally-free-cf43063f719b?source=rss-440d4323ee2------2>Medium</a></td><td><code>free, cloud-computing, open-source, engineering, web-development</code></td></tr>
 <!-- BLOG-POST-LIST:END -->
 
 </table>
